@@ -1,6 +1,6 @@
 @GFL-UNIT-DEFY-NAME=忤逆小队
 @GFL-UNIT-DEFY-DESC=由新型战术人形组成的精英小队，得名于其在战场上高度自主的行动能力。她们也是新苏军所有班组中独一无二的最高战力。
-@#GFL-UNIT-DEFY-NAME-RND=Task Force DEFY
+@#GFL-UNIT-DEFY-NAME-RND=忤逆小队
 
 @DOLL-AK15-NAME=威玛西娜
 @DOLL-AK15-DESC=A girl who looks quite vicious, she's taller than most other Dolls. She's serious and prioritizes efficiency in her words and deeds. She gives people the impression of lacking emotion, but her wrath is frightening.
@@ -10,7 +10,7 @@
 @DOLL-AN94-NAME=埃芙
 @DOLL-AN94-DESC=A Doll from the Neo-Soviet Union’s Bureau of State Security and the prototype for the Wolf Pack Project, now leader of Task Force DEFY. Ten years ago, she helped the Commander to complete the decapitation operation in Frankfurt, then signed an agreement of conditional freedom of action with StateSec. She spent the last ten years countering Paradeus activities in the Yellow Zone. After becoming the leader of DEFY, she’s taken over her former partner as the new alpha wolf, earned the respect of her squad members and became better at socializing. What she wants is for Task Force DEFY to endure, and to unravel Paradeus’ new plot.
 @WEAP-AN94-NAME=AN-94
-@WEAP-AN94-DESC=AN-94，即“1994型尼科诺夫突击步枪”，是伊孜玛什厂为开展于1980-1994年间的“阿巴甘”自动步枪研制选型计划研制的5.45x39mm口径导气式突击步枪，GRAU编号6P33。作为该计划的唯一成果，AN-94获得了与计划同名的外号。
+@WEAP-AN94-DESC=AN-94，即“1994型尼科诺夫突击步枪”，是伊孜玛什厂为开展于1980-1994年间的“阿巴甘”计划研制的5.45x39mm口径导气式突击步枪，GRAU编号6P33。作为该计划的唯一成果，AN-94获得了与计划同名的外号。
 
 @GFL-UNIT-404-NAME=H.I.D.E 404
 @GFL-UNIT-404-DESC=An mercenary unit of tactical dolls specialising in covert operations and electronic warfare, known for completing contracts through any means necessary regardless of collateral damage.
@@ -19,7 +19,7 @@
 @DOLL-HK416-NAME=可露凯
 @DOLL-HK416-DESC=Elegant and composed; a Doll brimming with confidence. She aspires to make every member of H.I.D.E. 404 into an elite. Only those who are familiar with her know the tenderness that lies behind her cold, strong-willed demeanor.
 @WEAP-HK416-NAME=HK416
-@WEAP-HK416-DESC=HK416是黑克勒&科赫公司应美军三角洲老兵拉里·韦克斯要求，与三角洲R&D部门合作研发的突击步枪，旨在缩短M4的同时改进其颇受D-boy诟病的直接导气系统。
+@WEAP-HK416-DESC=HK416是黑克勒&科赫应美军三角洲老兵拉里·韦克斯要求，与三角洲R&D部门合作研发的突击步枪，旨在缩短M4的同时改进其颇受D-boy诟病的直接导气系统。
 
 @DOLL-G11-NAME=MECHTY
 @DOLL-G11-DESC=A Doll who approaches everything with peak laziness, except for gaming and reading manga. She's mastered the ultimate skill: falling asleep anytime, anywhere, under any circumstance. Although she seems to embody the philosophy of "lying flat" to the extreme, she reveals her dependable side in times of crisis, though in her words, "It'd be better if we just never ran into any 'crisis' at all".
@@ -27,22 +27,22 @@
 @WEAP-G11-DESC=During the Cold War, caseless ammunition was one of NATO's top projects, in order to achieve both easier ammunition storage/logistics and faster rate of fire. In the end, almost every project ended in failure or lost interest, with the exception of Heckler & Koch's G11. In theory, caseless munitions can achieve faster rates of weapon fire, since the process of the bolt unlocking followed by brass extraction and ejection is not needed with a bullet that doesn't come with a case; the weapon only needs to fire, load a new cartridge, and repeat.
 @firearm_caliber_473x33_name=4.73×33mm 无壳弹
 @ammo_473_caseless_name=4.73x33mm DM11
-@ammo_473_caseless_desc=这就是无壳弹，听诺贝尔说：不抛壳、高弹容量、射速还快。
+@ammo_473_caseless_desc=这就是无壳弹，听诺贝尔说：无壳可抛、弹容量高、射速还快。
 
 @DOLL-G36K-NAME=安朵丝
 @DOLL-G36K-DESC=A gentle Doll whose sweet smile and gaze could melt ice and snow. But if she's been looking and smiling at you for too long, she's probably crashed. Because of this quirk, Andoris cannot give it her all on the battlefield. But what she lacks in firepower, she makes up for in intelligence gathering. Andoris is an expert intelligence officer due to her large storage space, and can pick up details anyone else would have missed. Using her abilities outside of the battlefield, Andoris has found a way of life and a home.
 @WEAP-G36K-NAME=G36K-KSK
-@WEAP-G36K-DESC=G36K（即“kurz”，短突击型）是黑克勒&科赫于1997年公布的短卡宾型G36。安朵丝使用的是KSK于2022年采用的G36KA4。
+@WEAP-G36K-DESC=G36K（即“kurz”，德语的“短”）是黑克勒&科赫于1997年公布的短卡宾型G36。安朵丝使用KSK于2022年采用的G36KA4。
 
 @DOLL-G28-NAME=BELKA
 @DOLL-G28-DESC=Innocent, peppy and a skilled mood maker Doll. She may seem harmless, but is always preparing some secret prank. Nothing wrong with a bit of levity! And there's nobody who couldn't forgive those big doe eyes and cute smile! But the fragile flower facade drops when she steps on the battlefield: even with her good performances, Belka never spares any effort. She aims to become an elite T-Doll like her Big Sis, and be useful to both her and the Commander. Her deepest desire is simply to remain by the side of the people she cherishes.
 @WEAP-G28-NAME=G28
-@WEAP-G28-DESC=G28 is the Bundeswehr designation for HK241 semi-automatic 7.62mm calibre designated marksman rifle designed by Heckler & Koch. Designed based on the civilian variant HK417 battle rifle the MR308, Heckler & Koch had given the name HK241 to G28 in October 2017, but the army designation remains the same. G28 shares approximately 75% interchangeable parts with HK417.
+@WEAP-G28-DESC=HK241（德国联邦国防军编号G28）是由黑克勒&科赫设计的7.62x51mm口径半自动精确射手步枪。G28实际上是基于HK417的民用型MR308设计的，H&K虽于2017年10月将其更名为HK241，但并未更改其国防军编号。G28与HK417有75%的零件可以互换使用。
 
 @DOLL-UMP45-NAME=LEVA
 @DOLL-UMP45-DESC=A Doll born from conspiracy. The former leader of H.I.D.E. 404, now working with Lenna on confidential missions for the Non-Military Forces Administration. She always wears a smile and a polite demeanor, concealing the personality of a fox. Once your guard has been lowered with a smile, she will get what she wants with sharp words and outmaneuver you before you could react, smiling playfully all the while. Her close ones know what the smile truly conceals: the determination to protect people important to her. When danger appears, the fox becomes a lion and bares its sharp fangs.
 @WEAP-UMP45-NAME=UMP45
-@WEAP-UMP45-DESC=The UMP (Universale Maschinenpistole, German for "Universal Submachine Gun") is a submachine gun developed and manufactured by Heckler & Koch. The UMP is a blowback-operated select-fire submachine gun firing from a closed bolt. It features a polymer stock that is able to be folded for compactness, a paddle-style magazine release, and a handguard that is able to accept accessories, such as vertical foregrips. The barrel is approximately 8 inches long, and there may be rails on top of the receiver to mount optics.
+@WEAP-UMP45-DESC=UMP（Universale Maschinenpistole，即"通用冲锋枪"）是由黑克勒&科赫设计制造的一款冲锋枪。 The UMP is a blowback-operated select-fire submachine gun firing from a closed bolt. It features a polymer stock that is able to be folded for compactness, a paddle-style magazine release, 和 a handguard that is able to accept accessories, such as vertical foregrips. The barrel is approximately 8 inches long, 和 there may be rails on top of the receiver to mount optics.
 @firearm_caliber_45acp_name=.45 ACP
 @ammo_45acp_fmj_name=.45 ACP 被甲弹
 @ammo_45acp_fmj_desc=标准的亚音速全金属被甲弹，弹头重且停止作用好。
