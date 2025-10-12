@@ -62,46 +62,45 @@
 @DOLL-VECTOR-NAME=维克托
 @DOLL-VECTOR-DESC=习惯性悲观的人形，但作为H.I.D.E.404第二分队的队长，\n无论演算出何等让人绝望的结果，维克托也绝对会坚守到最后一刻，\n与小队一起直面困境。
 @WEAP-VECTOR-NAME=KRISS Vector冲锋枪
-@WEAP-VECTOR-DESC=KRISS Vector是由KRISS USA公司（改名前为“转型国防工业”公司）研制的一系列冲锋枪的总称，该枪族使用一种非常规的延迟开锁机构和低轴线的设计，使得后坐力和枪口上跳显著低于其它采用常规设计的冲锋枪。
-The KRISS Vector is a series of weapons based upon the parent submachine gun design developed by the American firearms company KRISS USA, formerly Transformational Defense Industries (TDI). The various weapons in the Vector family use an unconventional delayed blowback system combined with an in-line design to reduce perceived recoil and muzzle climb.
+@WEAP-VECTOR-DESC=KRISS Vector是由KRISS USA公司研制的一系列冲锋枪的总称，该枪族的特色设计——独特的延迟开锁机构和低轴线设计显著降低了其后坐力和枪口上跳。
 @ammo_45acp_fmj_vector_desc=标配的全金属被甲弹，专为维克托而优化。
 @ammo_45acp_jhp_vector_desc=可在CQB情形下发挥最大威力的空尖弹。
 
 @GFL-UNIT-CAFE-NAME=方糖咖啡馆
-@GFL-UNIT-CAFE-DESC=以咖啡馆为据点，
-A group of service and support dolls operating from a café base, providing backup services and logistics while maintaining their cover as hospitality workers in civilian territory.
+@GFL-UNIT-CAFE-DESC=以位于平民区的咖啡馆为据点，利用服务员身份作为掩护，为雇主提供勤务帮助的支援人形小队。
 @#GFL-UNIT-CAFE-NAME-RND=方糖咖啡馆
 
 @DOLL-M1903-NAME=春田
 @DOLL-M1903-DESC=前综合勤务部管理人，现方糖咖啡馆的店长，地下情报网的组织者……\n多重身份汇聚成了眼前这个挂着完美微笑的人形——春田。温柔，坚强，善良，理智。\n春田总是在她珍视的朋友和重要之人面前展现出值得依赖的一面，用她的包容将性格各异\n的大家凝聚在身边。但在背后，春田也会为了自己的原则，偶尔突破常规……\n嘘，你什么都没有看到，对吗？
 @WEAP-M1903-NAME=M1903“春田”步枪
-@WEAP-M1903-DESC=M1903“春田”步枪是一款使用弹仓供弹的栓动式步枪，正式名称为“美制M1903式.30-06口径步枪”，士兵们经常称呼其为“03”或“春田”。在第一次世界大战期间，春田是美军士兵手中最常见的武器。\n\n即使到了今天，春田也依然享有极高的声誉，在民用市场、收藏家手中、射击竞赛和军队庆典等场景中不断发挥余热。
+@WEAP-M1903-DESC=M1903“春田”步枪是一款弹仓供弹的栓动式步枪，正式名称为“美制M1903式.30-06口径步枪”，士兵们经常称呼其为“03”或“春田”。在第一次世界大战期间，春田是美军士兵手中最常见的武器。\n\n即使到了今天，春田也依然享有极高的声誉，在民用市场、收藏拍卖、射击竞赛和军队庆典等场景中不断发挥余热。
 @firearm_caliber_3006_name=.30-06“春田”步枪弹
 @firearm_operation_boltaction_name=栓动式
 @ammo_3006_fmj_name=.30-06 M2普通弹
-@ammo_3006_fmj_desc=军标全金属被甲弹，射程远且穿深高。
+@ammo_3006_fmj_desc=军标全金属被甲弹，射程远且穿透力高。
 @ammo_3006_match_name=.30-06 竞赛弹
-@ammo_3006_match_desc=为追求准确度和终端效能而精挑细选的竞赛用弹药，严格控制了装药量和弹头之间的公差。
+@ammo_3006_match_desc=为追求准确度和终端效能而精挑细选的比赛级弹药，严格控制了弹头的制造公差和装药量。
 
 @DOLL-WA2000-NAME=玛绮朵
 @DOLL-WA2000-DESC=冷静高傲、不善表达的别扭人形。喜欢毛绒绒的小动物，也喜欢糖分超标的玛奇朵。\n总是独来独往的她，目光却常常停留在某一处。到底什么时候，她才能获得想要的回应呢？
 @WEAP-WA2000-NAME=WA2000狙击步枪
-@WEAP-WA2000-DESC=Walther WA2000 is a semi-automatic, bullpup configured sniper rifle designed and produced by Carl Walther GmbH Sportwaffen. Designed between 1970s–1980s and produced between 1982-1988, originally designed for and advertised to law enforcement units in response to the 1972 Munich Olympics Massacre.
+@WEAP-WA2000-DESC=WA2000是由卡尔·瓦尔特公司设计的无托式半自动狙击步枪，完全为军警单位而设计。\n该枪起源于1972年的慕尼黑惨案，设计于1970-1980年间，并于1982-1988年间投入生产。
 @firearm_caliber_300wm_name=.300 温彻斯特-马格南弹
 @ammo_300wm_fmj_name=.300 Win Mag 被甲弹
-@ammo_300wm_fmj_desc=High-velocity magnum round designed for long-range precision shooting. Superior ballistics and terminal performance.
+@ammo_300wm_fmj_desc=为长距离精确射击而设计的超音速马格南弹，弹道性能优越、终端效能出色。
 @ammo_300wm_match_name=.300 Win Mag 竞赛弹
-@ammo_300wm_match_desc=Premium match-grade ammunition with selected components for maximum accuracy and consistency at extreme ranges.
+@ammo_300wm_match_desc=精挑细选的比赛级弹药，即使到了极限射程也能保证一致性和精准度。
 
 @DOLL-G36-NAME=桑朵莱希
 @DOLL-G36-DESC=恭谦却又坚守原则的人形。她会调制香气四溢的咖啡，\n也会坚定地守护咖啡馆—一这便是“方糖”无可取代的屏障。
 @WEAP-G36-NAME=G36突击步枪
-@WEAP-G36-DESC=The G36 is a gas-operated select-fire 5.56x45mm rifle developed by German arms manufacturer Heckler and Koch. It was designed as a replacement for the venerable G3 battle rifle, which had served West Germany throughout the Cold War.
+@WEAP-G36-DESC=G36是由黑克勒&科赫公司设计的5.56x45mm口径气吹式突击步枪，用于替代在西德国防军中久负盛名的G3战斗步枪。
 
 @DOLL-XCR-NAME=夏克里
-@DOLL-XCR-DESC=散发着“小恶魔”气息的人形，她的甜蜜微笑下隐藏着可爱心机。\n她要的不止是舞台，更是客人们永不枯竭的爱意哦❤
+@DOLL-XCR-DESC=散发着“小恶魔”气息的人形，她的甜蜜微笑下隐藏着可爱心机。\n她要的不止是舞台，更是客人们永不枯竭的爱意哦~
 @WEAP-XCR-NAME=XCR-L标准型突击步枪
-@WEAP-XCR-DESC=The XCR is a line of American rifles by Robinson Armament Co. It was developed for the Special Operations Forces Combat Assault Rifle competition (which would be won by FN's SCAR line) but ultimately never joined it.
+@WEAP-XCR-DESC=XCR是由罗宾逊公司生产的一系列美制步枪的总称，
+The XCR is a line of American rifles by Robinson Armament Co. It was developed for the Special Operations Forces Combat Assault Rifle competition (which would be won by FN's SCAR line) but ultimately never joined it.
 
 @helmet_gfl_ocular_name=Night Eyes
 @helmet_gfl_ocular_desc=Enhanced optical systems for night vision integration. Allows direct NVG interface without physical mounting hardware.
