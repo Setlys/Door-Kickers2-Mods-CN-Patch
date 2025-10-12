@@ -9,7 +9,7 @@
 @DOLL-AK15-NAME=威玛西娜
 @DOLL-AK15-DESC=外表看起来相当凶恶的少女，相比起其他人形而言拥有更加高大的身材。\n不苟言笑，说话做事都以效率为先，给人以一种缺乏感性的印象，\n却又在愤怒的时候显得十分吓人。
 @WEAP-AK15-NAME=AK-15突击步枪
-@WEAP-AK15-DESC=AK-15是AK-400枪族中的7.62×39mm口径型，该枪族是卡拉什尼科夫集团为“勇士”计划（正式名为“俄罗斯未来步兵系统"计划）研发的新型步枪，俄军于2018年正式采用了枪族中的AK-12和AK-15。
+@WEAP-AK15-DESC=AK-15是AK-400枪族中的7.62×39mm口径型，该枪族包含一系列卡拉什尼科夫集团为“勇士”计划（别名“俄罗斯未来步兵系统”计划）研发的新型步枪，俄军于2018年正式采用了其中的AK-12和AK-15两型突击步枪。
 
 @DOLL-AN94-NAME=埃芙
 @DOLL-AN94-DESC=十年前由新苏联安全局主导的人形研发项目“狼群计划”的原型机，现任忤逆小队队长。\n在十年前的法兰克福协助指挥官完成斩首行动后，与安全局签下协议后获得受限制的自由，\n之后作为自由人小队在黄区开始了长达十年的与帕拉蒂斯的斗争。
@@ -24,30 +24,30 @@
 @DOLL-HK416-NAME=可露凯
 @DOLL-HK416-DESC=优雅而冷静，拥有绝对自信的人形，励志将H.I.D.E. 404全员精英化。\n只有熟悉她的人才知道，在可露凯的强势与严苛背后，有着怎样的柔软与珍惜。
 @WEAP-HK416-NAME=HK416突击步枪
-@WEAP-HK416-DESC=HK416是黑克勒&科赫公司应美军三角洲老兵拉里·韦克斯要求，与三角洲R&D部门合作研发的突击步枪，旨在缩短M4的同时改进其颇受D-boy诟病的直接导气系统。
+@WEAP-HK416-DESC=HK416是黑克勒&科赫公司应美军三角洲老兵拉里·韦克斯要求，与三角洲R&D部门合作研发的突击步枪，旨在缩短M4的同时改进其颇受D-boys诟病的直接导气系统。
 
 @DOLL-G11-NAME=米什缇
-@DOLL-G11-DESC=除了打游戏、看漫画，无论做什么都懒洋洋的人形，拥有在任何地方任何状态下安然入睡的绝技。\n看似将躺平发挥到极致的她，在危机时刻也会显露出可靠的一面一一但本人觉得最好还是不要有“危急时刻”比较好啦…
+@DOLL-G11-DESC=除了打游戏、看漫画，无论做什么都懒洋洋的人形，拥有在任何地方任何状态下安然入睡的绝技。\n看似将躺平发挥到极致的她，在危机时刻也会显露出可靠的一面一一但本人觉得最好还是不要有\n“危急时刻”比较好啦…
 @WEAP-G11-NAME=G11突击步枪
-@WEAP-G11-DESC=During the Cold War, caseless ammunition was one of NATO's top projects, in order to achieve both easier ammunition storage/logistics and faster rate of fire. In the end, almost every project ended in failure or lost interest, with the exception of Heckler & Koch's G11. In theory, caseless munitions can achieve faster rates of weapon fire, since the process of the bolt unlocking followed by brass extraction and ejection is not needed with a bullet that doesn't come with a case; the weapon only needs to fire, load a new cartridge, and repeat.
+@WEAP-G11-DESC=北约在冷战期间最重要的项目之一便是对无壳弹的研究，此种弹药——若研制成功——可显著减小弹药的储存和后勤难度，并让步兵得以使用射速更高的步枪作战。最终，多数的无壳弹项目要么失败，要么无人问津，只有黑克勒&科赫公司的G11达到了可装备的水平。\n\n理论上，无壳弹可以达到比普通步枪更高的射速，因为使用无壳弹的步枪在开锁时并不需要抽壳和抛壳，只需推入下一发子弹便可上膛射击。
 @firearm_caliber_473x33_name=4.73×33mm 无壳弹
 @ammo_473_caseless_name=4.73x33mm DM11无壳弹
 @ammo_473_caseless_desc=无弹壳、大弹容、高射速，这就是无壳弹，听诺贝尔说。
 
 @DOLL-G36K-NAME=安朵丝
-@DOLL-G36K-DESC=温婉和善的人形，眼中的笑意能让冰雪消融。但当她长时间地盯着你微笑的时候，\n不要怀疑，她应该是宕机了。这种时常宕机的特性让安朵丝很少能在战场上全力输出。\n没关系，火力不足，情报来凑。拥有超大存储空间的安朵丝是收集情报的一把好手，\n那些细枝末节的线索，只有你想不到，没有她注意不到。在战场之后，安朵丝用这种独特的方式，开辟了自己的道路，也找到了自己最终的归宿。
+@DOLL-G36K-DESC=温婉和善的人形，眼中的笑意能让冰雪消融。但当她长时间地盯着你微笑的时候，不要怀疑，\n她应该是宕机了。这种时常宕机的特性让安朵丝很少能在战场上全力输出。没关系，火力不足，\n情报来凑。拥有超大存储空间的安朵丝是收集情报的一把好手，那些细枝末节的线索，只有你想不到，\n没有她注意不到。在战场之后，安朵丝用这种独特的方式，开辟了自己的道路，也找到了自己最终的归宿。
 @WEAP-G36K-NAME=G36K-KSK卡宾枪
-@WEAP-G36K-DESC=G36K（即“kurz”，德语的“短”）是黑克勒&科赫公司于1997年公布的短卡宾型G36。安朵丝使用KSK于2022年采用的G36KA4。
+@WEAP-G36K-DESC=G36K（“kurz”，德语的“短”）是黑克勒&科赫公司于1997年公布的短卡宾型G36，安朵丝使用的是KSK采用于2022年的G36KA4。
 
 @DOLL-G28-NAME=比悠卡
-@DOLL-G28-DESC=天真有朝气的人形，人见人爱的气氛活跃好手。单纯面孔下藏着的是各种无害小心机，偶尔犯点小迷糊又如何？\n只要大眼一眨笑脸一露，所有人都会原谅比悠卡啦！但别以为她只是个可爱花瓶，战场上她可从不对敌人手软。\n即便足够优秀，比悠卡也从未放弃努力。向姐姐学习，成为精英人形，这样才能成为指挥官和姐姐身边最有用的人——\n比悠卡的心愿，只是想待在心爱的人身边而已。
+@DOLL-G28-DESC=天真有朝气的人形，人见人爱的气氛活跃好手。单纯面孔下藏着的是各种无害小心机，\n偶尔犯点小迷糊又如何？只要大眼一眨笑脸一露，所有人都会原谅比悠卡啦！但别以为她\n只是个可爱花瓶，战场上她可从不对敌人手软。即便足够优秀，比悠卡也从未放弃努力。\n向姐姐学习，成为精英人形，这样才能成为指挥官和姐姐身边最有用的人——\n比悠卡的心愿，只是想待在心爱的人身边而已。
 @WEAP-G28-NAME=G28精确射手步枪
-@WEAP-G28-DESC=HK241（德国联邦国防军编号G28）是由黑克勒&科赫公司设计的7.62x51mm口径半自动精确射手步枪。\nG28实际上是基于HK417的民用型MR308设计的，H&K虽于2017年10月将其更名为了HK241，但并未更改其国防军编号。\n\nG28与HK417有75%的零件可以互换使用。
+@WEAP-G28-DESC=HK241（德国联邦国防军编号G28）是由黑克勒&科赫公司设计的7.62x51mm口径半自动精确射手步枪。\nG28实际上是基于HK417的民用型MR308设计的，H&K虽然于2017年10月将其更名为HK241，但并未更改其国防军编号。\n\nG28与HK417有75%的零件可以互换使用。
 
 @DOLL-UMP45-NAME=莱娅
-@DOLL-UMP45-DESC=因一场阴谋而诞生的人形。前H.I.D.E. 404小队的队长，现供职于非军事力量管理局，协助格琳娜处理各类机密要务。\n脸上常挂着亲切微笑、待人温和有礼的莱娅，实际上是一只不折不扣的狐狸，用得体的笑容降低你的防备，以暗藏锋芒的言辞取得你的默许，\n在你没有反应过来的时候，她已经掀开了了你的底牌，笑得玩味狡黠。但熟悉她的人都知道，这抹狡黠的笑容背后，有着守护重要之人的决心，\n在危险到来之际，狡猾的狐狸会彻底变成凶猛的狮子，对敌人亮出尖锐的獠牙。
+@DOLL-UMP45-DESC=因一场阴谋而诞生的人形。前H.I.D.E. 404小队的队长，现供职于非军事力量管理局，\n协助格琳娜处理各类机密要务。脸上常挂着亲切微笑、待人温和有礼的莱娅，实际上是一只\n不折不扣的狐狸，用得体的笑容降低你的防备，以暗藏锋芒的言辞取得你的默许，在你没有\n反应过来的时候，她已经掀开了了你的底牌，笑得玩味狡黠。但熟悉她的人都知道，这抹狡黠的\n笑容背后，有着守护重要之人的决心，在危险到来之际，狡猾的狐狸会彻底变成凶猛的狮子，\n对敌人亮出尖锐的獠牙。
 @WEAP-UMP45-NAME=UMP45冲锋枪
-@WEAP-UMP45-DESC=UMP（Universale Maschinenpistole，"通用冲锋枪"）是由黑克勒&科赫公司设计制造的一款具有可选射击模式的气吹式闭膛待击冲锋枪。该枪配有可折叠的聚合物枪托、柄型弹匣解脱杆、可安装配件（如垂直握把）的护木和200毫米长的枪管。上机匣可安装导轨，以便安装瞄具。
+@WEAP-UMP45-DESC=UMP（Universale Maschinenpistole，"通用冲锋枪"）是由黑克勒&科赫公司设计的一系列采用不同口径的气吹式闭膛待击冲锋枪，莱娅使用的是填装.45ACP口径的UMP45。\n\nUMP枪族均配有可折叠的聚合物枪托、柄型弹匣解脱杆、可安装配件（如垂直握把）的护木和200毫米长的枪管。上机匣可安装导轨，以便安装瞄具。
 @firearm_caliber_45acp_name=.45 ACP
 @ammo_45acp_fmj_name=.45 ACP 被甲弹
 @ammo_45acp_fmj_desc=标准的亚音速全金属被甲弹，弹头重且停止作用好。
@@ -55,54 +55,51 @@
 @ammo_45acp_jhp_desc=追求弹头最大限度扩张的空尖弹，高杀伤但低穿深。
 
 @DOLL-UMP9-NAME=莱娜
-@DOLL-UMP9-DESC=跟随格琳娜进入非军事力量管理局的莱娜，“早就是独当一面的优秀人形啦♪”。\n然而三句话不离姐姐的习惯，还是暴露了她对家人的依赖。虽然目前与队友们处于\n分头行动的状态，但她从未忘怀那些并肩作战的日子。新的工作，新的素体，不变的只有莱娜的初心。她衷心期待着，在重逢的时刻，\n为她最为珍视的你献上最真诚的笑容和拥抱。
+@DOLL-UMP9-DESC=跟随格琳娜进入非军事力量管理局的莱娜，“早就是独当一面的优秀人形啦♪”。\n然而三句话不离姐姐的习惯，还是暴露了她对家人的依赖。虽然目前与队友们处于\n分头行动的状态，但她从未忘怀那些并肩作战的日子。新的工作，新的素体，不变的\n只有莱娜的初心。她衷心期待着，在重逢的时刻，为她最为珍视的你献上最真诚的笑容和拥抱。
 @WEAP-UMP9-NAME=UMP9冲锋枪
 @WEAP-UMP9-DESC=正如其名所示，UMP9是UMP枪族中的9x19mm帕弹口径型。和枪族中的另外两位成员一样，UMP9也有着半自动、全自动和2发点射模式三种射击模式。\n\nUMP9标准配备有200毫米枪管和30发双排单进弹匣，循环射速可达600-650发/分钟，理论有效射程约为100米。
 
 @DOLL-VECTOR-NAME=维克托
-@DOLL-VECTOR-DESC=
-垂头丧气的悲观主义人形，维克托时常预见灾难，但从未临阵脱逃。
-事物总向最坏的方向发展，任务总会节外生枝，一切都是最不好的安排……维克托叹着气，对种种厄运习以为常、照单全收。
-不必为她担忧，没有信心也能面对现实，缺乏激情也未必就会输给风暴。身为404二队的队长，今天的维克托也兢兢业业地解决着小队面临的潜在危机。
-而与某人的重逢，或许被维克托视为花光了全部好运换来的奖赏——长官，好久不见……
-（游戏内简介？）A regularly pessimistic Doll. However, as the leader of H.I.D.E. 404's Team B, Vector will absolutely push through and endure till the very last moment with her teammates in the face of adversity, no matter how depressing the outcomes of her calculations.
+@DOLL-VECTOR-DESC=习惯性悲观的人形，但作为H.I.D.E.404第二分队的队长，\n无论演算出何等让人绝望的结果，维克托也绝对会坚守到最后一刻，\n与小队一起直面困境。
 @WEAP-VECTOR-NAME=KRISS Vector冲锋枪
-@WEAP-VECTOR-DESC=The KRISS Vector is a series of weapons based upon the parent submachine gun design developed by the American firearms company KRISS USA, formerly Transformational Defense Industries (TDI). The various weapons in the Vector family use an unconventional delayed blowback system combined with an in-line design to reduce perceived recoil and muzzle climb.
-@ammo_45acp_fmj_vector_desc=Standard FMJ optimized for the Vector's high rate of fire.
-@ammo_45acp_jhp_vector_desc=Hollow point rounds for maximum damage in CQB situations.
+@WEAP-VECTOR-DESC=KRISS Vector是由KRISS USA公司（改名前为“转型国防工业”公司）研制的一系列冲锋枪的总称，该枪族使用一种非常规的延迟开锁机构和低轴线的设计，使得后坐力和枪口上跳显著低于其它采用常规设计的冲锋枪。
+The KRISS Vector is a series of weapons based upon the parent submachine gun design developed by the American firearms company KRISS USA, formerly Transformational Defense Industries (TDI). The various weapons in the Vector family use an unconventional delayed blowback system combined with an in-line design to reduce perceived recoil and muzzle climb.
+@ammo_45acp_fmj_vector_desc=标配的全金属被甲弹，专为维克托而优化。
+@ammo_45acp_jhp_vector_desc=可在CQB情形下发挥最大威力的空尖弹。
 
 @GFL-UNIT-CAFE-NAME=方糖咖啡馆
-@GFL-UNIT-CAFE-DESC=A group of service and support dolls operating from a café base, providing backup services and logistics while maintaining their cover as hospitality workers in civilian territory.
+@GFL-UNIT-CAFE-DESC=以咖啡馆为据点，
+A group of service and support dolls operating from a café base, providing backup services and logistics while maintaining their cover as hospitality workers in civilian territory.
 @#GFL-UNIT-CAFE-NAME-RND=方糖咖啡馆
 
 @DOLL-M1903-NAME=春田
-@DOLL-M1903-DESC=Former manager of the Integrated Logistics Department, current manager of Zucchero Café, leader of an underground intelligence network… These identities converge into the Doll smiling before you: Springfield. Gentle, unyielding, kind and rational, she's the picture of reliability for her loved ones, and her personality attracts a wide variety of people to her. She's not above bending the rules to get her way, however… But you won't tell anybody, right?
+@DOLL-M1903-DESC=前综合勤务部管理人，现方糖咖啡馆的店长，地下情报网的组织者……\n多重身份汇聚成了眼前这个挂着完美微笑的人形——春田。温柔，坚强，善良，理智。\n春田总是在她珍视的朋友和重要之人面前展现出值得依赖的一面，用她的包容将性格各异\n的大家凝聚在身边。但在背后，春田也会为了自己的原则，偶尔突破常规……\n嘘，你什么都没有看到，对吗？
 @WEAP-M1903-NAME=M1903“春田”步枪
-@WEAP-M1903-DESC=Officially designated the 'United States Rifle, Caliber .30-06, Model of 1903' and referred by the troops as the '03' or simply as the 'Springfield', the M1903 Springfield is an American magazine fed, bolt-action repeating rifle. It served as the main infantry rifle of US forces during World War 1, and it remains popular today as a civilian firearm, historical collector's piece, competitive shooting rifle, and military drill rifle.
+@WEAP-M1903-DESC=M1903“春田”步枪是一款使用弹仓供弹的栓动式步枪，正式名称为“美制M1903式.30-06口径步枪”，士兵们经常称呼其为“03”或“春田”。在第一次世界大战期间，春田是美军士兵手中最常见的武器。\n\n即使到了今天，春田也依然享有极高的声誉，在民用市场、收藏家手中、射击竞赛和军队庆典等场景中不断发挥余热。
 @firearm_caliber_3006_name=.30-06“春田”步枪弹
 @firearm_operation_boltaction_name=栓动式
 @ammo_3006_fmj_name=.30-06 M2普通弹
-@ammo_3006_fmj_desc=军标全金属被甲弹。 High power rifle cartridge with excellent range and penetration.
+@ammo_3006_fmj_desc=军标全金属被甲弹，射程远且穿深高。
 @ammo_3006_match_name=.30-06 竞赛弹
-@ammo_3006_match_desc=Precision manufactured ammunition with consistent powder loads and match bullets for superior accuracy and terminal performance.
+@ammo_3006_match_desc=为追求准确度和终端效能而精挑细选的竞赛用弹药，严格控制了装药量和弹头之间的公差。
 
 @DOLL-WA2000-NAME=玛绮朵
-@DOLL-WA2000-DESC=A calm, proud, yet awkward Doll who isn't good at expressing herself. She loves fluffy little animals and overly sweet macchiatos. Always a loner, her gaze often lingers somewhere. When will she finally get the response she's been longing for?
+@DOLL-WA2000-DESC=冷静高傲、不善表达的别扭人形。喜欢毛绒绒的小动物，也喜欢糖分超标的玛奇朵。\n总是独来独往的她，目光却常常停留在某一处。到底什么时候，她才能获得想要的回应呢？
 @WEAP-WA2000-NAME=WA2000狙击步枪
 @WEAP-WA2000-DESC=Walther WA2000 is a semi-automatic, bullpup configured sniper rifle designed and produced by Carl Walther GmbH Sportwaffen. Designed between 1970s–1980s and produced between 1982-1988, originally designed for and advertised to law enforcement units in response to the 1972 Munich Olympics Massacre.
-@firearm_caliber_300wm_name=.300 Winchester Magnum
-@ammo_300wm_fmj_name=.300 Win Mag FMJ
+@firearm_caliber_300wm_name=.300 温彻斯特-马格南弹
+@ammo_300wm_fmj_name=.300 Win Mag 被甲弹
 @ammo_300wm_fmj_desc=High-velocity magnum round designed for long-range precision shooting. Superior ballistics and terminal performance.
-@ammo_300wm_match_name=.300 Win Mag Match
+@ammo_300wm_match_name=.300 Win Mag 竞赛弹
 @ammo_300wm_match_desc=Premium match-grade ammunition with selected components for maximum accuracy and consistency at extreme ranges.
 
 @DOLL-G36-NAME=桑朵莱希
-@DOLL-G36-DESC=A humble yet principled Doll. She brews aromatic coffee and stands as the steadfast guardian of the café - she is the irreplaceable shield of "Zucchero".
+@DOLL-G36-DESC=恭谦却又坚守原则的人形。她会调制香气四溢的咖啡，\n也会坚定地守护咖啡馆—一这便是“方糖”无可取代的屏障。
 @WEAP-G36-NAME=G36突击步枪
 @WEAP-G36-DESC=The G36 is a gas-operated select-fire 5.56x45mm rifle developed by German arms manufacturer Heckler and Koch. It was designed as a replacement for the venerable G3 battle rifle, which had served West Germany throughout the Cold War.
 
 @DOLL-XCR-NAME=夏克里
-@DOLL-XCR-DESC=A mischievous, impish Doll whose sweet smiles hide a cute cunning. She is hungry not only for the stage but also for the boundless adoration from her customers.
+@DOLL-XCR-DESC=散发着“小恶魔”气息的人形，她的甜蜜微笑下隐藏着可爱心机。\n她要的不止是舞台，更是客人们永不枯竭的爱意哦❤
 @WEAP-XCR-NAME=XCR-L标准型突击步枪
 @WEAP-XCR-DESC=The XCR is a line of American rifles by Robinson Armament Co. It was developed for the Special Operations Forces Combat Assault Rifle competition (which would be won by FN's SCAR line) but ultimately never joined it.
 
@@ -126,7 +123,7 @@
 @doctrine_gfl_defy_femalegorilla_descr=Voymastina intimidates anyone in her presense. Enemies within her raduis gain reduced accuracy, supression recovery, and aim time.
 @buff_gfl_defy_femalegorillabuff=Intimidated by Voymastina
 
-@doctrine_gfl_defy_alphaprotocol_name=Alpha Protocol
+@doctrine_gfl_defy_alphaprotocol_name=“头狼”协议
 @doctrine_gfl_defy_alphaprotocol_descr=Alva leads DEFY as its new alpha operator. When she eliminates targets, allies within gain accuracy, suppression recovery, and movement speed for 5 seconds.
 @buff_gfl_defy_tacticalsynchronization=Synchronized with Alva
 
@@ -174,7 +171,7 @@
 @doctrine_gfl_lethalprecision_name=Lethal Precision
 @doctrine_gfl_lethalprecision_descr=Optimized targeting algorithms prioritize vital areas. Significantly increases critical hit probability and reduces target acquisition time. Marksman rifles gain enhanced headshot capability.
 
-@doctrine_gfl_defy_battleechoes_name=Battlefield Echoes
+@doctrine_gfl_defy_battleechoes_name=战地回声
 @doctrine_gfl_defy_battleechoes_descr=Residual combat data from previous engagements reveals enemy positions. Neural network analysis exposes a hostile unit per level near spawn points at mission start.
 
 @doctrine_gfl_defy_momentum_name=Violent Momentum
@@ -188,11 +185,10 @@
 
 @buff_gfl_defy_defiant=Rallied by defiant stand
 
-@doctrine_gfl_404_dreamwonderland_name=Dream Wonderland
-@doctrine_gfl_404_dreamwonderland_descr=Mechty operates in Patch Mode: enhanced defensive systems reduce incoming damage and stability loss. Upon eliminating a target, she consumes an energy drink and enters Turbo Mode for 7 seconds: sacrificing all defenses for explosive offensive power.
+@doctrine_gfl_404_dreamwonderland_name=梦游仙境
+@doctrine_gfl_404_dreamwonderland_descr=Mechty operates in 补丁模式: enhanced defensive systems reduce incoming damage and stability loss. Upon eliminating a target, she consumes an energy drink and enters Turbo Mode for 7 秒之前: sacrificing all defenses for explosive offensive power.
 
-@buff_gfl_404_turbomode=Turbo Mode
-
+@buff_gfl_404_turbomode=激斗模式
 @doctrine_gfl_404_noticemebigsis_name=Notice Me Big Sis!
 @doctrine_gfl_404_noticemebigsis_descr=Belka's desire to become an elite like Klukai drives her to greater heights. When in range of her Big Sis, Belka gains improved accuracy, critical chance, aim speed, and movement.
 
@@ -204,10 +200,10 @@
 @buff_gfl_404_shadowpresence=Near Big Sister
 @buff_gfl_404_furyunleashed=Protective Fury
 
-@doctrine_gfl_404_depressivementality_name=Depressive Mentality
+@doctrine_gfl_404_depressivementality_name=颓丧心态
 @doctrine_gfl_404_depressivementality_descr=A regularly pessimistic Doll who expects the worst. However, as leader of Team B, Vector will absolutely push through and endure till the very last moment with her teammates in the face of adversity. When wounded, her calculations drive her to fight even harder.
 
-@doctrine_gfl_404_delayedresponse_name=Delayed Response
+@doctrine_gfl_404_delayedresponse_name=延迟应答
 @doctrine_gfl_404_delayedresponse_descr=Andoris is an expert intelligence officer with vast data storage, picking up details others miss. Her pre-mission intelligence reveals enemy positions at the start of operations. However, her system crashes and processing delays mean she cannot give her all in direct combat. Enhanced armor compensates for sluggish response times.
 
 @doctrine_gfl_404_highvaluetarget_name=High Value Target
@@ -224,13 +220,13 @@
 @doctrine_gfl_404_cqcdominance_name=Close Quarters Dominance
 @doctrine_gfl_404_cqcdominance_descr=Squad 404's aggressive breach tactics and close-range expertise. Exceptional movement speed combined with devastating accuracy and lethality in confined spaces.
 
-@doctrine_gfl_cafe_pathofprotection_name=Path of Protection
+@doctrine_gfl_cafe_pathofprotection_name=守护之道
 @doctrine_gfl_cafe_pathofprotection_descr=Springfield's elegant and watchful presence inspires confidence in allies. Her gentle yet vigilant nature creates a protective aura that helps teammates stay calm under fire and maintain their composure.
 
 @buff_gfl_cafe_protective=Protective Aura
 
-@doctrine_gfl_cafe_absolutementaldefense_name=Absolute Mental Defense
-@doctrine_gfl_cafe_absolutementaldefense_descr="D-Don't barge into someone's personal space!" Makiatto's unshakeable focus and mental fortitude under pressure. Her exceptional discipline allows her to resist suppression and maintain precision even in chaotic situations, delivering accurate long-range fire when others would falter.
+@doctrine_gfl_cafe_absolutementaldefense_name=绝对心防
+@doctrine_gfl_cafe_absolutementaldefense_descr=“不、不要随便闯进别人的私人空间啊！” Makiatto's unshakeable focus and mental fortitude under pressure. Her exceptional discipline allows her to resist suppression and maintain precision even in chaotic situations, delivering accurate long-range fire when others would falter.
 
 @doctrine_gfl_cafe_perfectservice_name=Perfect Service
 @doctrine_gfl_cafe_perfectservice_descr=Centaureissi's meticulous attention to detail and dutiful nature. Her presence instills discipline and precision in nearby allies, improving their efficiency and accuracy through her example of perfect execution.
@@ -240,7 +236,7 @@
 @doctrine_gfl_cafe_spotlightcharge_name=Spotlight Charge
 @doctrine_gfl_cafe_spotlightcharge_descr=Sharkry's energetic and fashionable nature drives her to the center of action. Active to the point of recklessness, she excels at aggressive close-range engagements with exceptional speed and devastating accuracy.
 
-@doctrine_gfl_cafe_sparklingnight_name=Sparkling Night
+@doctrine_gfl_cafe_sparklingnight_name=Sparkling Night闪耀星夜
 @doctrine_gfl_cafe_sparklingnight_descr=One sip, and it feels as though you're standing on a stage illuminated by fireworks and lights. The café's hospitality network gathers valuable intelligence from patrons, revealing enemy positions at mission start.
 
 @doctrine_gfl_cafe_longsummer_name=Long Summer
