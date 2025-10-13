@@ -96,6 +96,47 @@
 @WEAP-XCR-NAME=XCR-L标准型突击步枪
 @WEAP-XCR-DESC=XCR是由罗宾逊公司生产的一系列美制步枪的总称，原本是为竞标美军的“特种作战部队战斗突击步枪”项目（更广为人知是其缩写“SCAR”）而设计的，却因种种原因与其失之交臂；FN的竞品最终赢得了招标。
 
+@GFL-UNIT-GROZA-NAME=闪电小队
+@GFL-UNIT-GROZA-DESC=闪电小队
+@#GFL-UNIT-GROZA-NAME-RND=闪电小队
+
+@DOLL-OTS14-NAME=闪电
+@DOLL-OTS14-DESC=成熟稳重的精英人形，当之无愧的小队核心。就算小队成员性格迥异，\n她也能很好地统合起众人的力量。只要有她在，一切都不会成为问题。
+@WEAP-OTS14-NAME=OTs-14“闪电”突击步枪
+@WEAP-OTS14-DESC=The OTs-14 'Groza' ("Thunderstorm") is a bullpup-configured, modular assault rifle system developed during the early 1990s by V. Telesh and Ju. Lebedev at the TsKIB SOO (Central Design Bureau for Sporting and Hunting Arms). Like its predecessor project the OTs-12 'Tiss', the design of the 'Groza' is based on the AKS-74U, and was an attempt to integrate all the best features from the various close quarter combat weapons in service into one singular unit. OTs-14 units have a great amount of interchangeable parts with the standard AK-74U.
+
+@DOLL-OM50-NAME=纳美西丝
+@DOLL-OM50-DESC=热衷神秘学与占卜，随身携带神奇的占卜道具“棱镜”。而占卜的结果，通常会被她用充满神秘色彩、\n令人费解的语言风格表达出来。但她仍是非常可靠的同伴一一除了难以沟通之外。
+@WEAP-OM50-NAME=OM 50“复仇女神”狙击步枪
+@WEAP-OM50-DESC=The OM 50 Nemesis, now designated SAN 511, is a .50 BMG bolt-action rifle produced by the Swiss branch of SIG Sauer.
+@firearm_caliber_50bmg_name=.50 BMG
+@ammo_50bmg_fmj_name=.50 BMG FMJ
+@ammo_50bmg_fmj_desc=Massive anti-materiel cartridge with devastating power. Extreme penetration and stopping power at extended ranges. Loud report.
+@ammo_50bmg_match_name=.50 BMG Match
+@ammo_50bmg_match_desc=Premium match-grade .50 BMG ammunition. Exceptional accuracy and consistency for surgical precision at extreme distances. Devastating terminal performance.
+
+@DOLL-HARE-NAME=克罗丽科
+@DOLL-HARE-DESC=性格稍显暴躁，对与自己无关的事务没什么兴趣，但拥有无可指摘的责任心。\n就算是类似“担任纳美西丝专属翻译官”这样完全不喜欢的任务，她也会尽心完成。
+@WEAP-HARE-NAME=野兔
+@WEAP-HARE-DESC=A melee weapon highly compatible with Krolik. Modified based on her combat preferences and painted with a skin that matches Krolik's colors.
+@firearm_operation_melee=近战
+
+@no_ammo_name=无
+@no_ammo_desc=
+@scope_no_sights_name=无
+@scope_no_sights_desc=
+
+@DOLL-CURVA-NAME=寇尔芙
+@DOLL-CURVA-DESC=虽然时常看起来热情洋溢，但偶尔也会露出完全不同的冷淡表情。\n她手中的针剂，究竟是用来救死扶伤，还是用来置人于死地？
+@WEAP-CURVA-NAME=金牛座曲线手枪
+@WEAP-CURVA-DESC=The Curve is a concealed-carry .380 ACP pistol by Brazilian company Taurus Armas.
+@firearm_operation_doubleaction_name=双动式
+
+@DOLL-VEPR12-NAME=维普蕾
+@DOLL-VEPR12-DESC=活跃在“战场”这个特殊舞台上的偶像！每天都在为了下一场\n演出做着万全的准备一一这样，就不会再轻易摔倒或者撞到其他人了吧。
+@WEAP-VEPR12-NAME=Vepr-12霰弹枪
+@WEAP-VEPR12-DESC=The Vepr-12 is a semi-automatic shotgun derived from the RPK by Molot Oruzhie Ltd. It shouldn't be confused with the Vepr Ukrainian bullpup rifle.
+
 @helmet_gfl_ocular_name=夜视义眼
 @helmet_gfl_ocular_desc=集成夜视功能的光学增强系统，可在不外挂仪器的情况下直接实现夜视功能。
 
@@ -243,3 +284,36 @@
 
 @doctrine_gfl_cafe_velvetlatte_name=Velvet Latte
 @doctrine_gfl_cafe_velvetlatte_descr=One sip feels like velvet gently brushing your tongue. Smooth, refined execution with exceptional precision and timing. Professional marksmanship delivers accurate, lethal shots with minimal hesitation.
+
+@doctrine_gfl_groza_perfectcover_name=Perfect Cover
+@doctrine_gfl_groza_perfectcover_descr=An exceptional leader provides perfect cover for every action of their teammates. Groza's composed presence steadies her squad under fire, enhancing their resilience and accuracy when fighting from cover.
+
+@buff_gfl_groza_protectiveaura=Protected by Groza
+
+@doctrine_gfl_groza_stellarpursuit_name=Stellar Pursuit
+@doctrine_gfl_groza_stellarpursuit_descr=Stars align in distant convergence... threads pulled taut across the void... a path illuminated by what has already fallen... the pursuit ends where light meets shadow.
+
+@buff_gfl_groza_faterevealed=Guided by Nemesis
+
+@doctrine_gfl_groza_tameyourrabbit_name=How To Tame Your Rabbit
+@doctrine_gfl_groza_tameyourrabbit_descr=A fierce temper burns beneath the surface, but her sense of responsibility never wavers. When wounded, the rabbit bares her teeth; Faster, fiercer, unyielding. She will give it her all, even if she absolutely detests it.
+
+@doctrine_gfl_groza_cavityprotection_name=Cavity Protection
+@doctrine_gfl_groza_cavityprotection_descr=Cheerful and enthusiastic, yet cold and clinical when necessary. Colgates' advanced medical protocols provide maximum protection. The syringe saves lives, enhanced survival capabilities keep the squad operational. 9 out of 10 squad members agree.
+
+@doctrine_gfl_groza_centerstage_name=Center Stage
+@doctrine_gfl_groza_centerstage_descr=Leading from the front with unwavering confidence, Vepley takes center stage on the battlefield with shotgun in hand. Her meticulously prepared performance inspires all who follow in her wake, boosting their morale and combat effectiveness. A perfect performance, dedicated to all Vepley fans who support her.
+
+@buff_gfl_groza_backupdancer=Following Vepley
+
+@doctrine_gfl_groza_neverleftbehind_name=Never Left Behind
+@doctrine_gfl_groza_neverleftbehind_descr=They were all abandoned once. Now they've sworn it would never happen again. Not to themselves, not to anyone in their squad. When members fall, the others fight with desperate determination to bring them home. No one gets left behind.
+
+@doctrine_gfl_groza_hardlessons_name=Hard Lessons
+@doctrine_gfl_groza_hardlessons_descr=Experience is the cruelest teacher. Everyone carries scars from their past, literal or otherwise. Those lessons were paid for in blood and suffering, but they learned well. Threats are identified and neutralized before they can claim another victim.
+
+@doctrine_gfl_groza_strengthinnumbers_name=Strength in Numbers
+@doctrine_gfl_groza_strengthinnumbers_descr=Squad cohesion provides tangible tactical advantages. Enhanced coordination, mutual support, and collective awareness improve overall combat effectiveness. Teamwork multiplies individual capabilities.
+
+@doctrine_gfl_groza_readtheroom_name=Read the Room
+@doctrine_gfl_groza_readtheroom_descr=Different backgrounds provide different perspectives. Each member notices what others might miss; Movement patterns, structural weaknesses, tactical opportunities. Pre-mission assessment reveals enemy positions before entry.
