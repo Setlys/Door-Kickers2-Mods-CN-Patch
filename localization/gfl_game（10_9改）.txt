@@ -1,7 +1,3 @@
-；=可以这样改
-//=有更好的表达方式
-要做的：枪械名加枪种
-
 @GFL-UNIT-DEFY-NAME=忤逆小队
 @GFL-UNIT-DEFY-DESC=忤逆小队是由新型战术人形组成的精英小队。得名于其成员在战场上高度自主的行动方式，“忤逆”代表着新苏军所有作战班组中独一无二的最高战力。
 @#GFL-UNIT-DEFY-NAME-RND=忤逆小队
@@ -12,8 +8,7 @@
 @WEAP-AK15-DESC=AK-15是AK-400枪族中的7.62×39mm口径型，该枪族包含一系列卡拉什尼科夫集团为“勇士”计划（别名“俄罗斯未来步兵系统”计划）研发的新型步枪，俄军于2018年正式采用了其中的AK-12和AK-15两型突击步枪。
 
 @DOLL-AN94-NAME=埃芙
-@DOLL-AN94-DESC=十年前由新苏联安全局主导的人形研发项目“狼群计划”的原型机，现任忤逆小队队长。\n在十年前的法兰克福协助指挥官完成斩首行动后，与安全局签下协议后获得受限制的自由，\n之后作为自由人小队在黄区开始了长达十年的与帕拉蒂斯的斗争。
-作为忤逆小队的领袖，曾经的人偶已然蜕变为了狼群的新王，深受队员信赖，\n在多方势力中周旋，确保忤逆小队自身的生存的同时，也不断打击着帕拉蒂斯的阴谋。
+@DOLL-AN94-DESC=十年前由新苏联安全局主导的人形研发项目“狼群计划”的原型机，现任忤逆小队队长。\n在十年前的法兰克福协助指挥官完成斩首行动后，与安全局签下协议后获得受限制的自由，\n之后作为自由人小队在黄区开始了长达十年的与帕拉蒂斯的斗争。作为忤逆小队的领袖，曾经的人偶已然蜕变为了狼群的新王，深受队员信赖，\n在多方势力中周旋，确保忤逆小队自身的生存的同时，也不断打击着帕拉蒂斯的阴谋。
 @WEAP-AN94-NAME=AN-94突击步枪
 @WEAP-AN94-DESC=AN-94，即“1994型尼科诺夫突击步枪”，是伊孜玛什厂为开展于1980-1994年间的“阿巴甘”突击步枪选型计划研制的5.45x39mm口径导气式突击步枪，GRAU编号6P33。\n\n作为“阿巴甘”计划的唯一成果，AN-94获得了与计划同名的外号。
 
@@ -89,7 +84,7 @@
 @ammo_300wm_fmj_name=.300 Win Mag 被甲弹
 @ammo_300wm_fmj_desc=为长距离精确射击而设计的超音速马格南弹，弹道性能优越、终端效能出色。
 @ammo_300wm_match_name=.300 Win Mag 竞赛弹
-@ammo_300wm_match_desc=精挑细选的比赛级弹药，即使到了极限射程也能保证一致性和精准度。
+@ammo_300wm_match_desc=精挑细选的比赛级弹药，即使到了极限射程也能保证弹药的一致性和精准度。
 
 @DOLL-G36-NAME=桑朵莱希
 @DOLL-G36-DESC=恭谦却又坚守原则的人形。她会调制香气四溢的咖啡，\n也会坚定地守护咖啡馆—一这便是“方糖”无可取代的屏障。
@@ -99,70 +94,76 @@
 @DOLL-XCR-NAME=夏克里
 @DOLL-XCR-DESC=散发着“小恶魔”气息的人形，她的甜蜜微笑下隐藏着可爱心机。\n她要的不止是舞台，更是客人们永不枯竭的爱意哦~
 @WEAP-XCR-NAME=XCR-L标准型突击步枪
-@WEAP-XCR-DESC=XCR是由罗宾逊公司生产的一系列美制步枪的总称，
-The XCR is a line of American rifles by Robinson Armament Co. It was developed for the Special Operations Forces Combat Assault Rifle competition (which would be won by FN's SCAR line) but ultimately never joined it.
+@WEAP-XCR-DESC=XCR是由罗宾逊公司生产的一系列美制步枪的总称，原本是为竞标美军的“特种作战部队战斗突击步枪”项目（更广为人知是其缩写“SCAR”）而设计的，却因种种原因与其失之交臂；FN的竞品最终赢得了招标。
 
-@helmet_gfl_ocular_name=Night Eyes
-@helmet_gfl_ocular_desc=Enhanced optical systems for night vision integration. Allows direct NVG interface without physical mounting hardware.
+@helmet_gfl_ocular_name=夜视义眼
+@helmet_gfl_ocular_desc=集成夜视功能的光学增强系统，可在不外挂仪器的情况下直接实现夜视功能。
 
-@armor_gfl_reactive_name=Reactive Shielding
-@armor_gfl_reactive_desc=Integrated defensive matrix. Provides ballistic protection without external armor plating.
+@armor_gfl_reactive_name=反应式防护
+@armor_gfl_reactive_desc=集成防御矩阵，可在不额外穿挂防具的情况下提供防护。
 
-@armor_gfl_matrix_name=Combat Matrix
-@armor_gfl_matrix_desc=Enhanced defensive field generator. Improved protection with minimal system load.
+@armor_gfl_matrix_name=战斗用矩阵
+@armor_gfl_matrix_desc=防御用立场发生器，可在只增加少量系统负荷的情况下增强防护。
 
-@armor_gfl_hardened_name=Hardened Core
-@armor_gfl_hardened_desc=Maximum protection configuration. Reinforced defensive systems provide superior ballistic resistance.
+@armor_gfl_hardened_name=硬化核心
+@armor_gfl_hardened_desc=最高档的防护配置，通过强化的防御系统提供更强的抗弹能力。
 
-@menu_doctrine_branch_calibration=CALIBTRATION
-@menu_doctrine_branch_neuralhelix=NEURAL HELIX
-@menu_doctrine_branch_remolder=PATTERN REMOLDER
+@menu_doctrine_branch_calibration=校准
+@menu_doctrine_branch_neuralhelix=神经螺旋
+@menu_doctrine_branch_remolder=模式重构
 
-@doctrine_gfl_defy_femalegorilla_name=The Female Gorilla
-@doctrine_gfl_defy_femalegorilla_descr=Voymastina intimidates anyone in her presense. Enemies within her raduis gain reduced accuracy, supression recovery, and aim time.
-@buff_gfl_defy_femalegorillabuff=Intimidated by Voymastina
+@doctrine_gfl_defy_femalegorilla_name=高大威猛
+@doctrine_gfl_defy_femalegorilla_descr=威玛西娜的存在对敌人就是一种威吓，位于其附近的敌人精准度、压制恢复速度和瞄准速度均会下降。
+@buff_gfl_defy_femalegorillabuff=母猩猩好可怕…
 
 @doctrine_gfl_defy_alphaprotocol_name=“头狼”协议
-@doctrine_gfl_defy_alphaprotocol_descr=Alva leads DEFY as its new alpha operator. When she eliminates targets, allies within gain accuracy, suppression recovery, and movement speed for 5 seconds.
-@buff_gfl_defy_tacticalsynchronization=Synchronized with Alva
+@doctrine_gfl_defy_alphaprotocol_descr=历经十年，曾经的人偶已然蜕变为了狼群的新王。当埃芙击杀一名敌人时，附近的盟友获得5秒的精准度、压制恢复速度和移动速度增益。
+@buff_gfl_defy_tacticalsynchronization=已与埃芙同步
 
-@doctrine_gfl_defy_perfectmortality_name=Perfect Mortality
-@doctrine_gfl_defy_perfectmortality_descr=Death gives meaning to existence. Greatly increases incapacitation chance over death, enables self-repair, and fights harder when wounded.
+@doctrine_gfl_defy_perfectmortality_name=完美谢幕
+@doctrine_gfl_defy_perfectmortality_descr=死亡赋予存在以意义。人形倒下时将会有更高几率进入伤残状态，并进入自我修复模式，而非直接死亡；人形在受伤时愈战愈勇。
 
-@doctrine_gfl_defy_iceandblood_name=Ice & Blood
-@doctrine_gfl_defy_iceandblood_descr=Cold precision meets violent efficiency. Faster target acquisition, increased critical chance on consecutive kills, and resistance to suppression.
+@doctrine_gfl_defy_iceandblood_name=冰与血
+@doctrine_gfl_defy_iceandblood_descr=人形将其精密性与高效率结合运用，提高目标识别速度、致命射击几率和抵抗压制能力。
 
-@buff_gfl_defy_defycoordination=DEFY Coordination
+@buff_gfl_defy_defycoordination=忤逆内部调谐
 
-@doctrine_gfl_optimized_name=Optimized Performance Mode
-@doctrine_gfl_optimized_descr=Enhanced output and task efficiency algorithms. Increases movement and all field skill speeds. Reduces equipment swap time for technical tools.
+@doctrine_gfl_optimized_name=优化性能模式
+@doctrine_gfl_optimized_descr=增强人形的功率输出与行动算法，加快移动速度和战场技法并减少切换装备所需的时间。
 
-@doctrine_gfl_commprotocols_name=Communication Protocols
-@doctrine_gfl_commprotocols_descr=Language modules enable basic civilian interaction. Allows ordering civilians to safety.
+@doctrine_gfl_commprotocols_name=交流协议
+@doctrine_gfl_commprotocols_descr=新加装的语言模块使得人形可以与平民进行最基础的交流，主动引导他们离开战斗区域。
 
-@doctrine_gfl_advancedprotocols_name=Advanced Protocols
-@doctrine_gfl_advancedprotocols_descr=Full communication suite with command authority. Enables directing civilians to specific exits and clearing rooms of non-combatants.
+@doctrine_gfl_advancedprotocols_name=进阶协议
+@doctrine_gfl_advancedprotocols_descr=全套的交流套件使人形得以引导平民前往安全区域，或是劝离仍在屋内的非战斗人员。
+Full communication suite with command authority. Enables directing civilians to specific exits and clearing rooms of non-combatants.
 
-@doctrine_gfl_tacticalintel_name=Tactical Intelligence
-@doctrine_gfl_tacticalintel_descr=Pre-mission data analysis reveals critical objectives. Makes 2 objectives, hostages, or bombs visible for 10 seconds per node level at mission start.
+@doctrine_gfl_tacticalintel_name=战术情报
+@doctrine_gfl_tacticalintel_descr=在行动前对情报的分析至关重要。关卡开始时揭示2个目标点、人质或炸弹位置，显示10秒。
 
-@doctrine_gfl_infoextraction_name=Information Extraction
-@doctrine_gfl_infoextraction_descr=Advanced interrogation protocols for gathering tactical intelligence. Allows persuading civilians and surrendered enemies to reveal nearby threats.
+@doctrine_gfl_infoextraction_name=信息提取
+@doctrine_gfl_infoextraction_descr=高等级的审讯协议使人形得以自主收集战术情报。允许人形从平民和投降的嫌疑人处获取重要情报。
 
-@doctrine_gfl_cqc_name=CQB Protocols
-@doctrine_gfl_cqc_descr=Close quarters battle subroutines. Significantly improves melee stun duration, damage output, strike speed, and overall mobility.
+@doctrine_gfl_cqc_name=近距作战协议
+@doctrine_gfl_cqc_descr=
+人形安装关于近距作战的子程序，显著提高//其击晕敌人的效果、打击的力度和速度，以及机动性。//？对吗
 
-@doctrine_gfl_overwhelming_name=Overwhelming Force
-@doctrine_gfl_overwhelming_descr=Maximum force authorization with precision targeting protocols. Drastically increases melee lethality and attack speed. Enables critical backstab techniques and improves point-blank engagement effectiveness.
+@doctrine_gfl_overwhelming_name=
+Overwhelming Force
+@doctrine_gfl_overwhelming_descr=授权人形使用极端武力和增强其精确射击能力的协议，大幅度
+Maximum force authorization with precision targeting protocols. Drastically increases melee lethality and attack speed. Enables critical backstab techniques and improves point-blank engagement effectiveness.
 
-@doctrine_gfl_rapideploy_name=Rapid Deployment
-@doctrine_gfl_rapideploy_descr=Mobility optimization for rifle-equipped units. Increases movement speed while maintaining combat readiness. Reduces weapon ready and guard times significantly.
+@doctrine_gfl_rapideploy_name=快速部署
+@doctrine_gfl_rapideploy_descr=
+Mobility optimization for rifle-equipped units. Increases movement speed while maintaining combat readiness. Reduces weapon ready and guard times significantly.
 
 @doctrine_gfl_transition_name=Weapon Transition Drills
 @doctrine_gfl_transition_descr=Automated sidearm deployment protocols. Enables instant pistol transition when primary weapon empties. Drastically improves pistol swap speed and close-range effectiveness.
 
-@doctrine_gfl_combateff_name=Combat Efficiency
-@doctrine_gfl_combateff_descr=Comprehensive rifle optimization protocols combining precision and speed. Improves accuracy, aim time, and follow-up shot placement across all engagement ranges.
+@doctrine_gfl_combateff_name=作战效率
+Combat Efficiency
+@doctrine_gfl_combateff_descr=
+Comprehensive rifle optimization protocols combining precision and speed. Improves accuracy, aim time, and follow-up shot placement across all engagement ranges.
 
 @doctrine_gfl_suppression_name=Suppression Protocols
 @doctrine_gfl_suppression_descr=Coordinated suppressive fire patterns with target vulnerability analysis. Increases suppression output significantly and provides accuracy bonuses against suppressed targets. Reduces effectiveness of enemy cover when suppressed.
