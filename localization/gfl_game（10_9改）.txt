@@ -118,7 +118,7 @@
 @DOLL-HARE-NAME=克罗丽科
 @DOLL-HARE-DESC=性格稍显暴躁，对与自己无关的事务没什么兴趣，但拥有无可指摘的责任心。\n就算是类似“担任纳美西丝专属翻译官”这样完全不喜欢的任务，她也会尽心完成。
 @WEAP-HARE-NAME=野兔
-@WEAP-HARE-DESC=A melee weapon highly compatible with Krolik. Modified based on her combat preferences and painted with a skin that matches Krolik's colors.
+@WEAP-HARE-DESC=与克罗丽科契合度高的近战武器，针对克罗丽科的作战偏好进行了一定的改造，涂装上采用了与克罗丽科相配的颜色。
 @firearm_operation_melee=近战
 
 @no_ammo_name=无
@@ -129,7 +129,7 @@
 @DOLL-CURVA-NAME=寇尔芙
 @DOLL-CURVA-DESC=虽然时常看起来热情洋溢，但偶尔也会露出完全不同的冷淡表情。\n她手中的针剂，究竟是用来救死扶伤，还是用来置人于死地？
 @WEAP-CURVA-NAME=金牛座曲线手枪
-@WEAP-CURVA-DESC=The Curve is a concealed-carry .380 ACP pistol by Brazilian company Taurus Armas.
+@WEAP-CURVA-DESC=“曲线”手枪是一把由巴西陶鲁斯公司设计的.380ACP口径袖珍型手枪。
 @firearm_operation_doubleaction_name=双动式
 
 @DOLL-VEPR12-NAME=维普蕾
@@ -149,9 +149,9 @@
 @armor_gfl_hardened_name=硬化核心
 @armor_gfl_hardened_desc=最高档的防护配置，通过强化的防御系统提供更强的抗弹能力。
 
-@menu_doctrine_branch_calibration=校准
-@menu_doctrine_branch_neuralhelix=神经螺旋
-@menu_doctrine_branch_remolder=模式重构
+@menu_doctrine_branch_calibration=行为校准
+@menu_doctrine_branch_neuralhelix=心智螺旋
+@menu_doctrine_branch_remolder=拟态图谱
 
 @doctrine_gfl_defy_femalegorilla_name=高大威猛
 @doctrine_gfl_defy_femalegorilla_descr=威玛西娜光是站着就是对敌人的一种威吓，位于其附近的敌人精准度、压制恢复速度和瞄准速度均会下降。
