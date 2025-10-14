@@ -8,7 +8,7 @@
 @WEAP-AK15-DESC=AK-15是AK-400枪族中的7.62×39mm口径型，该枪族包含一系列卡拉什尼科夫集团为“勇士”计划（别名“俄罗斯未来步兵系统”计划）研发的新型步枪，俄军于2018年正式采用了其中的AK-12和AK-15两型突击步枪。
 
 @DOLL-AN94-NAME=埃芙
-@DOLL-AN94-DESC=十年前由新苏联安全局主导的人形研发项目“狼群计划”的原型机，现任忤逆小队队长。\n在十年前的法兰克福协助指挥官完成斩首行动后，与安全局签下协议后获得受限制的自由，\n之后作为自由人小队在黄区开始了长达十年的与帕拉蒂斯的斗争。作为忤逆小队的领袖，曾经的人偶已然蜕变为了狼群的新王，深受队员信赖，\n在多方势力中周旋，确保忤逆小队自身的生存的同时，也不断打击着帕拉蒂斯的阴谋。
+@DOLL-AN94-DESC=十年前由新苏联安全局主导的人形研发项目“狼群计划”的原型机，现任忤逆小队队长。\n在十年前的法兰克福协助指挥官完成斩首行动后，与安全局签下协议后获得受限制的自由，\n之后作为自由人小队在黄区开始了长达十年的与帕拉蒂斯的斗争。作为忤逆小队的领袖，曾经的人偶已然\n蜕变为了狼群的新王，深受队员信赖，在多方势力中周旋，确保忤逆小队自身的生存的同时，也不断打击着帕拉蒂斯的阴谋。
 @WEAP-AN94-NAME=AN-94突击步枪
 @WEAP-AN94-DESC=AN-94，即“1994型尼科诺夫突击步枪”，是伊孜玛什厂为开展于1980-1994年间的“阿巴甘”突击步枪选型计划研制的5.45x39mm口径导气式突击步枪，GRAU编号6P33。\n\n作为“阿巴甘”计划的唯一成果，AN-94获得了与计划同名的外号。
 
@@ -24,15 +24,15 @@
 @DOLL-G11-NAME=米什缇
 @DOLL-G11-DESC=除了打游戏、看漫画，无论做什么都懒洋洋的人形，拥有在任何地方任何状态下安然入睡的绝技。\n看似将躺平发挥到极致的她，在危机时刻也会显露出可靠的一面一一但本人觉得最好还是不要有\n“危急时刻”比较好啦…
 @WEAP-G11-NAME=G11突击步枪
-@WEAP-G11-DESC=北约在冷战期间最重要的项目之一便是对无壳弹的研究，此种弹药——若研制成功——可显著减小弹药的储存和后勤难度，并让步兵得以使用射速更高的步枪作战。最终，多数的无壳弹项目要么失败，要么无人问津，只有黑克勒&科赫公司的G11达到了可装备的水平。\n\n理论上，无壳弹可以达到比普通步枪更高的射速，因为使用无壳弹的步枪在开锁时并不需要抽壳和抛壳，只需推入下一发子弹便可上膛射击。
+@WEAP-G11-DESC=北约在冷战期间最重要的项目之一便是对无壳弹的研究，此种弹药——若研制成功——可显著减小弹药的储存和后勤难度，并让步兵得以使用射速更高的步枪作战。最终，多数的无壳弹项目要么失败，要么无人问津，只有黑克勒&科赫公司的G11达到了可装备的水平。\n\n理论上，无壳弹步枪可以达到比普通步枪更高的射速，因为使用此种步枪在开锁时并不需要抽抛壳，只需推入下一发子弹便可上膛射击。
 @firearm_caliber_473x33_name=4.73×33mm 无壳弹
-@ammo_473_caseless_name=4.73x33mm DM11无壳弹
+@ammo_473_caseless_name=4.73x33mm DM11
 @ammo_473_caseless_desc=无弹壳、大弹容、高射速，这就是无壳弹，听诺贝尔说。
 
 @DOLL-G36K-NAME=安朵丝
 @DOLL-G36K-DESC=温婉和善的人形，眼中的笑意能让冰雪消融。但当她长时间地盯着你微笑的时候，不要怀疑，\n她应该是宕机了。这种时常宕机的特性让安朵丝很少能在战场上全力输出。没关系，火力不足，\n情报来凑。拥有超大存储空间的安朵丝是收集情报的一把好手，那些细枝末节的线索，只有你想不到，\n没有她注意不到。在战场之后，安朵丝用这种独特的方式，开辟了自己的道路，也找到了自己最终的归宿。
 @WEAP-G36K-NAME=G36K-KSK卡宾枪
-@WEAP-G36K-DESC=G36K（“kurz”，德语的“短”）是黑克勒&科赫公司于1997年公布的短卡宾型G36，安朵丝使用的是KSK采用于2022年的G36KA4。
+@WEAP-G36K-DESC=G36K（“kurz”，德语的“短”）是黑克勒&科赫公司于1997年公布的短卡宾型G36，安朵丝使用的是KSK于2022年采用的G36KA4。
 
 @DOLL-G28-NAME=比悠卡
 @DOLL-G28-DESC=天真有朝气的人形，人见人爱的气氛活跃好手。单纯面孔下藏着的是各种无害小心机，\n偶尔犯点小迷糊又如何？只要大眼一眨笑脸一露，所有人都会原谅比悠卡啦！但别以为她\n只是个可爱花瓶，战场上她可从不对敌人手软。即便足够优秀，比悠卡也从未放弃努力。\n向姐姐学习，成为精英人形，这样才能成为指挥官和姐姐身边最有用的人——\n比悠卡的心愿，只是想待在心爱的人身边而已。
@@ -44,15 +44,15 @@
 @WEAP-UMP45-NAME=UMP45冲锋枪
 @WEAP-UMP45-DESC=UMP（Universale Maschinenpistole，"通用冲锋枪"）是由黑克勒&科赫公司设计的一系列采用不同口径的气吹式闭膛待击冲锋枪，莱娅使用的是填装.45ACP口径的UMP45。\n\nUMP枪族均配有可折叠的聚合物枪托、柄型弹匣解脱杆、可安装配件（如垂直握把）的护木和200毫米长的枪管。上机匣可安装导轨，以便安装瞄具。
 @firearm_caliber_45acp_name=.45 ACP
-@ammo_45acp_fmj_name=.45 ACP 被甲弹
+@ammo_45acp_fmj_name=.45 ACP FMJ
 @ammo_45acp_fmj_desc=标准的亚音速全金属被甲弹，弹头重且停止作用好。
-@ammo_45acp_jhp_name=.45 ACP 空尖弹
+@ammo_45acp_jhp_name=.45 ACP JHP
 @ammo_45acp_jhp_desc=追求弹头最大限度扩张的空尖弹，高杀伤但低穿深。
 
 @DOLL-UMP9-NAME=莱娜
 @DOLL-UMP9-DESC=跟随格琳娜进入非军事力量管理局的莱娜，“早就是独当一面的优秀人形啦♪”。\n然而三句话不离姐姐的习惯，还是暴露了她对家人的依赖。虽然目前与队友们处于\n分头行动的状态，但她从未忘怀那些并肩作战的日子。新的工作，新的素体，不变的\n只有莱娜的初心。她衷心期待着，在重逢的时刻，为她最为珍视的你献上最真诚的笑容和拥抱。
 @WEAP-UMP9-NAME=UMP9冲锋枪
-@WEAP-UMP9-DESC=正如其名所示，UMP9是UMP枪族中的9x19mm帕弹口径型。和枪族中的另外两位成员一样，UMP9也有着半自动、全自动和2发点射模式三种射击模式。\n\nUMP9标准配备有200毫米枪管和30发双排单进弹匣，循环射速可达600-650发/分钟，理论有效射程约为100米。
+@WEAP-UMP9-DESC=正如其名所示，UMP9是UMP枪族中的9x19mm帕弹口径型；和枪族中的另外两位成员一样，UMP9也有着半自动、全自动和2发点射模式三种射击模式。\n\nUMP9标准配备有200毫米枪管和30发双排单进弹匣，循环射速可达600-650发/分钟，理论有效射程约为100米。
 
 @DOLL-VECTOR-NAME=维克托
 @DOLL-VECTOR-DESC=习惯性悲观的人形，但作为H.I.D.E.404第二分队的队长，\n无论演算出何等让人绝望的结果，维克托也绝对会坚守到最后一刻，\n与小队一起直面困境。
@@ -62,7 +62,7 @@
 @ammo_45acp_jhp_vector_desc=可在CQB情形下发挥最大威力的空尖弹。
 
 @GFL-UNIT-CAFE-NAME=方糖咖啡馆
-@GFL-UNIT-CAFE-DESC=以位于平民区的咖啡馆为据点，利用服务员身份作为掩护，为雇主提供勤务帮助的支援人形小队。
+@GFL-UNIT-CAFE-DESC=以平民区的咖啡馆为据点，利用服务员身份作为掩护，为雇主提供勤务帮助的支援人形小队。
 @#GFL-UNIT-CAFE-NAME-RND=方糖咖啡馆
 
 @DOLL-M1903-NAME=春田
@@ -71,9 +71,9 @@
 @WEAP-M1903-DESC=M1903“春田”步枪是一款弹仓供弹的栓动式步枪，正式名称为“美制M1903式.30-06口径步枪”，士兵们经常称呼其为“03”或“春田”。在第一次世界大战期间，春田是美军士兵手中最常见的武器。\n\n即使到了今天，春田也依然享有极高的声誉，在民用市场、收藏拍卖、射击竞赛和军队庆典等场景中不断发挥余热。
 @firearm_caliber_3006_name=.30-06“春田”步枪弹
 @firearm_operation_boltaction_name=栓动式
-@ammo_3006_fmj_name=.30-06 M2普通弹
+@ammo_3006_fmj_name=.30-06 M2 Ball
 @ammo_3006_fmj_desc=军标全金属被甲弹，射程远且穿透力高。
-@ammo_3006_match_name=.30-06 竞赛弹
+@ammo_3006_match_name=.30-06 Match
 @ammo_3006_match_desc=为追求准确度和终端效能而精挑细选的比赛级弹药，严格控制了弹头的制造公差和装药量。
 
 @DOLL-WA2000-NAME=玛绮朵
@@ -81,9 +81,9 @@
 @WEAP-WA2000-NAME=WA2000狙击步枪
 @WEAP-WA2000-DESC=WA2000是由卡尔·瓦尔特公司设计的无托式半自动狙击步枪，完全为军警单位而设计。\n该枪起源于1972年的慕尼黑惨案，设计于1970-1980年间，并于1982-1988年间投入生产。
 @firearm_caliber_300wm_name=.300 温彻斯特-马格南弹
-@ammo_300wm_fmj_name=.300 Win Mag 被甲弹
+@ammo_300wm_fmj_name=.300 Win Mag FMJ
 @ammo_300wm_fmj_desc=为长距离精确射击而设计的超音速马格南弹，弹道性能优越、终端效能出色。
-@ammo_300wm_match_name=.300 Win Mag 竞赛弹
+@ammo_300wm_match_name=.300 Win Mag Match
 @ammo_300wm_match_desc=精挑细选的比赛级弹药，即使到了极限射程也能保证弹药的一致性和精准度。
 
 @DOLL-G36-NAME=桑朵莱希
@@ -94,32 +94,39 @@
 @DOLL-XCR-NAME=夏克里
 @DOLL-XCR-DESC=散发着“小恶魔”气息的人形，她的甜蜜微笑下隐藏着可爱心机。\n她要的不止是舞台，更是客人们永不枯竭的爱意哦~
 @WEAP-XCR-NAME=XCR-L标准型突击步枪
-@WEAP-XCR-DESC=XCR是由罗宾逊公司生产的一系列美制步枪的总称，原本是为竞标美军的“特种作战部队战斗突击步枪”项目（更广为人知是其缩写“SCAR”）而设计的，却因种种原因与其失之交臂；FN的竞品最终赢得了招标。
+@WEAP-XCR-DESC=XCR是由罗宾逊公司生产的一系列美制步枪的总称，原本是为竞标美军的“特种作战部队战斗突击步枪”项目（更广为人知的是其缩写“SCAR”）而设计的，却因种种原因与项目失之交臂；FN的竞品最终赢得了招标。
 
 @GFL-UNIT-GROZA-NAME=闪电小队
 @GFL-UNIT-GROZA-DESC=闪电小队
-@#GFL-UNIT-GROZA-NAME-RND=闪电小队
+@#GFL-UNIT-GROZA-NAME-RND=指挥官在艾莫号上最重要的小队。成员们的背景虽然不同，但在闪电的领导下一直活跃于黄区之中。
 
 @DOLL-OTS14-NAME=闪电
 @DOLL-OTS14-DESC=成熟稳重的精英人形，当之无愧的小队核心。就算小队成员性格迥异，\n她也能很好地统合起众人的力量。只要有她在，一切都不会成为问题。
 @WEAP-OTS14-NAME=OTs-14“闪电”突击步枪
-@WEAP-OTS14-DESC=The OTs-14 'Groza' ("Thunderstorm") is a bullpup-configured, modular assault rifle system developed during the early 1990s by V. Telesh and Ju. Lebedev at the TsKIB SOO (Central Design Bureau for Sporting and Hunting Arms). Like its predecessor project the OTs-12 'Tiss', the design of the 'Groza' is based on the AKS-74U, and was an attempt to integrate all the best features from the various close quarter combat weapons in service into one singular unit. OTs-14 units have a great amount of interchangeable parts with the standard AK-74U.
+@WEAP-OTS14-DESC=OTs-14“闪电”是由图拉兵工厂下属的中央设计局运动和狩猎武器部于1992年设计的一种模块化无托突击步枪系统。\n和其“前辈”OTs-12“紫衫树”一样，OTs-14也是基于AKS-74U设计的，旨在于集俄军现役武器之所长，整合出一把专为近距离作战场景使用的武器。\n\n事实上，“雷电”就是一种AKS-74U的无托改型，因此两者之间有大量的零件可以互换使用。
 
 @DOLL-OM50-NAME=纳美西丝
 @DOLL-OM50-DESC=热衷神秘学与占卜，随身携带神奇的占卜道具“棱镜”。而占卜的结果，通常会被她用充满神秘色彩、\n令人费解的语言风格表达出来。但她仍是非常可靠的同伴一一除了难以沟通之外。
 @WEAP-OM50-NAME=OM 50“复仇女神”狙击步枪
-@WEAP-OM50-DESC=The OM 50 Nemesis, now designated SAN 511, is a .50 BMG bolt-action rifle produced by the Swiss branch of SIG Sauer.
+@WEAP-OM50-DESC=OM 50“复仇女神”（现用名SAN 511）是由瑞士西格绍尔生产的12.7x99mm口径栓动步枪。
 @firearm_caliber_50bmg_name=.50 BMG
 @ammo_50bmg_fmj_name=.50 BMG FMJ
-@ammo_50bmg_fmj_desc=Massive anti-materiel cartridge with devastating power. Extreme penetration and stopping power at extended ranges. Loud report.
+@ammo_50bmg_fmj_desc=“雄伟”的弹药带给您“雄伟”的反器材体验，即使到了极限射程，穿透力和停止力也依然不减。\n\n温馨提示：发射时注意保护耳膜。
 @ammo_50bmg_match_name=.50 BMG Match
-@ammo_50bmg_match_desc=Premium match-grade .50 BMG ammunition. Exceptional accuracy and consistency for surgical precision at extreme distances. Devastating terminal performance.
+@ammo_50bmg_match_desc=比赛级.50 BMG弹药。即使敌人在千里之外，你也能给他做个“小小”的“外科手术”。
 
 @DOLL-HARE-NAME=克罗丽科
 @DOLL-HARE-DESC=性格稍显暴躁，对与自己无关的事务没什么兴趣，但拥有无可指摘的责任心。\n就算是类似“担任纳美西丝专属翻译官”这样完全不喜欢的任务，她也会尽心完成。
 @WEAP-HARE-NAME=野兔
 @WEAP-HARE-DESC=与克罗丽科契合度高的近战武器，针对克罗丽科的作战偏好进行了一定的改造，涂装上采用了与克罗丽科相配的颜色。
 @firearm_operation_melee=近战
+
+@armor_gfl_hare_name=战术盾牌
+@armor_gfl_hare_desc=装载强化护板的战术盾牌，虽然限制了克罗丽科的行动力，但在突入房间时这块盾牌就是她最好的防护。
+
+@armor_gfl_hare_heavy_name=
+Heavy Shield Rig
+@armor_gfl_hare_heavy_desc=带有额外侧/后护甲板的全向防护系统，虽然会让克罗丽科变成显眼的移动堡垒，但往好处想，移动堡垒可以扛下的子弹可比普通人形多太多了。
 
 @no_ammo_name=无
 @no_ammo_desc=
@@ -129,13 +136,13 @@
 @DOLL-CURVA-NAME=寇尔芙
 @DOLL-CURVA-DESC=虽然时常看起来热情洋溢，但偶尔也会露出完全不同的冷淡表情。\n她手中的针剂，究竟是用来救死扶伤，还是用来置人于死地？
 @WEAP-CURVA-NAME=金牛座曲线手枪
-@WEAP-CURVA-DESC=“曲线”手枪是一把由巴西陶鲁斯公司设计的.380ACP口径袖珍型手枪。
+@WEAP-CURVA-DESC=“曲线”手枪是由巴西陶鲁斯公司设计的.380ACP口径袖珍型手枪。
 @firearm_operation_doubleaction_name=双动式
 
 @DOLL-VEPR12-NAME=维普蕾
 @DOLL-VEPR12-DESC=活跃在“战场”这个特殊舞台上的偶像！每天都在为了下一场\n演出做着万全的准备一一这样，就不会再轻易摔倒或者撞到其他人了吧。
 @WEAP-VEPR12-NAME=Vepr-12霰弹枪
-@WEAP-VEPR12-DESC=The Vepr-12 is a semi-automatic shotgun derived from the RPK by Molot Oruzhie Ltd. It shouldn't be confused with the Vepr Ukrainian bullpup rifle.
+@WEAP-VEPR12-DESC=Vepr-12是由Molot工厂基于RPK设计的半自动霰弹枪。\n\n注意：此Vepr非彼Vepr，乌克兰的Vepr是无托的。
 
 @helmet_gfl_ocular_name=夜视义眼
 @helmet_gfl_ocular_desc=集成夜视功能的光学增强系统，可在不外挂仪器的情况下直接实现夜视功能。
@@ -149,7 +156,7 @@
 @armor_gfl_hardened_name=硬化核心
 @armor_gfl_hardened_desc=最高档的防护配置，通过强化的防御系统提供更强的抗弹能力。
 
-@menu_doctrine_branch_calibration=行为校准
+@menu_doctrine_branch_calibration=模式校准
 @menu_doctrine_branch_neuralhelix=心智螺旋
 @menu_doctrine_branch_remolder=拟态图谱
 
@@ -215,25 +222,25 @@
 @doctrine_gfl_defy_tacticalindep_descr=小队在决策时更加独立自主。提高人形的压制恢复速度、目标切换速度和伤害抗性。
 
 @doctrine_gfl_defy_squaddefiance_name=团队抗争
-@doctrine_gfl_defy_squaddefiance_descr=小队在压倒性的劣势下屹立不倒。增强人形的前向防护面积和伤害抗性，人形击杀敌人时给予附近的盟友进攻性增益和防御性增益。
+@doctrine_gfl_defy_squaddefiance_descr=小队在压倒性的劣势下屹立不倒。增强人形的前向防护面积和伤害抗性，人形击杀敌人时给予附近的盟友进攻性/防御性增益。
 
 @buff_gfl_defy_defiant=击杀激励
 
 @doctrine_gfl_404_dreamwonderland_name=梦游仙境
-@doctrine_gfl_404_dreamwonderland_descr=米什缇在进入补丁模式时增强自身的伤害抗性。在击杀目标后，米什缇直接嗯造能量饮料，并进入持续7秒的激斗模式，用伤害抗性换取强大的进攻能力。
+@doctrine_gfl_404_dreamwonderland_descr=米什缇在进入补丁模式时增强自身的伤害抗性。击杀目标后，米什缇直接嗯造一罐能量饮料，并进入持续7秒的激斗模式，用伤害抗性换取强大的进攻能力。
 
 @buff_gfl_404_turbomode=激斗模式
 
 @doctrine_gfl_404_noticemebigsis_name=姐姐请注意我！
-@doctrine_gfl_404_noticemebigsis_descr=Belka's desire to become an elite like Klukai drives her to greater heights. When in range of her Big Sis, Belka gains improved accuracy, critical chance, aim speed, and movement.
+@doctrine_gfl_404_noticemebigsis_descr=比悠卡对精英人形姐姐的憧憬驱使着她不断前进。当比悠卡位于可露凯附近时获得精准度、暴击率、瞄准速度和移速增益。
 
-@buff_gfl_404_belkainspired=Inspired by Klukai
+@buff_gfl_404_belkainspired=被可露凯姐姐激励
 
 @doctrine_gfl_404_shadowsfury_name=Shadow's Fury
-@doctrine_gfl_404_shadowsfury_descr=Lenna is Leva's devoted shadow, uncomfortable when separated from her big sister. When close to Leva, Lenna feels at ease and fights more effectively. When Leva engages in combat, the protective shadow erupts into fury to defend the one she cherishes.
+@doctrine_gfl_404_shadowsfury_descr=莱娜如影随形地追随着她的姐姐，并会对分离感到不安。当莱娜位于莱娅附近时，莱娜会感到安心，并因此获得增益；当莱娅与敌人交战时，莱娜希望保护姐姐的急切心态使她获得更强大的增益，以此保护她的珍爱之人。
 
-@buff_gfl_404_shadowpresence=Near Big Sister
-@buff_gfl_404_furyunleashed=Protective Fury
+@buff_gfl_404_shadowpresence=在莱娅姐附近
+@buff_gfl_404_furyunleashed=保护莱娅姐！
 
 @doctrine_gfl_404_depressivementality_name=颓丧心态
 @doctrine_gfl_404_depressivementality_descr=A regularly pessimistic Doll who expects the worst. However, as leader of Team B, Vector will absolutely push through and endure till the very last moment with her teammates in the face of adversity. When wounded, her calculations drive her to fight even harder.
@@ -244,15 +251,15 @@
 @doctrine_gfl_404_highvaluetarget_name=High Value Target
 @doctrine_gfl_404_highvaluetarget_descr=Professional mercenaries identify and prioritize high-threat targets like suicide bombers. Enhanced targeting systems improve accuracy, headshot probability, and rapid engagement of multiple clustered enemies.
 
-@doctrine_gfl_404_phantomsignal_name=Phantom Signal
-@doctrine_gfl_404_phantomsignal_descr=Squad 404's signature electronic warfare tactics. Generates fake communication signals and radio interference that disrupts enemy coordination, accuracy, and combat effectiveness at close range.
+@doctrine_gfl_404_phantomsignal_name=幽灵信号
+@doctrine_gfl_404_phantomsignal_descr=人形施展H.I.D.E 404标志性的电子战战法，生成假信号并扰乱敌方通讯。人形靠近敌人时给予敌方减益。
 
-@buff_gfl_404_signaljammed=Signal Jammed
+@buff_gfl_404_signaljammed=信号阻断
 
-@doctrine_gfl_404_damagecontrol_name=Damage Control
+@doctrine_gfl_404_damagecontrol_name=损害管制
 @doctrine_gfl_404_damagecontrol_descr=Despite their dysfunctional dynamics, Squad 404 excels at handling chaotic situations. Always prepared for problems with enhanced resilience and mobility. When wounded, they fight even harder to clean up the mess.
 
-@doctrine_gfl_404_cqcdominance_name=Close Quarters Dominance
+@doctrine_gfl_404_cqcdominance_name=近战霸权
 @doctrine_gfl_404_cqcdominance_descr=Squad 404's aggressive breach tactics and close-range expertise. Exceptional movement speed combined with devastating accuracy and lethality in confined spaces.
 
 @doctrine_gfl_cafe_pathofprotection_name=守护之道
@@ -263,7 +270,7 @@
 @doctrine_gfl_cafe_absolutementaldefense_name=绝对心防
 @doctrine_gfl_cafe_absolutementaldefense_descr=“不、不要随便闯进别人的私人空间啊！” Makiatto's unshakeable focus and mental fortitude under pressure. Her exceptional discipline allows her to resist suppression and maintain precision even in chaotic situations, delivering accurate long-range fire when others would falter.
 
-@doctrine_gfl_cafe_perfectservice_name=Perfect Service
+@doctrine_gfl_cafe_perfectservice_name=完美服务
 @doctrine_gfl_cafe_perfectservice_descr=Centaureissi's meticulous attention to detail and dutiful nature. Her presence instills discipline and precision in nearby allies, improving their efficiency and accuracy through her example of perfect execution.
 
 @buff_gfl_cafe_meticulous=Meticulous Service
@@ -271,10 +278,10 @@
 @doctrine_gfl_cafe_spotlightcharge_name=Spotlight Charge
 @doctrine_gfl_cafe_spotlightcharge_descr=Sharkry's energetic and fashionable nature drives her to the center of action. Active to the point of recklessness, she excels at aggressive close-range engagements with exceptional speed and devastating accuracy.
 
-@doctrine_gfl_cafe_sparklingnight_name=Sparkling Night闪耀星夜
+@doctrine_gfl_cafe_sparklingnight_name=闪耀星夜
 @doctrine_gfl_cafe_sparklingnight_descr=One sip, and it feels as though you're standing on a stage illuminated by fireworks and lights. The café's hospitality network gathers valuable intelligence from patrons, revealing enemy positions at mission start.
 
-@doctrine_gfl_cafe_longsummer_name=Long Summer
+@doctrine_gfl_cafe_longsummer_name=夏日漫漫
 @doctrine_gfl_cafe_longsummer_descr=One sip, and you're greeted by the warmth of the sunlight, the essence of summer, and the cool breeze of air conditioning. Enhanced survival training and field medical skills keep the team operational even under heavy fire.
 
 @doctrine_gfl_cafe_belovedmacchiato_name=Beloved Macchiato
@@ -299,7 +306,7 @@
 @doctrine_gfl_groza_tameyourrabbit_descr=A fierce temper burns beneath the surface, but her sense of responsibility never wavers. When wounded, the rabbit bares her teeth; Faster, fiercer, unyielding. She will give it her all, even if she absolutely detests it.
 
 @doctrine_gfl_groza_cavityprotection_name=Cavity Protection
-@doctrine_gfl_groza_cavityprotection_descr=Cheerful and enthusiastic, yet cold and clinical when necessary. Colgates' advanced medical protocols provide maximum protection. The syringe saves lives, enhanced survival capabilities keep the squad operational. 9 out of 10 squad members agree.
+@doctrine_gfl_groza_cavityprotection_descr=Cheerful and enthusiastic, yet cold and clinical when necessary. Colgate's advanced medical protocols provide maximum protection. The syringe saves lives, enhanced survival capabilities keep the squad operational. 9 out of 10 squad members agree.
 
 @doctrine_gfl_groza_centerstage_name=Center Stage
 @doctrine_gfl_groza_centerstage_descr=Leading from the front with unwavering confidence, Vepley takes center stage on the battlefield with shotgun in hand. Her meticulously prepared performance inspires all who follow in her wake, boosting their morale and combat effectiveness. A perfect performance, dedicated to all Vepley fans who support her.
