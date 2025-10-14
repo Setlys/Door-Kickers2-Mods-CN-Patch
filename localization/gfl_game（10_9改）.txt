@@ -124,8 +124,7 @@
 @armor_gfl_hare_name=战术盾牌
 @armor_gfl_hare_desc=装载强化护板的战术盾牌，虽然限制了克罗丽科的行动力，但在突入房间时这块盾牌就是她最好的防护。
 
-@armor_gfl_hare_heavy_name=
-Heavy Shield Rig
+@armor_gfl_hare_heavy_name=重型防护套件
 @armor_gfl_hare_heavy_desc=带有额外侧/后护甲板的全向防护系统，虽然使用这套系统会让克罗丽科变成显眼的移动堡垒，但往好处想，移动堡垒可以扛下的子弹可比普通人形多太多了。
 
 @no_ammo_name=无
@@ -236,8 +235,8 @@ Heavy Shield Rig
 
 @buff_gfl_404_belkainspired=被可露凯姐姐激励
 
-@doctrine_gfl_404_shadowsfury_name=Shadow's Fury
-@doctrine_gfl_404_shadowsfury_descr=莱娜如影随形地追随着她的姐姐，并会对分离感到不安。当莱娜位于莱娅附近时，莱娜会感到安心，并因此获得增益；当莱娅与敌人交战时，莱娜希望保护姐姐的急切心态使她获得更强大的增益，以此保护她的珍爱之人。
+@doctrine_gfl_404_shadowsfury_name=暗影之怒
+@doctrine_gfl_404_shadowsfury_descr=莱娜如影随形地追随着她的姐姐，与姐姐分离时会感到不安。当莱娜位于莱娅附近时，莱娜会感到安心，并因此获得增益；当莱娅与敌人交战时，莱娜希望保护姐姐的急切心态使她获得更强大的增益，以此保护她的珍爱之人。
 
 @buff_gfl_404_shadowpresence=在莱娅姐附近
 @buff_gfl_404_furyunleashed=保护莱娅姐！
@@ -248,7 +247,7 @@ Heavy Shield Rig
 @doctrine_gfl_404_delayedresponse_name=延迟应答
 @doctrine_gfl_404_delayedresponse_descr=Andoris is an expert intelligence officer with vast data storage, picking up details others miss. Her pre-mission intelligence reveals enemy positions at the start of operations. However, her system crashes and processing delays mean she cannot give her all in direct combat. Enhanced armor compensates for sluggish response times.
 
-@doctrine_gfl_404_highvaluetarget_name=High Value Target
+@doctrine_gfl_404_highvaluetarget_name=高价值目标
 @doctrine_gfl_404_highvaluetarget_descr=Professional mercenaries identify and prioritize high-threat targets like suicide bombers. Enhanced targeting systems improve accuracy, headshot probability, and rapid engagement of multiple clustered enemies.
 
 @doctrine_gfl_404_phantomsignal_name=幽灵信号
