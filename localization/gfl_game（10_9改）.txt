@@ -113,7 +113,7 @@
 @ammo_50bmg_fmj_name=.50 BMG FMJ
 @ammo_50bmg_fmj_desc=“雄伟”的弹药带给您“雄伟”的反器材体验，即使到了极限射程，穿透力和停止力也依然不减。\n\n温馨提示：发射时注意保护耳膜。
 @ammo_50bmg_match_name=.50 BMG Match
-@ammo_50bmg_match_desc=比赛级.50 BMG弹药。即使敌人在千里之外，你也能给他做个“小小”的“外科手术”。
+@ammo_50bmg_match_desc=比赛级.50 BMG弹药，即使敌人在千里之外也能给他做个“小小”的“外科手术”。
 
 @DOLL-HARE-NAME=克罗丽科
 @DOLL-HARE-DESC=性格稍显暴躁，对与自己无关的事务没什么兴趣，但拥有无可指摘的责任心。\n就算是类似“担任纳美西丝专属翻译官”这样完全不喜欢的任务，她也会尽心完成。
@@ -126,7 +126,7 @@
 
 @armor_gfl_hare_heavy_name=
 Heavy Shield Rig
-@armor_gfl_hare_heavy_desc=带有额外侧/后护甲板的全向防护系统，虽然会让克罗丽科变成显眼的移动堡垒，但往好处想，移动堡垒可以扛下的子弹可比普通人形多太多了。
+@armor_gfl_hare_heavy_desc=带有额外侧/后护甲板的全向防护系统，虽然使用这套系统会让克罗丽科变成显眼的移动堡垒，但往好处想，移动堡垒可以扛下的子弹可比普通人形多太多了。
 
 @no_ammo_name=无
 @no_ammo_desc=
