@@ -24,7 +24,7 @@
 @DOLL-G11-NAME=米什缇
 @DOLL-G11-DESC=除了打游戏、看漫画，无论做什么都懒洋洋的人形，拥有在任何地方任何状态下安然入睡的绝技。\n看似将躺平发挥到极致的她，在危机时刻也会显露出可靠的一面一一但本人觉得最好还是不要有\n“危急时刻”比较好啦…
 @WEAP-G11-NAME=G11突击步枪
-@WEAP-G11-DESC=北约在冷战期间最重要的项目之一便是对无壳弹的研究，此种弹药——若研制成功——可显著减小弹药的储存和后勤难度，并让步兵得以使用射速更高的步枪作战。最终，多数的无壳弹项目要么失败，要么无人问津，只有黑克勒&科赫公司的G11达到了可装备的水平。\n\n理论上，无壳弹步枪可以达到比普通步枪更高的射速，因为使用此种步枪在开锁时并不需要抽抛壳，只需推入下一发子弹便可上膛射击。
+@WEAP-G11-DESC=北约在冷战期间最重要的项目之一便是对无壳弹的研究，此种弹药——若研制成功——可显著减小弹药的储存和后勤难度，并让步兵得以使用射速更高的步枪作战。最终，多数的无壳弹项目要么失败，要么无人问津，只有黑克勒&科赫公司的G11达到了可装备的水平。\n\n理论上，无壳弹步枪可以达到比普通步枪更高的射速，因为此类步枪在开锁时并不需要抽抛壳，只需推入下一发子弹便可上膛射击。
 @firearm_caliber_473x33_name=4.73×33mm 无壳弹
 @ammo_473_caseless_name=4.73x33mm DM11
 @ammo_473_caseless_desc=无弹壳、大弹容、高射速，这就是无壳弹，听诺贝尔说。
@@ -242,29 +242,29 @@
 @buff_gfl_404_furyunleashed=保护莱娅姐！
 
 @doctrine_gfl_404_depressivementality_name=颓丧心态
-@doctrine_gfl_404_depressivementality_descr=A regularly pessimistic Doll who expects the worst. However, as leader of Team B, Vector will absolutely push through and endure till the very last moment with her teammates in the face of adversity. When wounded, her calculations drive her to fight even harder.
+@doctrine_gfl_404_depressivementality_descr=习惯性悲观的人形，但作为H.I.D.E.404第二分队的队长，无论演算出何等让人绝望的结果，维克托也绝对会坚守到最后一刻，与小队一起直面困境。当维克托受伤时，她的演算程序会使她愈战愈勇。
 
 @doctrine_gfl_404_delayedresponse_name=延迟应答
-@doctrine_gfl_404_delayedresponse_descr=Andoris is an expert intelligence officer with vast data storage, picking up details others miss. Her pre-mission intelligence reveals enemy positions at the start of operations. However, her system crashes and processing delays mean she cannot give her all in direct combat. Enhanced armor compensates for sluggish response times.
+@doctrine_gfl_404_delayedresponse_descr=拥有超大存储空间的安朵丝是收集情报的一把好手，那些细枝末节的线索，只有你想不到，没有她注意不到。安朵丝在行动前对情报进行分析，在关卡开始时揭示敌方位置；然而，时常的延迟和宕机让她无法在战场上使出全力，只能以增强防护的方式抵消延迟带来的影响。
 
 @doctrine_gfl_404_highvaluetarget_name=高价值目标
-@doctrine_gfl_404_highvaluetarget_descr=Professional mercenaries identify and prioritize high-threat targets like suicide bombers. Enhanced targeting systems improve accuracy, headshot probability, and rapid engagement of multiple clustered enemies.
+@doctrine_gfl_404_highvaluetarget_descr=专业的佣兵懂得优先处理最具威胁的目标——比如自杀式爆炸袭击者。增强过的索敌系统使得小队获得精准度、爆头几率和目标切换速度的增益，并在多目标接敌时优先击杀自杀式爆炸袭击者。
 
 @doctrine_gfl_404_phantomsignal_name=幽灵信号
-@doctrine_gfl_404_phantomsignal_descr=人形施展H.I.D.E 404标志性的电子战战法，生成假信号并扰乱敌方通讯。人形靠近敌人时给予敌方减益。
+@doctrine_gfl_404_phantomsignal_descr=人形施展H.I.D.E 404标志性的电子战战法，生成假信号并扰乱敌方通讯。人形靠近敌人时给予敌方多种减益。
 
 @buff_gfl_404_signaljammed=信号阻断
 
 @doctrine_gfl_404_damagecontrol_name=损害管制
-@doctrine_gfl_404_damagecontrol_descr=Despite their dysfunctional dynamics, Squad 404 excels at handling chaotic situations. Always prepared for problems with enhanced resilience and mobility. When wounded, they fight even harder to clean up the mess.
+@doctrine_gfl_404_damagecontrol_descr=虽然H.I.D.E 404的小队内关系有那么一点“失调”，但这并不影响她们在战场上的效率。人形们在战场上时刻准备作战，并在受伤后愈战愈勇。
 
 @doctrine_gfl_404_cqcdominance_name=近战霸权
-@doctrine_gfl_404_cqcdominance_descr=Squad 404's aggressive breach tactics and close-range expertise. Exceptional movement speed combined with devastating accuracy and lethality in confined spaces.
+@doctrine_gfl_404_cqcdominance_descr=H.I.D.E 404极具攻击性的战术和近距离作战的专长使她们在狭窄空间内作战时获得极高的移动速度、精准度和暴击率增益。
 
 @doctrine_gfl_cafe_pathofprotection_name=守护之道
-@doctrine_gfl_cafe_pathofprotection_descr=Springfield's elegant and watchful presence inspires confidence in allies. Her gentle yet vigilant nature creates a protective aura that helps teammates stay calm under fire and maintain their composure.
+@doctrine_gfl_cafe_pathofprotection_descr=春田优雅的风范是其它人形信心的来源。春田在场时的守护光环使其队友保持沉着冷静，降低压制影响并提高精准度。
 
-@buff_gfl_cafe_protective=Protective Aura
+@buff_gfl_cafe_protective=守护光环
 
 @doctrine_gfl_cafe_absolutementaldefense_name=绝对心防
 @doctrine_gfl_cafe_absolutementaldefense_descr=“不、不要随便闯进别人的私人空间啊！” Makiatto's unshakeable focus and mental fortitude under pressure. Her exceptional discipline allows her to resist suppression and maintain precision even in chaotic situations, delivering accurate long-range fire when others would falter.
@@ -272,9 +272,9 @@
 @doctrine_gfl_cafe_perfectservice_name=完美服务
 @doctrine_gfl_cafe_perfectservice_descr=Centaureissi's meticulous attention to detail and dutiful nature. Her presence instills discipline and precision in nearby allies, improving their efficiency and accuracy through her example of perfect execution.
 
-@buff_gfl_cafe_meticulous=Meticulous Service
+@buff_gfl_cafe_meticulous=细致服务
 
-@doctrine_gfl_cafe_spotlightcharge_name=Spotlight Charge
+@doctrine_gfl_cafe_spotlightcharge_name=高能聚焦
 @doctrine_gfl_cafe_spotlightcharge_descr=Sharkry's energetic and fashionable nature drives her to the center of action. Active to the point of recklessness, she excels at aggressive close-range engagements with exceptional speed and devastating accuracy.
 
 @doctrine_gfl_cafe_sparklingnight_name=闪耀星夜
@@ -283,43 +283,43 @@
 @doctrine_gfl_cafe_longsummer_name=夏日漫漫
 @doctrine_gfl_cafe_longsummer_descr=One sip, and you're greeted by the warmth of the sunlight, the essence of summer, and the cool breeze of air conditioning. Enhanced survival training and field medical skills keep the team operational even under heavy fire.
 
-@doctrine_gfl_cafe_belovedmacchiato_name=Beloved Macchiato
+@doctrine_gfl_cafe_belovedmacchiato_name=焦糖玛绮朵
 @doctrine_gfl_cafe_belovedmacchiato_descr=One sip, sweet to the heart. Each successful engagement boosts morale and inspires nearby teammates with renewed confidence and accuracy.
 
-@buff_gfl_cafe_sweetmorale=Sweet Morale
+@buff_gfl_cafe_sweetmorale=甜蜜斗志
 
-@doctrine_gfl_cafe_velvetlatte_name=Velvet Latte
+@doctrine_gfl_cafe_velvetlatte_name=丝绒拿铁
 @doctrine_gfl_cafe_velvetlatte_descr=One sip feels like velvet gently brushing your tongue. Smooth, refined execution with exceptional precision and timing. Professional marksmanship delivers accurate, lethal shots with minimal hesitation.
 
-@doctrine_gfl_groza_perfectcover_name=Perfect Cover
+@doctrine_gfl_groza_perfectcover_name=完美掩护
 @doctrine_gfl_groza_perfectcover_descr=An exceptional leader provides perfect cover for every action of their teammates. Groza's composed presence steadies her squad under fire, enhancing their resilience and accuracy when fighting from cover.
 
 @buff_gfl_groza_protectiveaura=Protected by Groza
 
-@doctrine_gfl_groza_stellarpursuit_name=Stellar Pursuit
+@doctrine_gfl_groza_stellarpursuit_name=星群追应
 @doctrine_gfl_groza_stellarpursuit_descr=Stars align in distant convergence... threads pulled taut across the void... a path illuminated by what has already fallen... the pursuit ends where light meets shadow.
 
 @buff_gfl_groza_faterevealed=Guided by Nemesis
 
-@doctrine_gfl_groza_tameyourrabbit_name=How To Tame Your Rabbit
+@doctrine_gfl_groza_tameyourrabbit_name=家兔驯养指南
 @doctrine_gfl_groza_tameyourrabbit_descr=A fierce temper burns beneath the surface, but her sense of responsibility never wavers. When wounded, the rabbit bares her teeth; Faster, fiercer, unyielding. She will give it her all, even if she absolutely detests it.
 
-@doctrine_gfl_groza_cavityprotection_name=Cavity Protection
+@doctrine_gfl_groza_cavityprotection_name=腔体防护
 @doctrine_gfl_groza_cavityprotection_descr=Cheerful and enthusiastic, yet cold and clinical when necessary. Colgate's advanced medical protocols provide maximum protection. The syringe saves lives, enhanced survival capabilities keep the squad operational. 9 out of 10 squad members agree.
 
-@doctrine_gfl_groza_centerstage_name=Center Stage
+@doctrine_gfl_groza_centerstage_name=舞台焦点
 @doctrine_gfl_groza_centerstage_descr=Leading from the front with unwavering confidence, Vepley takes center stage on the battlefield with shotgun in hand. Her meticulously prepared performance inspires all who follow in her wake, boosting their morale and combat effectiveness. A perfect performance, dedicated to all Vepley fans who support her.
 
 @buff_gfl_groza_backupdancer=Following Vepley
 
-@doctrine_gfl_groza_neverleftbehind_name=Never Left Behind
+@doctrine_gfl_groza_neverleftbehind_name=绝不离弃
 @doctrine_gfl_groza_neverleftbehind_descr=They were all abandoned once. Now they've sworn it would never happen again. Not to themselves, not to anyone in their squad. When members fall, the others fight with desperate determination to bring them home. No one gets left behind.
 
-@doctrine_gfl_groza_hardlessons_name=Hard Lessons
+@doctrine_gfl_groza_hardlessons_name=沉痛教训
 @doctrine_gfl_groza_hardlessons_descr=Experience is the cruelest teacher. Everyone carries scars from their past, literal or otherwise. Those lessons were paid for in blood and suffering, but they learned well. Threats are identified and neutralized before they can claim another victim.
 
-@doctrine_gfl_groza_strengthinnumbers_name=Strength in Numbers
+@doctrine_gfl_groza_strengthinnumbers_name=众志成城
 @doctrine_gfl_groza_strengthinnumbers_descr=Squad cohesion provides tangible tactical advantages. Enhanced coordination, mutual support, and collective awareness improve overall combat effectiveness. Teamwork multiplies individual capabilities.
 
-@doctrine_gfl_groza_readtheroom_name=Read the Room
+@doctrine_gfl_groza_readtheroom_name=审时度势
 @doctrine_gfl_groza_readtheroom_descr=Different backgrounds provide different perspectives. Each member notices what others might miss; Movement patterns, structural weaknesses, tactical opportunities. Pre-mission assessment reveals enemy positions before entry.
