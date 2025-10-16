@@ -103,7 +103,7 @@
 @DOLL-OTS14-NAME=闪电
 @DOLL-OTS14-DESC=成熟稳重的精英人形，当之无愧的小队核心。就算小队成员性格迥异，\n她也能很好地统合起众人的力量。只要有她在，一切都不会成为问题。
 @WEAP-OTS14-NAME=OTs-14“闪电”突击步枪
-@WEAP-OTS14-DESC=OTs-14“闪电”是由图拉兵工厂下属的中央设计局运动和狩猎武器部于1992年设计的一种模块化无托突击步枪系统。\n和其“前辈”OTs-12“紫衫树”一样，OTs-14也是基于AKS-74U设计的，旨在于集俄军现役武器之所长，整合出一把专为近距离作战场景使用的武器。\n\n事实上，“雷电”就是一种AKS-74U的无托改型，因此两者之间有大量的零件可以互换使用。
+@WEAP-OTS14-DESC=OTs-14“闪电”是由图拉兵工厂下属的中央设计局运动和狩猎武器部于1992年设计的一种模块化无托突击步枪系统。和其“前辈”OTs-12“紫衫树”一样，OTs-14也是基于AKS-74U设计的，旨在于集俄军现役武器之所长，整合出一把专为近距离作战场景使用的武器。\n\n实际上，OTs-14就是AKS-74U的无托改型，两者之间因此有大量的零件可以互换使用。
 
 @DOLL-OM50-NAME=纳美西丝
 @DOLL-OM50-DESC=热衷神秘学与占卜，随身携带神奇的占卜道具“棱镜”。而占卜的结果，通常会被她用充满神秘色彩、\n令人费解的语言风格表达出来。但她仍是非常可靠的同伴一一除了难以沟通之外。
@@ -262,7 +262,7 @@
 @doctrine_gfl_404_cqcdominance_descr=H.I.D.E 404极具攻击性的战术和近距离作战的专长使她们在狭窄空间内作战时获得极高的移动速度、精准度和暴击率增益。
 
 @doctrine_gfl_cafe_pathofprotection_name=守护之道
-@doctrine_gfl_cafe_pathofprotection_descr=春田优雅的风范是其它人形信心的来源。春田在场时的守护光环使其队友保持沉着冷静，降低压制影响并提高精准度。
+@doctrine_gfl_cafe_pathofprotection_descr=春田优雅的风范是其它人形信心的来源。春田在场时的守护光环使附近的盟友保持沉着冷静，降低压制影响并提高精准度。
 
 @buff_gfl_cafe_protective=守护光环
 
@@ -270,7 +270,7 @@
 @doctrine_gfl_cafe_absolutementaldefense_descr=“不、不要随便闯进别人的私人空间啊！”玛绮朵在重压之下依然出类拔萃的自律力使得她在混乱的战场上能够抵制压制带来的影响，并在长距离射击时保持精准。
 
 @doctrine_gfl_cafe_perfectservice_name=完美服务
-@doctrine_gfl_cafe_perfectservice_descr=桑朵莱希在战场上对指令的完美执行使她成为了人形们学习的榜样。当桑朵莱希在场时，附近的盟友精准度和行动效率增益。
+@doctrine_gfl_cafe_perfectservice_descr=桑朵莱希在战场上对指令的完美执行使她成为了人形们学习的榜样。当桑朵莱希在场时，附近的盟友获得精准度和行动效率增益。
 
 @buff_gfl_cafe_meticulous=细致服务
 
