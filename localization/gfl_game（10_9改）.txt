@@ -292,34 +292,34 @@
 @doctrine_gfl_cafe_velvetlatte_descr=仅需轻轻啜饮，便会感到如天鹅绒般的轻柔拂过舌尖。最专业的狙击手会在执行任务时完美运用她的技术，并会在毫不犹疑的情况下射出那发精确而又致命的子弹。
 
 @doctrine_gfl_groza_perfectcover_name=完美掩护
-@doctrine_gfl_groza_perfectcover_descr=An exceptional leader provides perfect cover for every action of their teammates. Groza's composed presence steadies her squad under fire, enhancing their resilience and accuracy when fighting from cover.
+@doctrine_gfl_groza_perfectcover_descr=一位出色的队长会为每一位队员的行动提供掩护。闪电的沉着气场使她的小队成员在掩体后战斗时获得压制抗性、压制恢复速度和精准度增益。
 
-@buff_gfl_groza_protectiveaura=Protected by Groza
+@buff_gfl_groza_protectiveaura=闪电掩护中
 
 @doctrine_gfl_groza_stellarpursuit_name=星群追应
-@doctrine_gfl_groza_stellarpursuit_descr=Stars align in distant convergence... threads pulled taut across the void... a path illuminated by what has already fallen... the pursuit ends where light meets shadow.
+@doctrine_gfl_groza_stellarpursuit_descr=众星…推移于纵横的轨道之上…曲线…横跨于星空之中…被坠落的轨迹所照亮…在光与影的交界处相遇…
 
-@buff_gfl_groza_faterevealed=Guided by Nemesis
+@buff_gfl_groza_faterevealed=被纳美西丝指引
 
 @doctrine_gfl_groza_tameyourrabbit_name=家兔驯养指南
-@doctrine_gfl_groza_tameyourrabbit_descr=A fierce temper burns beneath the surface, but her sense of responsibility never wavers. When wounded, the rabbit bares her teeth; Faster, fiercer, unyielding. She will give it her all, even if she absolutely detests it.
+@doctrine_gfl_groza_tameyourrabbit_descr=虽然克罗丽科的性格稍显暴躁，但却拥有着无可指摘的责任心。克罗丽科在受伤时将会获得极大的进攻性增益：速度更快、攻势更猛烈、意志更坚定。她会使出全力去完成任务，即使她并不喜欢这么做。
 
 @doctrine_gfl_groza_cavityprotection_name=腔体防护
-@doctrine_gfl_groza_cavityprotection_descr=Cheerful and enthusiastic, yet cold and clinical when necessary. Colgate's advanced medical protocols provide maximum protection. The syringe saves lives, enhanced survival capabilities keep the squad operational. 9 out of 10 squad members agree.
+@doctrine_gfl_groza_cavityprotection_descr=寇尔芙在平时开朗而又热情，但在必要时冷淡而又无情。她的高级医疗协议保证了队员的生存能力，而急救措施也能保证小队的最低行动能力。注：90%的小队成员同意这种说法。
 
 @doctrine_gfl_groza_centerstage_name=舞台焦点
-@doctrine_gfl_groza_centerstage_descr=Leading from the front with unwavering confidence, Vepley takes center stage on the battlefield with shotgun in hand. Her meticulously prepared performance inspires all who follow in her wake, boosting their morale and combat effectiveness. A perfect performance, dedicated to all Vepley fans who support her.
+@doctrine_gfl_groza_centerstage_descr=维普蕾凭借坚定的信心冲锋在前，手持霰弹枪成为战场上的焦点。维普蕾精心准备的表演激励了和她一同作战的盟友，提高她们的士气和作战效能；这是一场完美的表演，献给所有支持维普蕾的粉丝。
 
-@buff_gfl_groza_backupdancer=Following Vepley
+@buff_gfl_groza_backupdancer=跟随维普蕾
 
 @doctrine_gfl_groza_neverleftbehind_name=绝不离弃
-@doctrine_gfl_groza_neverleftbehind_descr=They were all abandoned once. Now they've sworn it would never happen again. Not to themselves, not to anyone in their squad. When members fall, the others fight with desperate determination to bring them home. No one gets left behind.
+@doctrine_gfl_groza_neverleftbehind_descr=队员们都曾被抛弃，相聚的她们因此宣誓：绝不抛弃任何一人。当队伍里的成员倒下时，其他队友将会以坚定的决心继续战斗，誓不抛弃任何队友。
 
 @doctrine_gfl_groza_hardlessons_name=沉痛教训
-@doctrine_gfl_groza_hardlessons_descr=Experience is the cruelest teacher. Everyone carries scars from their past, literal or otherwise. Those lessons were paid for in blood and suffering, but they learned well. Threats are identified and neutralized before they can claim another victim.
+@doctrine_gfl_groza_hardlessons_descr=生活是最好的老师。队员们的身上都带着过去的伤痕，而她们牢记着这些用鲜血换来的教训。小队在多目标接敌时优先击杀自杀式爆炸袭击者，并获得精准度、爆头几率和行动效率增益。
 
 @doctrine_gfl_groza_strengthinnumbers_name=众志成城
-@doctrine_gfl_groza_strengthinnumbers_descr=Squad cohesion provides tangible tactical advantages. Enhanced coordination, mutual support, and collective awareness improve overall combat effectiveness. Teamwork multiplies individual capabilities.
+@doctrine_gfl_groza_strengthinnumbers_descr=小队通过提高凝聚力带来切实的战术优势，并通过增强协作、相互支持和集体感知等手段提高小队成员的作战效能。
 
 @doctrine_gfl_groza_readtheroom_name=审时度势
-@doctrine_gfl_groza_readtheroom_descr=Different backgrounds provide different perspectives. Each member notices what others might miss; Movement patterns, structural weaknesses, tactical opportunities. Pre-mission assessment reveals enemy positions before entry.
+@doctrine_gfl_groza_readtheroom_descr=小队成员各异的出身提供了不同的思考角度，每个人都能注意到被他人忽略的地方：队形、弱点、机遇。在关卡开始时揭示敌方位置。
