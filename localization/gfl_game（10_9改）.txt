@@ -323,3 +323,7 @@
 
 @doctrine_gfl_groza_readtheroom_name=审时度势
 @doctrine_gfl_groza_readtheroom_descr=小队成员各异的出身提供了不同的思考角度，每个人都能注意到被他人忽略的地方：队形、弱点、机遇。在关卡开始时揭示敌方位置。
+
+@GEAR-MEDIC-GRENADE-NAME=2x 医疗手榴弹
+@GEAR-MEDIC-GRENADE-DESC=实验性的医疗手榴弹，可以修复影响范围内的所有单位。\n\n注意：混战时请谨慎使用，因为这种修复功能会不分敌我的造福双方。
+@GEAR-MEDIC-GRENADE-TTIP=投掷医疗手榴弹
