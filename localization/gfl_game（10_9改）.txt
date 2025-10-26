@@ -363,5 +363,39 @@
 @DOLL-VSK94-NAME=妮基塔
 @DOLL-VSK94-DESC=坚持正义的治安人员、爱护孩子的温柔姐姐、花钱不眨眼的月光族—一谁说这些身份不能是同一个人？奋战于守护正义的一线，\n妮基塔冷静地践行着自己的原则，但在面对你时，她也会流露出特别的一面。“我的工作告诉我，不要完全相信任何人。不过，\nBOSS是例外了，我们可是一起追逐正义的伙伴呢。”
 @WEAP-VSK94-NAME=VSK-94狙击步枪
-@WEAP-VSK94-DESC=VSK-94是基于9A-91突击步枪发展而成的微声狙击步枪，两者使用同样的9x39mm亚音速步枪弹。VSK-94在出厂时配有消声器和PSO-1瞄准镜，以此在秘密行动中承担精确射手步枪的职责。
+@WEAP-VSK94-DESC=VSK-94是基于9A-91突击步枪发展而成的微声狙击步枪，两者使用同样的9x39mm亚音速步枪弹。\nVSK-94在出厂时配有消声器和PSO-1瞄准镜，以此在秘密行动中承担精确射手步枪的职责。
 @firearm_caliber_939_name=9×39mm
+
+@doctrine_gfl_elmoce_catandmouse_name=即兴猫鼠游戏
+@doctrine_gfl_elmoce_catandmouse_descr=Peritya's relaxed predator instincts awaken on the battlefield. Her LMG suppression pins enemies like a cat toying with mice, while her deadly accuracy pounces on those frozen in fear.
+@buff_gfl_elmoce_terrifiedmouse=Hunted by Peritya
+
+@doctrine_gfl_elmoce_hotoil_name=高油温防护
+@doctrine_gfl_elmoce_hotoil_descr=The kitchen is her new battlefield. After eliminating an enemy, Sabrina's combat adrenaline surges like hot oil splattering from a pan, providing temporary protection and fueling aggressive follow-up attacks.
+@buff_gfl_elmoce_oilshield=Protected by Hot Oil
+
+@doctrine_gfl_elmoce_stirfry_name=烈火烹油
+@doctrine_gfl_elmoce_stirfry_descr=A cheerful hunter who feeds settlements with delicacies from the Yellow Zone. Qiuhua's optimistic presence and well-prepared meals boost squad morale, while her hunting skills make her deadly with a shotgun.
+@buff_gfl_elmoce_wellfed=Well Fed
+
+@doctrine_gfl_elmoce_venturecapital_name=风险投资
+@doctrine_gfl_elmoce_venturecapital_descr=An ambitious Underground Broker invests in her team's survival. Peri's resourcefulness provides the entire squad with improved protective gear and resilience, proving that strength matters more than size.
+
+@doctrine_gfl_elmoce_masochistic_name=恋痛幻觉
+@doctrine_gfl_elmoce_masochistic_descr=Pain comes hand in hand with pleasure, and the boundary between the real and the surreal can become hard to discern. When wounded, Florence's thrill-seeking nature awakens with terrifying intensity, while her unhinged combat behavior disturbs nearby enemies.
+@buff_gfl_elmoce_hallucinating=Disturbed by Florence
+
+@doctrine_gfl_elmoce_righteousverdict_name=正义裁决
+@doctrine_gfl_elmoce_righteousverdict_descr=A righteous Doll firmly believes that no sin can be hidden, and that villains will reap what they sow. Nikketa's path of justice is delivered through her rifle with lethal precision and unwavering confidence.
+
+@doctrine_gfl_elmoce_zonerecon_name=Zone Reconnaissance
+@doctrine_gfl_elmoce_zonerecon_descr=Wandering the contaminated Yellow Zones has taught these dolls the common patrol patterns and hiding spots. Their experience reveals enemy positions at mission start.
+
+@doctrine_gfl_elmoce_survivalinstinct_name=Survival Instinct
+@doctrine_gfl_elmoce_survivalinstinct_descr=Hardened by the harsh contaminated lands, these survivors don't go down easily. Wounds only make them fight harder, driven by an unshakeable will to live.
+
+@doctrine_gfl_elmoce_independent_name=Independent Operators
+@doctrine_gfl_elmoce_independent_descr=Used to operating alone in the wilderness, these wanderers maintain peak performance without relying on squad cohesion. Self-sufficient and deadly.
+
+@doctrine_gfl_elmoce_veteranmarks_name=Veteran Marksmanship
+@doctrine_gfl_elmoce_veteranmarks_descr=Years of combat experience across diverse environments have honed their shooting skills. Superior accuracy and lethality at all ranges with any weapon.
