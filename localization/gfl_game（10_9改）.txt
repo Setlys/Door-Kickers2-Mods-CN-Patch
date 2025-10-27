@@ -367,13 +367,12 @@
 @firearm_caliber_939_name=9×39mm
 
 @doctrine_gfl_elmoce_catandmouse_name=即兴猫鼠游戏
-@doctrine_gfl_elmoce_catandmouse_descr=佩里缇亚压抑着的狩猎本能在战场上尽数/尽情释放。
-慵懒
-Peritya's relaxed predator instincts awaken on the battlefield. Her LMG suppression pins enemies like a cat toying with mice, while her deadly accuracy pounces on those frozen in fear.
+@doctrine_gfl_elmoce_catandmouse_descr=佩里缇亚在战场上尽情释放着她的狩猎本能，如猫戏老鼠一般用机枪压制她的敌人，并在猎物惊慌失措时射出那发最精准、最致命的子弹。
 @buff_gfl_elmoce_terrifiedmouse=佩里缇亚狩猎中
 
 @doctrine_gfl_elmoce_hotoil_name=高油温防护
-@doctrine_gfl_elmoce_hotoil_descr=The kitchen is her new battlefield. After eliminating an enemy, Sabrina's combat adrenaline surges like hot oil splattering from a pan, providing temporary protection and fueling aggressive follow-up attacks.
+@doctrine_gfl_elmoce_hotoil_descr=厨房是她的新战场。塞布丽娜
+The kitchen is her new battlefield. After eliminating an enemy, Sabrina's combat adrenaline surges like hot oil splattering from a pan, providing temporary protection and fueling aggressive follow-up attacks.
 @buff_gfl_elmoce_oilshield=热油防护
 
 @doctrine_gfl_elmoce_stirfry_name=烈火烹油
