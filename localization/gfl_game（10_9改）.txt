@@ -297,7 +297,7 @@
 @buff_gfl_groza_protectiveaura=闪电掩护中
 
 @doctrine_gfl_groza_stellarpursuit_name=星群追应
-@doctrine_gfl_groza_stellarpursuit_descr=众星…推移于纵横的轨道之上…曲线…横跨于星空之中…被坠落的轨迹所照亮…在光与影的交界处相遇…
+@doctrine_gfl_groza_stellarpursuit_descr=众星…推移于纵横的轨道之上…曲线…横跨于星空之中…被坠落的轨迹所照亮…相遇…于光与影的交界处…
 
 @buff_gfl_groza_faterevealed=被纳美西丝指引
 
@@ -367,36 +367,35 @@
 @firearm_caliber_939_name=9×39mm
 
 @doctrine_gfl_elmoce_catandmouse_name=即兴猫鼠游戏
-@doctrine_gfl_elmoce_catandmouse_descr=佩里缇亚在战场上尽情释放着她的狩猎本能，如猫戏老鼠一般用机枪压制她的敌人，并在猎物惊慌失措时射出那发最精准、最致命的子弹。
+@doctrine_gfl_elmoce_catandmouse_descr=佩里缇亚在战场上尽情释放着她的狩猎本能，如猫戏老鼠一般用机枪压制敌人，并在敌人惊慌失措时用她那致命的枪法射出精准一击。
 @buff_gfl_elmoce_terrifiedmouse=佩里缇亚狩猎中
 
 @doctrine_gfl_elmoce_hotoil_name=高油温防护
-@doctrine_gfl_elmoce_hotoil_descr=厨房是她的新战场。塞布丽娜
-The kitchen is her new battlefield. After eliminating an enemy, Sabrina's combat adrenaline surges like hot oil splattering from a pan, providing temporary protection and fueling aggressive follow-up attacks.
+@doctrine_gfl_elmoce_hotoil_descr=厨房是她的新战场。在击杀敌人后，塞布丽娜的肾上腺素如锅中热油般飙升，给予她临时的防御性/进攻性增益。
 @buff_gfl_elmoce_oilshield=热油防护
 
 @doctrine_gfl_elmoce_stirfry_name=烈火烹油
-@doctrine_gfl_elmoce_stirfry_descr=A cheerful hunter who feeds settlements with delicacies from the Yellow Zone. Qiuhua's optimistic presence and well-prepared meals boost squad morale, while her hunting skills make her deadly with a shotgun.
+@doctrine_gfl_elmoce_stirfry_descr=身为黄区的美食猎人，秋桦努力着改变人们食不果腹的困境。秋桦豁达乐观的性格和精心烹饪的菜肴共同提振着队友的士气，而她手里的霰弹枪也因她的狩猎技能而更加致命。
 @buff_gfl_elmoce_wellfed=我吃饱了！
 
 @doctrine_gfl_elmoce_venturecapital_name=风险投资
-@doctrine_gfl_elmoce_venturecapital_descr=An ambitious Underground Broker invests in her team's survival. Peri's resourcefulness provides the entire squad with improved protective gear and resilience, proving that strength matters more than size.
+@doctrine_gfl_elmoce_venturecapital_descr=身为志向远大的新晋暗商，佩莉通过投资让小队获得了提高防护能力和感知能力的新装备；即使是在黄区内，“四两拨千斤”也永不过时。
 
 @doctrine_gfl_elmoce_masochistic_name=恋痛幻觉
-@doctrine_gfl_elmoce_masochistic_descr=Pain comes hand in hand with pleasure, and the boundary between the real and the surreal can become hard to discern. When wounded, Florence's thrill-seeking nature awakens with terrifying intensity, while her unhinged combat behavior disturbs nearby enemies.
+@doctrine_gfl_elmoce_masochistic_descr=疼痛和快感一同到来，虚实的界限愈发难以分辨。在受伤时，芙洛伦追求刺激的本性被快速唤醒，她在战场上狂乱的表现足以打乱附近敌人的心智。
 @buff_gfl_elmoce_hallucinating=芙洛伦勾魂中
 
 @doctrine_gfl_elmoce_righteousverdict_name=正义裁决
-@doctrine_gfl_elmoce_righteousverdict_descr=A righteous Doll firmly believes that no sin can be hidden, and that villains will reap what they sow. Nikketa's path of justice is delivered through her rifle with lethal precision and unwavering confidence.
+@doctrine_gfl_elmoce_righteousverdict_descr=即便见识过各种黑暗，依旧心向光明——妮基塔，从不放弃追逐正义。妮基塔用她的步枪践行着自己的正义之路——精准、致命、始终如一。
 
 @doctrine_gfl_elmoce_zonerecon_name=区域侦察
-@doctrine_gfl_elmoce_zonerecon_descr=Wandering the contaminated Yellow Zones has taught these dolls the common patrol patterns and hiding spots. Their experience reveals enemy positions at mission start.
+@doctrine_gfl_elmoce_zonerecon_descr=黄区的流浪生活让人形们领会到了巡逻和隐蔽的要领。人形们的经历使她们得以总结出敌人的行动规律，并因此在关卡开始时揭示敌方位置。
 
 @doctrine_gfl_elmoce_survivalinstinct_name=生存本能
-@doctrine_gfl_elmoce_survivalinstinct_descr=Hardened by the harsh contaminated lands, these survivors don't go down easily. Wounds only make them fight harder, driven by an unshakeable will to live.
+@doctrine_gfl_elmoce_survivalinstinct_descr=人形们饱经黄区的磨练，因此不会轻言放弃。在战斗时所受的伤只会让她们的求生意志更为坚定，因此愈战愈勇。
 
 @doctrine_gfl_elmoce_independent_name=自主行动
-@doctrine_gfl_elmoce_independent_descr=Used to operating alone in the wilderness, these wanderers maintain peak performance without relying on squad cohesion. Self-sufficient and deadly.
+@doctrine_gfl_elmoce_independent_descr=在荒野中独自生存的经历使得人形们在不依靠团队时也能发挥出最佳表现：自主行动，但仍然致命。
 
 @doctrine_gfl_elmoce_veteranmarks_name=精湛枪法
-@doctrine_gfl_elmoce_veteranmarks_descr=Years of combat experience across diverse environments have honed their shooting skills. Superior accuracy and lethality at all ranges with any weapon.
+@doctrine_gfl_elmoce_veteranmarks_descr=人形们的枪法在常年的流浪与作战中不断精进，她们无论手持何种武器、无论面对多远的目标都有信心一击正中红心。
