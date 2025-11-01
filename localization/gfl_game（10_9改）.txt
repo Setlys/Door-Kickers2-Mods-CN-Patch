@@ -403,3 +403,25 @@
 
 @doctrine_gfl_elmoce_veteranmarks_name=精湛枪法
 @doctrine_gfl_elmoce_veteranmarks_descr=人形们的枪法在常年的流浪与作战中不断精进，她们无论手持何种武器、无论面对多远的目标都有信心一击正中红心。
+
+@DOLL-DP12-NAME=海伦
+@DOLL-DP12-DESC=在格里芬解散后的动荡时期，
+具备强大情报梳理能力的人形，
+选择接受官方安排，并始终追寻着指挥官的下落。因其在官方严苛测试中展露出的杰出情报梳理能力，而被选为“冕洞计划”中的一环。
+蛰伏于暗黑之中的海伦，巧妙利用身边一切的资源、权限，接近情报系统的中枢，尝试推测出财团在罗联内部所布下的庞大计划。
+
+「有我在您的身边，您可以放心地把一切都交给我。至于报酬……我想贪心一点，让指挥官您多陪陪我，好吗？」
+In the chaos of Griffin’s disbandment, Helen accepted a corporate position at Mangi Security Service while still looking for the Commander. Her new job revealed excellent intelligence gathering abilities, leading to her selection for Project Coronal Storm, and her neural cloud was used as the basis for the Third-Generation Doll Cocoon. Moving in the shadows, Helen uses her ingenuity and official authority in the highest circles of information to shed light on the dark plot of the URNC conglomerate.奥尔劳格财团
+@WEAP-DP12-NAME=DP-12霰弹枪
+@WEAP-DP12-DESC=The DP-12 is a bullpup double-barrel pump-action shotgun with dual magazine tubes. Each pump cycles both barrels for devastating close-range firepower.
+
+@DOLL-LEWIS-NAME=刘易斯
+@DOLL-LEWIS-DESC=Lewis was created by Universal Anything Services as a designer of collectible toys, but was later converted into a Tactical Doll and hired by Griffin & Kryuger. After G&K's restructuring, she joined the AI and quantum technology research company 42LAB on Persica's request. As a toy designer, Lewis always hated war and leaving G&K should have been her opportunity to never set foot on the battlefield again. But to create a future for all children and protect their smile, she has decided to remain on the path of the T-Doll.
+@WEAP-LEWIS-NAME=Lewis Machine Gun
+@WEAP-LEWIS-DESC=
+The Lewis Gun is a WWI-era light machine gun chambered in .303 British. Featuring a distinctive top-mounted 47-round pan magazine and characteristic cooling shroud, it was one of the most widely used light machine guns of the Great War.
+
+@ammo_303brit_lewis_name=.303 British FMJ
+@ammo_303brit_lewis_desc=Standard full metal jacket .303 British ammunition for the Lewis Gun. Balanced performance for suppressive fire.
+@ammo_303brit_ap_lewis_name=.303 British AP
+@ammo_303brit_ap_lewis_desc=Armor-piercing .303 British ammunition. Enhanced penetration at the cost of reduced stopping power.
