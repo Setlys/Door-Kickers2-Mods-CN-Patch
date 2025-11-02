@@ -349,10 +349,10 @@
 @WEAP-SPAS12-NAME=SPAS-12霰弹枪
 @WEAP-SPAS12-DESC=SPAS-12是由意大利的路易吉·弗兰齐公司研制的多射击模式霰弹枪，可在半自动模式和泵动模式之间切换使用。\n\n这把填装12号口径弹药的霰弹枪深受导演和游戏设计者的喜爱，凭借着彪悍的外形频频出现在电影和游戏中。
 
-@DOLL-TYPE97-NAME=秋桦
-@DOLL-TYPE97-DESC=热情直爽，豁达乐观的高能量人形。身为黄区美食猎人，为改变人们食不果腹的困境而努力开发着新食材。\n路见不平拔刀相助是她的日常，绝不让一个话茬子落在地上是她的信条。“虽然我对锅包肉里加番茄酱还是\n不能苟同，但如果合你的口味，咱也不是不能忍了。”
-@WEAP-TYPE97-NAME=97-1式霰弹枪
-@WEAP-TYPE97-DESC=由黑龙江雄鹰公司研制的97-1式霰弹枪是一款使用特殊的18.4mm口径霰弹的泵动式霰弹枪，弹仓容量5发。\n\n97式霰弹枪系列实际上是雷明顿870霰弹枪的仿品，97-1是系列中使用折叠枪托的型号。
+@DOLL-TYPE97S-NAME=秋桦
+@DOLL-TYPE97S-DESC=热情直爽，豁达乐观的高能量人形。身为黄区美食猎人，为改变人们食不果腹的困境而努力开发着新食材。\n路见不平拔刀相助是她的日常，绝不让一个话茬子落在地上是她的信条。“虽然我对锅包肉里加番茄酱还是\n不能苟同，但如果合你的口味，咱也不是不能忍了。”
+@WEAP-TYPE97S-NAME=97-1式霰弹枪
+@WEAP-TYPE97S-DESC=由黑龙江雄鹰公司研制的97-1式霰弹枪是一款使用特殊的18.4mm口径霰弹的泵动式霰弹枪，弹仓容量5发。\n\n97式霰弹枪系列实际上是雷明顿870霰弹枪的仿品，97-1是系列中使用折叠枪托的型号。
 
 @DOLL-MP5-NAME=佩莉
 @DOLL-MP5-DESC=体型娇小但有志向远大的新晋暗商，开朗亲和是她的日常状态，属于商人的“狡猾”只对同行展现。受到曾经师父\n的影响，憧憬着帅气和“酷”的人和事，逐渐不再纠结于自己的体型问题，而是以实力作为评判“大小”的标准。在\n大家遇到困难的时候能挺身而出，帅气解决问题，这简直不能更酷了吧？为了变酷，佩莉努力地锻炼自己；在\n污染区行商的过程中，她也逐渐成长为八面玲珑的交易好手。情报、遗物、稀缺资源……没有她不能经手的东西，\n但内心深处她最想得到的，还是失踪同伴的消息。为此，她也将跟随着艾莫号，一直搜寻下去。如此努力的佩莉，\n是否能赢得来自你的一句帅气的称赞呢？
@@ -405,20 +405,14 @@
 @doctrine_gfl_elmoce_veteranmarks_descr=人形们的枪法在常年的流浪与作战中不断精进，她们无论手持何种武器、无论面对多远的目标都有信心一击正中红心。
 
 @DOLL-DP12-NAME=海伦
-@DOLL-DP12-DESC=在格里芬解散后的动荡时期，
-具备强大情报梳理能力的人形，
-选择接受官方安排，并始终追寻着指挥官的下落。因其在官方严苛测试中展露出的杰出情报梳理能力，而被选为“冕洞计划”中的一环。
-蛰伏于暗黑之中的海伦，巧妙利用身边一切的资源、权限，接近情报系统的中枢，尝试推测出财团在罗联内部所布下的庞大计划。
-
-「有我在您的身边，您可以放心地把一切都交给我。至于报酬……我想贪心一点，让指挥官您多陪陪我，好吗？」
-In the chaos of Griffin’s disbandment, Helen accepted a corporate position at Mangi Security Service while still looking for the Commander. Her new job revealed excellent intelligence gathering abilities, leading to her selection for Project Coronal Storm, and her neural cloud was used as the basis for the Third-Generation Doll Cocoon. Moving in the shadows, Helen uses her ingenuity and official authority in the highest circles of information to shed light on the dark plot of the URNC conglomerate.奥尔劳格财团
+@DOLL-DP12-DESC=在格里芬解散后的动荡时期，具备强大情报梳理能力的人形，选择接受官方安排，并始终追寻着\n指挥官的下落。因其在官方严苛测试中展露出的杰出情报梳理能力，而被选为“冕洞计划”中的一环。蛰伏于暗黑之中\n的海伦，巧妙利用身边一切的资源、权限，接近情报系统的中枢，尝试推测出奥尔劳格财团在罗联内部所布下的庞大计划。
 @WEAP-DP12-NAME=DP-12霰弹枪
-@WEAP-DP12-DESC=The DP-12 is a bullpup double-barrel pump-action shotgun with dual magazine tubes. Each pump cycles both barrels for devastating close-range firepower.
+@WEAP-DP12-DESC=DP-12是一款采用无托构型的泵动式双管散弹枪，使用两条管状弹仓供弹。\n\n当第一次扣动扳机时，DP-12会先从右侧的枪管开火，第二次扣动扳机时从左侧枪管开火。在两根枪管都发射过后，前护木解锁，射手可以推动前护木，重新给两根枪管填装弹药。
 
 @DOLL-LEWIS-NAME=刘易斯
-@DOLL-LEWIS-DESC=Lewis was created by Universal Anything Services as a designer of collectible toys, but was later converted into a Tactical Doll and hired by Griffin & Kryuger. After G&K's restructuring, she joined the AI and quantum technology research company 42LAB on Persica's request. As a toy designer, Lewis always hated war and leaving G&K should have been her opportunity to never set foot on the battlefield again. But to create a future for all children and protect their smile, she has decided to remain on the path of the T-Doll.
-@WEAP-LEWIS-NAME=Lewis Machine Gun
-@WEAP-LEWIS-DESC=
+@DOLL-LEWIS-DESC=最早是由环球万事服务所制造的，致力于玩具收藏品设计与再开发的特制人形。后来被改造为\n战术人形，并被格里芬雇佣。在格里芬解散后，经由帕斯卡的推荐，她加入了AI与量子科技\n研究机构——42Lab。作为玩具设计师她天性厌恶战争，离开格里芬本应该是她远离战场最好的\n机会。但是为了守护孩童们纯真的笑容，也为了兑现和同伴们的约定，她依旧选择了战术人形\n的道路。她决心用自己的双手去开创并守护孩子们美好的未来。
+@WEAP-LEWIS-NAME=刘易斯机枪
+@WEAP-LEWIS-DESC=使用.303英式步枪弹的刘易斯机枪是一款极具特色的武器，以其标志性的顶置47发弹盘和水冷衬套闻名于世界；在战场上，刘易斯也频频亮相，从第一次世界大战到冷战，英军带着这款外形奇特的武器。
 The Lewis Gun is a WWI-era light machine gun chambered in .303 British. Featuring a distinctive top-mounted 47-round pan magazine and characteristic cooling shroud, it was one of the most widely used light machine guns of the Great War.
 
 @ammo_303brit_lewis_name=.303 British FMJ
