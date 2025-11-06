@@ -1,0 +1,10 @@
+@#squadnamenwcy=Al-Rahma Precinct
+@#squadnamenwcy=Basrat Command
+@#squadnamenwcy=Darak Division
+@#squadnamenwcy=Qasrah Station
+@#squadnamenwcy=Al-Katiba Bureau
+@#squadnamenwcy=Shammar Watch
+@#squadnamenwcy=Kifah Precinct 
+@#squadnamenwcy=Zahra Station
+@#squadnamenwcy=Fallah Bureau 
+@#squadnamenwcy=Kifah Precinct
