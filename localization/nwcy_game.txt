@@ -1,63 +1,111 @@
-@nwcy_constable_desc=局里最常见不过的普通巡警，肩负着维护秩序、管理检查站和时刻装作自己知道到底在做什么的重任。装备烂，训练少，运气是他们出警时唯一信任的东西。
-The standard foot soldier of the precinct. Tasked with enforcing laws, manning checkpoints, and pretending to know what's going on. Lightly equipped, lightly trained, and heavily reliant on luck.
-@nwcy_sergeant_desc=身上随时带着一枚警徽、一支笔和一股挥之不去的老资历臭味的中层管理人员。通常会干的事情只有缩在掩体后面发布命令、填一堆没人会去读的报告、或是在事情办成后跑出来认领功勋——最后这件事情发生的几率近乎于零。
-Mid-level leadership with a badge, a pen, and a strong sense of self-importance. Usually found giving orders from cover, filing reports nobody reads, or taking credit when things go right — which they rarely do.
-@nwcy_special_unit_desc=警局上下的所谓“精英人员”汇聚于此。
-The so-called elite of the Constabulary. Equipped with better gear, flashier optics, and way more confidence than necessary. Called in when things go sideways — and often leave the place sideways too.
-@nwcy_plainsclothes_desc=
-Blending in with the public like a sore thumb in sandals, these undercover operatives specialize in looking suspicious while trying not to be. Equipped with outdated sidearms, and coordinated via WhatsApp and SMS.
-@nwcy_unit_desc=诺维哈基引以为傲但毫无作为的警队，上至特警下至巡警的所有人都只能靠着过时的装备、漏洞百出的训练和不绝于耳的吼叫声维护法律。
-The nation’s proud yet barely functioning police force. From street-level constables to overconfident special units, they enforce the law with outdated gear, questionable training, and plenty of shouting.	
+#
+# Units
+#
 
-@firearm_m9_nwcy_sup_desc=
-For when your community policing needs tactical stealth and Cold War vibes. Because nothing says “neighborhood watch” like a two-pound sidearm with a foot-long tube on the end.\n\nWhat’s the tactic here? Ambushing a rogue iced tea stand at 20 meters? Sneaking up on loiterers in absolute silence? It’s long, it’s heavy, it won’t fit in your holster — but hey, at least it looks cool while scaring the guy selling hot dogs.
-@firearm_g17_nwcy_desc=
-Easily the most proper-looking handgun in the entire station — which isn’t saying much when it’s sitting next to rusted Tokarevs and knockoff 1911s. It’s plastic, yes, but reliably plastic.\n\nNo safeties, no nonsense, just point, click, and paperwork. It actually works, which has made it both respected and suspicious. Rumor has it, officers who get issued one are either on the fast track… or someone made a clerical error.
-@firearm_m1911_nwcy_desc=
-Reliable, outdated, and just accurate enough to hit something bigger than a street sign. The Colt Special fires .38 Special with all the authority of a grumpy desk sergeant — not lethal by modern standards, but it'll still ruin someone's day. A favorite among constables who think speedloaders are witchcraft and recoil is a myth.
-@firearm_tt33_nwcy_desc=
-The proud peashooter of post-Soviet dreams. Chambered in “technically lethal” 7.62×25mm, it’s the service pistol that says, “We ran out of options, not optimism.”\n\nIt’s thin, loud, and kicks like it’s mad at you for firing it. No safety, no frills, just raw Cold War energy in a barely serviceable package. Slightly dreadful that this is still in the holster of your local officer — but hey, it does fire... eventually.
-@firearm_m9_nwcy_desc=
-Because why issue modern pistols when you can recycle Cold War leftovers? It’s got weight, quirks, and a safety lever begging to be misused.\n\nGreat for those who like their trigger pull long, their design old, and their sidearms just reliable enough to keep the paperwork flowing.
-@firearm_22lr_nwcy_desc=
+@nwcy_constable_desc=局里最常见不过的普通巡警，时刻肩负着维护秩序、设立检查站和装作自己知道到底在做什么的重任。\n装备烂，训练少，运气是他们出警时唯一可以信任的东西。
+@nwcy_sergeant_desc=身上随时带着一枚警徽、一支笔和一股挥之不去的老资历臭味的中层管理人员，\n通常会干的事情只有缩在掩体后面发布命令、填没人会去读的报告，或者在事情办成后跑出来认领功勋\n——最后这件事情发生的几率近乎于零。
+@nwcy_special_unit_desc=警局上下的所有“精英人员”汇聚于此，带着更好的装备、更酷的瞄具和更过度的自信心执勤。\n通常在局势失控时出警，然后把整件事“摆平”到需要总统出面的地步方才罢休。
+@nwcy_plainsclothes_desc=一帮精于在大街上走路时都显得非常可疑的卧底探员，即使混入民众中也如迈克尔杰克逊般耀眼。\n虽然手中的武器非常的过时，但通讯方式则极其的时髦——无事时微信，有事时短信。
+@nwcy_unit_desc=诺维哈基虽引以为傲但毫无作为的警队，上至特警下至巡警都只能靠着过时的装备、漏洞百出的训练和不绝于耳的吼叫声维护法律。
+
+#
+# Weapons - Pistols
+#
+
+@firearm_m9_nwcy_sup_desc=给你的社区警务添点色，如90年代的三角洲一般，带着这把重达两斤，长达半米的战术武器潜入夜色中的巴尔干群山——反正也没有什么枪能比这把M9更能体现“邻里守望”的精髓了。\n\n说到底，你用这把枪到底是为了什么？是想躲在阴暗的角落里对着20米开外的毒贩打冷枪，还是想不被发觉地一路摸到无业游民的身旁？这把枪又长又重，而且还塞不进你的枪套里，唯一的好处就是热狗摊的小贩会在你拿这把枪指着他的时候多挤点芥末酱给你。
+
+@firearm_g17_nwcy_desc=荣登警局最靓配枪榜榜首的武器——这个榜其实挺像个野榜的，考虑到排行第二的是锈迹斑斑的TT33，而第三的是便宜M1911仿品——使用塑料制成，别急，是格牢靠的工程塑料。\n\n虽然没有手动保险，但是有其道理，你只需抬枪瞄准，轻扣扳机，然后埋头填写报告即可。别笑，警局里配发到这把枪的巡警都是这么走流程的，所以大伙对这把枪是又尊敬又疑惑，到最后的结果就是相传于警官之间的传言：拿到这把枪的人要么是要升官了，要么是填报告时把上司写成了嫌疑人。
+
+@firearm_m1911_nwcy_desc=虽然很过时，但是很可靠，击中比路牌大的目标可谓是绰绰有余。使用这把柯尔特侦探型左轮手枪的人有着来自他的“整天填报告填到想杀人”警司的全权授权，可以向嫌犯发射完全不致命，但仍然会让他受罪的.38特种弹。这把左轮尤其受迷信的巡警喜爱，他们认为快速装弹器是一种实体巫术，而后坐力则是上天施加在枪口的魔法。
+
+@firearm_tt33_nwcy_desc=苏联解体后最受第三世界国家的孩童喜爱的玩具枪，使用“理论上可在人体内滚出一条致命创口”的7.62x25mm托卡列夫弹，这把手枪就是人们常说的“我用它不是因为我有品位”的那种武器。\n\n握把又薄，枪声又大，握持不当还可能对你的虎口造成致命打击；保险缺位，外表朴实，在使用中散发出二战的残存气息后便散作满天星。\n即便缺点如此之多，TT-33仍然是巡警们的主要武器，再说了，这枪出厂后过了这么久还能开火，要啥自行车？
+
+@firearm_m9_nwcy_desc=调拨经费的政府官员经常会问局长一个问题：局里有这么多的便宜冷战货能用，为什么要花大钱买那些更现代的手枪呢？局长不慌不忙、气沉丹田，吐出四个大字：它有保险。\n\n话虽这么说，局里还是有很多人喜欢使用这把又重、又容易出小毛病、还容易误触保险的M9手枪，这类人具有以下共同点：老派、喜欢长行程扳机、倾向于在出警和写报告之间找一个平衡点，方便偷懒。
+
+@firearm_22lr_nwcy_desc=老派
 An old-school suppressed pistol that fires as quietly as it looks outdated. Issued to undercover units who need to be subtle — or at least quieter than the shouting in the background. It’s small, slow, and soft-spoken, like a polite threat in a smoky room. Not much stopping power, but hey, at least it won’t wake the neighbors..
+
 @firearm_ppk_nwcy_desc=
 A compact classic, famously used by spies — and now by constables who think they’re one. Small, underpowered, and chambered in a caliber that politely asks suspects to stop. Issued not for effectiveness, but because someone found a crate of them behind the precinct.
+
 @firearm_ppk_sup_nwcy_desc=
 Nothing screams “serious law enforcement” like a tiny pistol with a comically large suppressor. Ideal for when you want to quietly ask someone to surrender — from five feet away. It’s not just absurd for police work, it’s practically a fashion statement. The suppressor adds weight, mystery, and absolutely no tactical value.
 
-@firearm_slinged_hunting_shotgun_nwcy_desc=Proudly slung like it’s ready for the trenches of 1914, but actually labeled as a “backup weapon.” Two shots, no rails, and the kind of reliability you'd expect from your grandfather's attic.\n\nPerfect for close encounters, assuming you don’t miss. After that? Just hope the suspect waits politely while you reload. It’s not so much a firearm as a loud suggestion — but hey, at least it looks intimidating when you show up to a riot with a duck gun.
+#
+# Weapons - Shotguns
+#
+
+@firearm_slinged_hunting_shotgun_nwcy_desc=
+Proudly slung like it’s ready for the trenches of 1914, but actually labeled as a “backup weapon.” Two shots, no rails, and the kind of reliability you'd expect from your grandfather's attic.\n\nPerfect for close encounters, assuming you don’t miss. After that? Just hope the suspect waits politely while you reload. It’s not so much a firearm as a loud suggestion — but hey, at least it looks intimidating when you show up to a riot with a duck gun.
+
+#
+# Weapons - Various Primary
+#
 
 @firearm_ak_underfolder_constable_nwcy_desc=Wobbly stock, scratched finish, and still the most reliable thing in the entire precinct — including the electricity. It rattles like a toolbox in a dryer, but it works every time.\n\nFolding stock means it’s “compact,” in the same way a crowbar is compact. For officers lucky enough to get one, it’s a step up from museum pieces and duck guns.
 @firearm_smlemk3_constable_nwcy_desc=Bolt-action policing at its finest. Originally designed to defend an empire, now repurposed to intimidate jaywalkers and accidentally pierce walls two blocks over.\n\nUsing it for police work is absurd — five rounds, bolt-action, and a bayonet lug just in case the paperwork gets really out of hand. Still, great for long-range intimidation, crowd control by sheer presence, or convincing suspects you time-traveled to the scene.
+
 @firearm_pm63_constable_nwcy_desc=A Cold War relic that somehow snuck into modern inventory like an intern nobody remembered hiring. It’s got a 25-round magazine, a tiny folding stock, and all the ergonomics of a stapler.\n\nIt fires fast, sprays wide, and rattles like loose change in a washing machine. Ideal for officers who want to feel tactical while accidentally mag-dumping into a trash can. Backup weapon? Maybe. Museum piece? Absolutely.
+
 @firearm_m16a4_constable_nwcy_desc=Surplus from coalition allies, handed down with the weight of expectation. Reliable, accurate, and far too much rifle for a constable meant to walk markets, not clear alleyways.\n\nIts arrival quietly changed everything. No longer just peacekeepers, officers are now armed like soldiers — expected to hold lines, not just keep order. It’s not about community anymore. It’s about control. And everyone feels it.
+
 @firearm_m500_constable_nwcy_desc=The M500 isn’t issued — it’s assigned like a warning. If it’s in your hands, you’re the first responder, and you know time is already running out.\n\nPump-action, no optics, and a handful of shells. It’s a weapon for kicking down doors before anyone else arrives, taking control when seconds matter. Simple, loud, and unforgiving — just like the job it’s meant for.
+
 @firearm_m4_carbine_heavy_nwcy_desc=When the M4 Carbine shows up in a unit’s hands, it’s clear they’re not your average beat constables. Compact, accurate, and chambered in 5.56×45mm, it’s built for mobility and fast response,ideal for urban operations and high-risk targets.\n\nThis isn’t general-issue gear. If the unit’s carrying M4s, it means they’re expected to move quickly, hit hard, and operate with precision — the kind of tasks regular patrols aren’t meant to handle.
+
 @firearm_m4_carbine_sup_heavy_nwcy_desc=Outfitting the M4 Carbine with a suppressor is less about silence and more about control. Reduced recoil, lower muzzle blast, and better handling in confined spaces make it a smart addition for police units operating in dense urban environments.\n\nIt’s still a 5.56×45mm workhorse — just refined. For special units, this isn’t about flash — it’s about staying effective, coordinated, and in control when it counts.
+
 @firearm_mp5_heavy_nwcy_desc=The MP5 is the go-to standard for special police units, and for good reason. Chambered in 9mm, it offers controllable automatic fire, compact handling, and excellent accuracy in close-quarters scenarios.\n\nIts reputation isn’t just legacy, it’s earned. Reliable, precise, and easy to maneuver in tight spaces, the MP5 fits the role perfectly when operations demand speed, coordination, and minimal collateral risk.
+
 @firearm_m500_heavy_nwcy_desc=The Mossberg in the hands of a special unit isn’t for intimidation. It’s for breaching doors, clearing rooms, and ending standoffs quickly. Chambered in 12-gauge, it brings raw stopping power to situations where hesitation isn’t an option.\n\nIt’s not subtle, not elegant, but brutally effective. When subtlety ends at the threshold, this is what makes the opening statement.
+
 @firearm_akm_heavy_nwcy_desc=The AKM might be old, but in the hands of a special unit, it’s far from obsolete. Chambered in 7.62×39mm, it delivers heavy-hitting power with the kind of rugged reliability that doesn’t care about dust, mud, or budget constraints. Paired with modern sights and a bit of refinement, it bridges old design with current demands. Not fancy, not fragile — just dependable firepower with a modern touch.
+
 @firearm_aks74u_heavy_nwcy_desc=Issued to special units who need speed, not range. Compact and easy to handle in tight alleys or cramped stairwells, it’s built for quick response in unpredictable environments.\n\nWhile it lacks the precision of a full-length rifle, its reliability and fast handling make it ideal for urban operations — raids, high-risk arrests, and crowd control when things turn volatile. It’s not perfect, but for close-quarters police work, it’s more than enough.
+
 @firearm_apc9k_heavy_nwcy_desc=A sleek, modern 9mm SMG totally unsuited for the dusty chaos it’s dropped into. Issued to special units who wanted to look professional — and occasionally hit what they’re aiming at. Low recoil, high rate of fire, and just compact enough to justify kicking doors they could’ve opened quietly.\n\nTechnically not standard issue — these were “borrowed indefinitely” from a SWAT shipment that never made it past customs. Tactical redistribution, Nowheraki style.
+
 @various_shieldIII_heavy_nwcy_desc=The Level III shield wasn’t exactly issued — the unit “borrowed” it from a SWAT team that probably still wants it back. Rated to stop rifle rounds, it’s bulky, heavy, and hard to carry, but when things go loud, it’s the only thing keeping the front man standing.\n\nIt’s not comfortable, and it’s definitely not subtle, but for a unit expecting the worst with minimal gear, it’s a lifesaver. Improvised logistics, professional intent.
+
 @firearm_mini_uzi_pistol_desc=The Mini Uzi pistol isn’t standard issue — it’s what special units grab when subtlety takes a backseat to volume. Chambered in 9mm and small enough to stash under a vest, it bridges the gap between sidearm and submachine gun with all the finesse of a firehose.\n\nIt’s fast, loud, and wildly excessive for most situations — which is exactly why they carry it. When a pistol won’t cut it and a full SMG is too much bulk, this little brute fits right in.
+
 @firearm_fn_fal_nwcy_desc=The “Right Arm of the Free World,” now in the shaky hands of underpaid constables. Fires a powerful 7.62mm round and your shoulder with equal force. Issued when someone wants to look serious but can't afford optics, training, or modern rifles. Accuracy depends on luck, recoil, and how many times it’s been dropped since the Cold War.
 
+#
+# Armors
+#
+
 @armor_nwcy_vestII_desc=A thin layer of hope in a country where most threats come in 7.62x39mm. It’ll stop a pistol round on a lucky day, but against an AK? You’re basically wearing optimism.\n\nIssued more for appearances than protection, it’s light, breathable, and completely unhelpful in a firefight. But hey, at least it looks tactical — right up until someone brings an actual rifle.
+
 @armor_nwcy_vestIII_desc=The department's idea of “serious gear” for constables facing not-so-soft threats. Thicker than Level II and twice as sweaty, it offers just enough protection to make you feel safer — but not enough to test it.\n\nWorn proudly during “high-risk” operations, like raiding a shack with known AK fire in the area. It won’t stop a full rifle round, but it might stop paperwork from hitting too hard. And really, that’s what counts.
+
 @armor_nwcy_vestIII_heavy_desc=Level III soft armor for the special unit, technically better than standard issue, and just soft enough to remind you it’s still not a plate carrier. Designed for mobility, but really just a heavier hug from budget constraints.\n\nIssued to those expected to breach first and get shot at the most, it might stop a rifle at point-blank with divine intervention. But hey, it's sleeker, has velcro, and says “tactical” on the label — which is all that matters during the debrief.
+
 @armor_nwcy_platecarrier_heavy_lvlIII_desc=Now this is the real deal — a proper plate carrier, complete with actual SAPI plates, and all the attachments to make the special unit look like they just walked out of a military recruitment poster.\n\nBut beneath the pouches and patches? Still a third world police force, riding to the op in a pickup with one working door and a flat spare tire. Sure, the gear screams elite — until the radio dies, the backup doesn’t show, and someone’s still writing reports on paper from 2004.
+
 @armor_nwcy_platecarrier_heavy_lvlV_desc=Outfitted with Level IV ESAPI plates, this carrier is the pinnacle of protection — heavy, expensive, and way too advanced for a force that still shares one pair of night vision goggles. You could take a 7.62 AP round to the chest and live… assuming the heatstroke doesn’t get you first.\n\nIt screams elite status, but let’s not forget: you're still coordinating over WhatsApp, riding in a pickup with no tailgate, and relying on a guy named “Sergeant Wi-Fi” to upload mission reports. You may look invincible, but the logistics still say third world.
+
 @nwcy_helmet_pasgt_desc=A rugged piece of “military surplus” with more dents than protection. Issued to special units for that elite look — offers the illusion of safety and a guaranteed headache.
+
 @nwcy_helmet_ach_desc=A slightly modern helmet “reassigned” from a better-funded SWAT team. Offers decent protection, a built-in ego boost, and just enough padding to muffle bad decisions. Still doesn’t come with proper training.
+
 @nwcy_helmet_pasgt_constable_desc=Old, heavy, and questionably effective — much like the officer wearing it. Pulled from a dusty warehouse and “reissued” with pride, it provides just enough protection to meet regulations, but not enough to stop a bad day.
+
 @nwcy_plainclothing_undercover_desc=An unbuttoned dress shirt two sizes too big, perfect for blending in with street vendors and absolutely no one else. Comes pre-wrinkled, sweat-stained, and ready for suspicious stares.
+
 @nwcy_cop_undercover_desc=Faded, dusty, and instantly recognizable — the kind of uniform that says “I take bribes,” even if you don’t. Perfect for blending in with the rest of the force while quietly gathering intel from the inside. You’re a cop pretending to be a worse cop… and somehow, it’s working.
+
 @nwcy_insurgentdisguise_undercover_desc=Surprisingly convincing from a distance — loose-fitting clothes, worn sandals, and just the right amount of grime. So authentic, you could probably walk through a checkpoint with an AK sticking out of your ribs and no one would question it. Just don’t get too close or say too much — one wrong word, and you're the next "suspected outsider."
 
+#
+# Misc
+#
 
 @nwcy_police_badge_desc=A shiny piece of metal that magically grants authority, confusion, and occasional free tea. Worn proudly on crumpled uniforms, it’s less about upholding the law and more about looking official while doing questionable things.
+
+#
+# Doctrines
+#
 
 @nwcy_handgun_shortrangedrill=The constables learns to hold their sidearm with both of their hands for accurate close range fire — up to 7 meters. Impressive.
 @nwcy_handgun_mediumrangedrill=The constables now try using their sights when firing beyond spitting distance — accurate shots up to 15 meters. Revolutionary.
@@ -90,3 +138,4 @@ Nothing screams “serious law enforcement” like a tiny pistol with a comicall
 @doctrine_nwcy_strictrules="If you're not early, you're late. If you're not in cover, you're dead." Enforces faster reaction time and procedural discipline. Also adds more paperwork if the Constables break protocol. Yay.
 
 @doctrine_nwcy_straightarrows=As a result of all the rules and reforms, the precinct now runs like a tight, slightly paranoid ship. Units operate with improved consistency, accuracy, and professionalism, which is weirdly unsettling.
+
