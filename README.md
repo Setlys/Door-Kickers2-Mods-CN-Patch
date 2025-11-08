@@ -1,2 +1,2 @@
-# girl-kickers-CN-Patch
-Girls' Frontline 2: Door Kickers的中文本地化补丁
+# Door-Kickers2-Mods-CN-Patch
+存放所有本人翻译过的DK2模组的汉化文件的仓库
