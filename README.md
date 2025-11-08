@@ -1,2 +1,5 @@
 # Door-Kickers2-Mods-CN-Patch
 存放所有本人翻译过的DK2模组的汉化文件的仓库
+
+Girls' Frontline 2: Door Kickers: https://steamcommunity.com/sharedfiles/filedetails/?id=3580762170
+Nowheraki Constabulary: https://steamcommunity.com/sharedfiles/filedetails/?id=3524581588
