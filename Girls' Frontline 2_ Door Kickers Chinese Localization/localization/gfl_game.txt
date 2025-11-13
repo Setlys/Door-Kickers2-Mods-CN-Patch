@@ -1,5 +1,5 @@
 #
-# General
+# General - Units
 #
 
 @GFL-UNIT-GIRL-NAME=少女前线
@@ -7,161 +7,8 @@
 @#GFL-UNIT-GIRL-NAME-RND=少女前线
 
 #
-# Defy - General
+# General - Equipments
 #
-
-@GFL-UNIT-DEFY-NAME=忤逆小队
-@GFL-UNIT-DEFY-DESC=忤逆小队是由新型战术人形组成的精英小队。得名于其成员在战场上高度自主的行动方式，“忤逆”代表着新苏军所有作战班组中独一无二的最高战力。
-@#GFL-UNIT-DEFY-NAME-RND=忤逆小队
-
-#
-# Defy - Units
-#
-
-@DOLL-AK15-NAME=威玛西娜
-@DOLL-AK15-DESC=外表看起来相当凶恶的少女，相比起其他人形而言拥有更加高大的身材。\n不苟言笑，说话做事都以效率为先，给人以一种缺乏感性的印象，\n却又在愤怒的时候显得十分吓人。
-@WEAP-AK15-NAME=AK-15突击步枪
-@WEAP-AK15-DESC=AK-15是AK-400枪族中的7.62×39mm口径型，该枪族包含一系列卡拉什尼科夫集团为“勇士”计划（别名“俄罗斯未来步兵系统”计划）研发的新型步枪，俄军于2018年正式采用了其中的AK-12和AK-15两型突击步枪。
-
-@DOLL-AN94-NAME=埃芙
-@DOLL-AN94-DESC=十年前由新苏联安全局主导的人形研发项目“狼群计划”的原型机，现任忤逆小队队长。\n作为忤逆小队的领袖，曾经的人偶已然蜕变为了狼群的新王，深受队员信赖，在多方势力中\n周旋，确保忤逆小队自身的生存的同时，也不断打击着帕拉蒂斯的阴谋。\n顺带一提，她其实很喜欢撸猫。
-@WEAP-AN94-NAME=AN-94突击步枪
-@WEAP-AN94-DESC=AN-94，即“1994型尼科诺夫突击步枪”，是伊孜玛什厂为开展于1980-1994年间的“阿巴甘”突击步枪选型计划研制的5.45x39mm口径导气式突击步枪，GRAU编号6P33。\n\n作为“阿巴甘”计划的唯一成果，AN-94获得了与计划同名的外号。
-
-#
-# Defy - Doctrines
-#
-
-@GFL-UNIT-404-NAME=H.I.D.E 404
-@GFL-UNIT-404-DESC=由精通隐秘行动和电子战的战术人形组成的佣兵小队，以不惜一切代价、不计一切损害完成目标而为人所知。
-@#GFL-UNIT-404-NAME-RND=H.I.D.E 404
-
-@DOLL-HK416-NAME=可露凯
-@DOLL-HK416-DESC=优雅而冷静，拥有绝对自信的人形，励志将H.I.D.E. 404全员精英化。\n只有熟悉她的人才知道，在可露凯的强势与严苛背后，有着怎样的柔软与珍惜。
-@WEAP-HK416-NAME=HK416突击步枪
-@WEAP-HK416-DESC=HK416是黑克勒&科赫公司应美军三角洲老兵拉里·韦克斯要求，与三角洲R&D部门合作研发的突击步枪，旨在缩短M4的同时改进其颇受D-boys诟病的直接导气系统。
-
-@DOLL-G11-NAME=米什缇
-@DOLL-G11-DESC=除了打游戏、看漫画，无论做什么都懒洋洋的人形，拥有在任何地方任何状态下安然入睡的绝技。\n看似将躺平发挥到极致的她，在危机时刻也会显露出可靠的一面一一但本人觉得最好还是不要有\n“危急时刻”比较好啦…
-@WEAP-G11-NAME=G11突击步枪
-@WEAP-G11-DESC=北约在冷战期间最重要的项目之一便是对无壳弹的研究，此种弹药——若研制成功——可显著减小弹药的储存和后勤难度，并让步兵得以使用射速更高的步枪作战。最终，多数的无壳弹项目要么失败，要么无人问津，只有黑克勒&科赫公司的G11达到了可装备的水平。\n\n理论上，无壳弹步枪可以达到比普通步枪更高的射速，因为此类步枪在开锁时并不需要抽抛壳，只需推入下一发子弹便可上膛射击。
-@firearm_caliber_473x33_name=4.73×33mm 无壳弹
-@ammo_473_caseless_name=4.73x33mm DM11
-@ammo_473_caseless_desc=无弹壳、大弹容、高射速，这就是无壳弹，听诺贝尔说。
-
-@DOLL-G36K-NAME=安朵丝
-@DOLL-G36K-DESC=温婉和善的人形，眼中的笑意能让冰雪消融。但当她长时间地盯着你微笑的时候，不要怀疑，\n她应该是宕机了。这种时常宕机的特性让安朵丝很少能在战场上全力输出。没关系，火力不足，\n情报来凑。拥有超大存储空间的安朵丝是收集情报的一把好手，那些细枝末节的线索，只有你想不到，\n没有她注意不到。在战场之后，安朵丝用这种独特的方式，开辟了自己的道路，也找到了自己最终的归宿。
-@WEAP-G36K-NAME=G36K-KSK卡宾枪
-@WEAP-G36K-DESC=G36K（“kurz”，德语的“短”）是黑克勒&科赫公司于1997年公布的短卡宾型G36，安朵丝使用的是KSK于2022年采用的G36KA4。
-
-@DOLL-G28-NAME=比悠卡
-@DOLL-G28-DESC=天真有朝气的人形，人见人爱的气氛活跃好手。单纯面孔下藏着的是各种无害小心机，\n偶尔犯点小迷糊又如何？只要大眼一眨笑脸一露，所有人都会原谅比悠卡啦！但别以为她\n只是个可爱花瓶，战场上她可从不对敌人手软。即便足够优秀，比悠卡也从未放弃努力。\n向姐姐学习，成为精英人形，这样才能成为指挥官和姐姐身边最有用的人——\n比悠卡的心愿，只是想待在心爱的人身边而已。
-@WEAP-G28-NAME=G28精确射手步枪
-@WEAP-G28-DESC=HK241（德国联邦国防军编号G28）是由黑克勒&科赫公司设计的7.62x51mm口径半自动精确射手步枪。\nG28实际上是基于HK417的民用型MR308设计的，H&K虽然于2017年10月将其更名为HK241，但并未更改其国防军编号。\n\nG28与HK417有75%的零件可以互换使用。
-
-@DOLL-UMP45-NAME=莱娅
-@DOLL-UMP45-DESC=因一场阴谋而诞生的人形。前H.I.D.E. 404小队的队长，现供职于非军事力量管理局，\n协助格琳娜处理各类机密要务。脸上常挂着亲切微笑、待人温和有礼的莱娅，实际上是一只\n不折不扣的狐狸，用得体的笑容降低你的防备，以暗藏锋芒的言辞取得你的默许，在你没有\n反应过来的时候，她已经掀开了了你的底牌，笑得玩味狡黠。但熟悉她的人都知道，这抹狡黠的\n笑容背后，有着守护重要之人的决心，在危险到来之际，狡猾的狐狸会彻底变成凶猛的狮子，\n对敌人亮出尖锐的獠牙。
-@WEAP-UMP45-NAME=UMP45冲锋枪
-@WEAP-UMP45-DESC=UMP（Universale Maschinenpistole，"通用冲锋枪"）是由黑克勒&科赫公司设计的一系列采用不同口径的气吹式闭膛待击冲锋枪，莱娅使用的是填装.45ACP口径的UMP45。\n\nUMP枪族均配有可折叠的聚合物枪托、柄型弹匣解脱杆、可安装配件（如垂直握把）的护木和200毫米长的枪管。上机匣可安装导轨，以便安装瞄具。
-@firearm_caliber_45acp_name=.45 ACP
-@ammo_45acp_fmj_name=.45 ACP FMJ
-@ammo_45acp_fmj_desc=标准的亚音速全金属被甲弹，弹头重且停止作用好。
-@ammo_45acp_jhp_name=.45 ACP JHP
-@ammo_45acp_jhp_desc=追求弹头最大限度扩张的空尖弹，高杀伤但低穿深。
-
-@DOLL-UMP9-NAME=莱娜
-@DOLL-UMP9-DESC=跟随格琳娜进入非军事力量管理局的莱娜，“早就是独当一面的优秀人形啦♪”。\n然而三句话不离姐姐的习惯，还是暴露了她对家人的依赖。虽然目前与队友们处于\n分头行动的状态，但她从未忘怀那些并肩作战的日子。新的工作，新的素体，不变的\n只有莱娜的初心。她衷心期待着，在重逢的时刻，为她最为珍视的你献上最真诚的笑容和拥抱。
-@WEAP-UMP9-NAME=UMP9冲锋枪
-@WEAP-UMP9-DESC=正如其名所示，UMP9是UMP枪族中的9x19mm帕弹口径型；和枪族中的另外两位成员一样，UMP9也有着半自动、全自动和2发点射模式三种射击模式。\n\nUMP9标准配备有200毫米枪管和30发双排单进弹匣，循环射速可达600-650发/分钟，理论有效射程约为100米。
-
-@DOLL-VECTOR-NAME=维克托
-@DOLL-VECTOR-DESC=习惯性悲观的人形，但作为H.I.D.E.404第二分队的队长，\n无论演算出何等让人绝望的结果，维克托也绝对会坚守到最后一刻，\n与小队一起直面困境。
-@WEAP-VECTOR-NAME=KRISS Vector冲锋枪
-@WEAP-VECTOR-DESC=KRISS Vector是由KRISS USA公司研制的一系列冲锋枪的总称，该枪族的特色设计——独特的延迟开锁机构和低轴线设计显著降低了其后坐力和枪口上跳。
-@ammo_45acp_fmj_vector_desc=标配的全金属被甲弹，专为维克托而优化。
-@ammo_45acp_jhp_vector_desc=可在CQB情形下发挥最大威力的空尖弹。
-
-@GFL-UNIT-CAFE-NAME=方糖咖啡馆
-@GFL-UNIT-CAFE-DESC=以平民区的咖啡馆为据点，利用服务员身份作为掩护，为雇主提供勤务帮助的支援人形小队。
-@#GFL-UNIT-CAFE-NAME-RND=方糖咖啡馆
-
-@DOLL-M1903-NAME=春田
-@DOLL-M1903-DESC=前综合勤务部管理人，现方糖咖啡馆的店长，地下情报网的组织者……\n多重身份汇聚成了眼前这个挂着完美微笑的人形——春田。温柔，坚强，善良，理智。\n春田总是在她珍视的朋友和重要之人面前展现出值得依赖的一面，用她的包容将性格各异\n的大家凝聚在身边。但在背后，春田也会为了自己的原则，偶尔突破常规……\n嘘，你什么都没有看到，对吗？
-@WEAP-M1903-NAME=M1903“春田”步枪
-@WEAP-M1903-DESC=M1903“春田”步枪是一款弹仓供弹的栓动式步枪，正式名称为“美制M1903式.30-06口径步枪”，士兵们经常称呼其为“03”或“春田”。在第一次世界大战期间，春田是美军士兵手中最常见的武器。\n\n即使到了今天，春田也依然享有极高的声誉，在民用市场、收藏拍卖、射击竞赛和军队庆典等场景中不断发挥余热。
-@firearm_caliber_3006_name=.30-06“春田”步枪弹
-@firearm_operation_boltaction_name=栓动式
-@ammo_3006_fmj_name=.30-06 M2 Ball
-@ammo_3006_fmj_desc=军标全金属被甲弹，射程远且穿透力高。
-@ammo_3006_match_name=.30-06 Match
-@ammo_3006_match_desc=为追求准确度和终端效能而精挑细选的比赛级弹药，严格控制了弹头的制造公差和装药量。
-
-@DOLL-WA2000-NAME=玛绮朵
-@DOLL-WA2000-DESC=冷静高傲、不善表达的别扭人形。喜欢毛绒绒的小动物，也喜欢糖分超标的玛奇朵。\n总是独来独往的她，目光却常常停留在某一处。到底什么时候，她才能获得想要的回应呢？
-@WEAP-WA2000-NAME=WA2000狙击步枪
-@WEAP-WA2000-DESC=WA2000是由卡尔·瓦尔特公司设计的无托式半自动狙击步枪，完全为军警单位而设计。\n该枪起源于1972年的慕尼黑惨案，设计于1970-1980年间，并于1982-1988年间投入生产。
-@firearm_caliber_300wm_name=.300 温彻斯特-马格南弹
-@ammo_300wm_fmj_name=.300 Win Mag FMJ
-@ammo_300wm_fmj_desc=为长距离精确射击而设计的超音速马格南弹，弹道性能优越、终端效能出色。
-@ammo_300wm_match_name=.300 Win Mag Match
-@ammo_300wm_match_desc=精挑细选的比赛级弹药，即使到了极限射程也能保证弹药的一致性和精准度。
-
-@DOLL-G36-NAME=桑朵莱希
-@DOLL-G36-DESC=恭谦却又坚守原则的人形。她会调制香气四溢的咖啡，\n也会坚定地守护咖啡馆—一这便是“方糖”无可取代的屏障。
-@WEAP-G36-NAME=G36突击步枪
-@WEAP-G36-DESC=G36是由黑克勒&科赫公司设计的5.56x45mm口径气吹式突击步枪，用于替代在西德国防军中久负盛名的G3战斗步枪。
-
-@DOLL-XCR-NAME=夏克里
-@DOLL-XCR-DESC=散发着“小恶魔”气息的人形，她的甜蜜微笑下隐藏着可爱心机。\n她要的不止是舞台，更是客人们永不枯竭的爱意哦~
-@WEAP-XCR-NAME=XCR-L标准型突击步枪
-@WEAP-XCR-DESC=XCR是由罗宾逊公司生产的一系列美制步枪的总称，该枪族是为竞标美军的“特种作战部队战斗突击步枪”项目（其缩写“SCAR”可能更广为人知一些）而设计的，却因种种原因与项目失之交臂；FN的竞品最终赢得了竞标。
-
-@GFL-UNIT-GROZA-NAME=闪电小队
-@GFL-UNIT-GROZA-DESC=指挥官在艾莫号上最重要的小队。成员们的背景虽然不同，但在闪电的领导下一直活跃于黄区之中。
-@#GFL-UNIT-GROZA-NAME-RND=闪电小队
-
-@DOLL-OTS14-NAME=闪电
-@DOLL-OTS14-DESC=成熟稳重的精英人形，当之无愧的小队核心。就算小队成员性格迥异，\n她也能很好地统合起众人的力量。只要有她在，一切都不会成为问题。
-@WEAP-OTS14-NAME=OTs-14“闪电”突击步枪
-@WEAP-OTS14-DESC=OTs-14“闪电”是由图拉兵工厂下属的中央设计局运动和狩猎武器部于1992年设计的一种模块化无托突击步枪系统。和其“前辈”OTs-12“紫衫树”一样，OTs-14也是基于AKS-74U设计的，旨在于集俄军现役武器之所长，整合出一把专为近距离作战场景使用的武器。\n\n实际上，OTs-14就是AKS-74U的无托改型，两者之间因此有大量的零件可以互换使用。
-
-@DOLL-OM50-NAME=纳美西丝
-@DOLL-OM50-DESC=热衷神秘学与占卜，随身携带神奇的占卜道具“棱镜”。而占卜的结果，通常会被她用充满神秘色彩、\n令人费解的语言风格表达出来。但她仍是非常可靠的同伴一一除了难以沟通之外。
-@WEAP-OM50-NAME=OM 50“复仇女神”狙击步枪
-@WEAP-OM50-DESC=OM 50“复仇女神”（现用名SAN 511）是由瑞士西格绍尔生产的12.7x99mm口径栓动步枪。
-@firearm_caliber_50bmg_name=.50 BMG
-@ammo_50bmg_fmj_name=.50 BMG FMJ
-@ammo_50bmg_fmj_desc=“雄伟”的弹药带给您“雄伟”的反器材体验，即使到了极限射程，穿透力和停止力也依然不减。\n\n温馨提示：发射时注意保护耳膜。
-@ammo_50bmg_match_name=.50 BMG Match
-@ammo_50bmg_match_desc=比赛级.50 BMG弹药，即使敌人在千里之外也能给他做个“小小”的“外科手术”。
-
-@DOLL-HARE-NAME=克罗丽科
-@DOLL-HARE-DESC=性格稍显暴躁，对与自己无关的事务没什么兴趣，但拥有无可指摘的责任心。\n就算是类似“担任纳美西丝专属翻译官”这样完全不喜欢的任务，她也会尽心完成。
-@WEAP-HARE-NAME=野兔
-@WEAP-HARE-DESC=与克罗丽科契合度高的近战武器，针对克罗丽科的作战偏好进行了一定的改造，涂装上采用了与克罗丽科相配的颜色。
-@firearm_operation_melee=近战
-
-@armor_gfl_hare_name=战术盾牌
-@armor_gfl_hare_desc=装载强化护板的战术盾牌，虽然限制了克罗丽科的行动力，但在突入房间时这块盾牌就是她最好的防护。
-
-@armor_gfl_hare_heavy_name=重型防护套件
-@armor_gfl_hare_heavy_desc=带有额外侧/后护甲板的全向防护系统，虽然使用这套系统会让克罗丽科变成显眼的移动堡垒，但往好处想，移动堡垒可以扛下的子弹可比普通人形多太多了。
-
-@no_ammo_name=无
-@no_ammo_desc=
-@scope_no_sights_name=无
-@scope_no_sights_desc=
-
-@DOLL-CURVA-NAME=寇尔芙
-@DOLL-CURVA-DESC=虽然时常看起来热情洋溢，但偶尔也会露出完全不同的冷淡表情。\n她手中的针剂，究竟是用来救死扶伤，还是用来置人于死地？
-@WEAP-CURVA-NAME=Taurus Curve手枪
-@WEAP-CURVA-DESC=“曲线”手枪是由巴西陶鲁斯公司设计的.380ACP口径袖珍型手枪。
-@firearm_operation_doubleaction_name=双动式
-
-@DOLL-VEPR12-NAME=维普蕾
-@DOLL-VEPR12-DESC=活跃在“战场”这个特殊舞台上的偶像！每天都在为了下一场\n演出做着万全的准备一一这样，就不会再轻易摔倒或者撞到其他人了吧。
-@WEAP-VEPR12-NAME=Vepr-12霰弹枪
-@WEAP-VEPR12-DESC=Vepr-12是Molot工厂基于RPK设计的半自动霰弹枪。\n\n注意：此Vepr非彼Vepr，乌克兰的Vepr是无托的。
 
 @helmet_gfl_ocular_name=夜视义眼
 @helmet_gfl_ocular_desc=集成夜视功能的光学增强系统，可在不外挂仪器的情况下直接实现夜视功能。
@@ -175,25 +22,17 @@
 @armor_gfl_hardened_name=硬化核心
 @armor_gfl_hardened_desc=最高档的防护配置，通过强化的防御系统提供更强的抗弹能力。
 
+@GEAR-MEDIC-GRENADE-NAME=2x医疗手榴弹
+@GEAR-MEDIC-GRENADE-DESC=实验性的医疗手榴弹，可以修复影响范围内所有单位受到的损伤。\n\n注意：在混战时请谨慎使用，因为这种投掷物的修复功能会不分敌我地造福双方单位。
+@GEAR-MEDIC-GRENADE-TTIP=投掷医疗手榴弹
+
+#
+# General - Doctrines
+#
+
 @menu_doctrine_branch_calibration=模式校准
 @menu_doctrine_branch_neuralhelix=心智螺旋
 @menu_doctrine_branch_remolder=拟态图谱
-
-@doctrine_gfl_defy_femalegorilla_name=高大威猛
-@doctrine_gfl_defy_femalegorilla_descr=威玛西娜光是站着就是对敌人的一种威吓，位于其附近的敌人精准度、压制恢复速度和瞄准速度均会下降。
-@buff_gfl_defy_femalegorillabuff=好可怕的母猩猩…
-
-@doctrine_gfl_defy_alphaprotocol_name=“头狼”协议
-@doctrine_gfl_defy_alphaprotocol_descr=历经十年，曾经的人偶已然蜕变为了狼群的新王。当埃芙击杀一名敌人时，附近的盟友获得5秒的精准度、压制恢复速度和移动速度增益。
-@buff_gfl_defy_tacticalsynchronization=已与埃芙同步
-
-@doctrine_gfl_defy_perfectmortality_name=完美谢幕
-@doctrine_gfl_defy_perfectmortality_descr=死亡赋予存在以意义。人形倒下时将会有更高几率进入伤残状态，并进入自我修复模式，而非直接死亡；人形在受伤时愈战愈勇。
-
-@doctrine_gfl_defy_iceandblood_name=冰与血
-@doctrine_gfl_defy_iceandblood_descr=人形将其精密性与高效率结合运用，提高目标识别速度、连射时的致命射击几率和抵抗压制能力。
-
-@buff_gfl_defy_defycoordination=忤逆内部调谐
 
 @doctrine_gfl_optimized_name=优化性能模式
 @doctrine_gfl_optimized_descr=增强人形的功率输出与行动算法，加快移动速度和战场技法并减少切换装备所需的时间。
@@ -231,6 +70,49 @@
 @doctrine_gfl_lethalprecision_name=致命打击
 @doctrine_gfl_lethalprecision_descr=优化过的索敌算法将会使人形更专注于要害部位，极大增加暴击几率，减少索敌时间；步枪人形将更倾向于瞄准敌人头部射击。
 
+
+#
+# Defy - Units
+#
+
+@GFL-UNIT-DEFY-NAME=忤逆小队
+@GFL-UNIT-DEFY-DESC=忤逆小队是由新型战术人形组成的精英小队。得名于其成员在战场上高度自主的行动方式，“忤逆”代表着新苏军所有作战班组中独一无二的最高战力。
+@#GFL-UNIT-DEFY-NAME-RND=忤逆小队
+
+#
+# Defy - Dolls
+#
+
+@DOLL-AK15-NAME=威玛西娜
+@DOLL-AK15-DESC=外表看起来相当凶恶的少女，相比起其他人形而言拥有更加高大的身材。\n不苟言笑，说话做事都以效率为先，给人以一种缺乏感性的印象，\n却又在愤怒的时候显得十分吓人。
+@WEAP-AK15-NAME=AK-15突击步枪
+@WEAP-AK15-DESC=AK-15是AK-400枪族中的7.62×39mm口径型，该枪族包含一系列卡拉什尼科夫集团为“勇士”计划（别名“俄罗斯未来步兵系统”计划）研发的新型步枪，俄军于2018年正式采用了其中的AK-12和AK-15两型突击步枪。
+
+@DOLL-AN94-NAME=埃芙
+@DOLL-AN94-DESC=十年前由新苏联安全局主导的人形研发项目“狼群计划”的原型机，现任忤逆小队队长。\n作为忤逆小队的领袖，曾经的人偶已然蜕变为了狼群的新王，深受队员信赖，在多方势力中\n周旋，确保忤逆小队自身的生存的同时，也不断打击着帕拉蒂斯的阴谋。\n顺带一提，她其实很喜欢撸猫。
+@WEAP-AN94-NAME=AN-94突击步枪
+@WEAP-AN94-DESC=AN-94，即“1994型尼科诺夫突击步枪”，是伊孜玛什厂为开展于1980-1994年间的“阿巴甘”突击步枪选型计划研制的5.45x39mm口径导气式突击步枪，GRAU编号6P33。\n\n作为“阿巴甘”计划的唯一成果，AN-94获得了与计划同名的外号。
+
+#
+# Defy - Doctrines
+#
+
+@doctrine_gfl_defy_femalegorilla_name=高大威猛
+@doctrine_gfl_defy_femalegorilla_descr=威玛西娜光是站着就是对敌人的一种威吓，位于其附近的敌人精准度、压制恢复速度和瞄准速度均会下降。
+@buff_gfl_defy_femalegorillabuff=好可怕的母猩猩…
+
+@doctrine_gfl_defy_alphaprotocol_name=“头狼”协议
+@doctrine_gfl_defy_alphaprotocol_descr=历经十年，曾经的人偶已然蜕变为了狼群的新王。当埃芙击杀一名敌人时，附近的盟友获得5秒的精准度、压制恢复速度和移动速度增益。
+@buff_gfl_defy_tacticalsynchronization=已与埃芙同步
+
+@doctrine_gfl_defy_perfectmortality_name=完美谢幕
+@doctrine_gfl_defy_perfectmortality_descr=死亡赋予存在以意义。人形倒下时将会有更高几率进入伤残状态，并进入自我修复模式，而非直接死亡；人形在受伤时愈战愈勇。
+
+@doctrine_gfl_defy_iceandblood_name=冰与血
+@doctrine_gfl_defy_iceandblood_descr=人形将其精密性与高效率结合运用，提高目标识别速度、连射时的致命射击几率和抵抗压制能力。
+
+@buff_gfl_defy_defycoordination=忤逆内部调谐
+
 @doctrine_gfl_defy_battleechoes_name=战地回声
 @doctrine_gfl_defy_battleechoes_descr=云端网络将会使用人形的作战数据进行分析，在关卡开始时揭示一个靠近部署点的敌人。
 
@@ -244,6 +126,76 @@
 @doctrine_gfl_defy_squaddefiance_descr=小队在压倒性的劣势下屹立不倒。增强人形的前向防护面积和伤害抗性，人形击杀敌人时给予附近的盟友进攻性/防御性增益。
 
 @buff_gfl_defy_defiant=击杀激励
+
+#
+# 404 - Units
+#
+
+@GFL-UNIT-404-NAME=H.I.D.E 404
+@GFL-UNIT-404-DESC=由精通隐秘行动和电子战的战术人形组成的佣兵小队，以不惜一切代价、不计一切损害完成目标而为人所知。
+@#GFL-UNIT-404-NAME-RND=H.I.D.E 404
+
+#
+# 404 - Dolls
+#
+
+@DOLL-HK416-NAME=可露凯
+@DOLL-HK416-DESC=优雅而冷静，拥有绝对自信的人形，励志将H.I.D.E. 404全员精英化。\n只有熟悉她的人才知道，在可露凯的强势与严苛背后，有着怎样的柔软与珍惜。
+@WEAP-HK416-NAME=HK416突击步枪
+@WEAP-HK416-DESC=HK416是黑克勒&科赫公司应美军三角洲老兵拉里·韦克斯要求，与三角洲R&D部门合作研发的突击步枪，旨在缩短M4的同时改进其颇受D-boys诟病的直接导气系统。
+
+@DOLL-G11-NAME=米什缇
+@DOLL-G11-DESC=除了打游戏、看漫画，无论做什么都懒洋洋的人形，拥有在任何地方任何状态下安然入睡的绝技。\n看似将躺平发挥到极致的她，在危机时刻也会显露出可靠的一面一一但本人觉得最好还是不要有\n“危急时刻”比较好啦…
+@WEAP-G11-NAME=G11突击步枪
+@WEAP-G11-DESC=北约在冷战期间最重要的项目之一便是对无壳弹的研究，此种弹药——若研制成功——可显著减小弹药的储存和后勤难度，并让步兵得以使用射速更高的步枪作战。最终，多数的无壳弹项目要么失败，要么无人问津，只有黑克勒&科赫公司的G11达到了可装备的水平。\n\n理论上，无壳弹步枪可以达到比普通步枪更高的射速，因为此类步枪在开锁时并不需要抽抛壳，只需推入下一发子弹便可上膛射击。
+
+@firearm_caliber_473x33_name=4.73×33mm 无壳弹
+
+@ammo_473_caseless_name=4.73x33mm DM11
+@ammo_473_caseless_desc=无弹壳、大弹容、高射速，这就是无壳弹，听诺贝尔说。
+
+@DOLL-G36K-NAME=安朵丝
+@DOLL-G36K-DESC=温婉和善的人形，眼中的笑意能让冰雪消融。但当她长时间地盯着你微笑的时候，不要怀疑，\n她应该是宕机了。这种时常宕机的特性让安朵丝很少能在战场上全力输出。没关系，火力不足，\n情报来凑。拥有超大存储空间的安朵丝是收集情报的一把好手，那些细枝末节的线索，只有你想不到，\n没有她注意不到。在战场之后，安朵丝用这种独特的方式，开辟了自己的道路，也找到了自己最终的归宿。
+@WEAP-G36K-NAME=G36K-KSK卡宾枪
+@WEAP-G36K-DESC=G36K（“kurz”，德语的“短”）是黑克勒&科赫公司于1997年公布的短卡宾型G36，安朵丝使用的是KSK于2022年采用的G36KA4。
+
+@DOLL-G28-NAME=比悠卡
+@DOLL-G28-DESC=天真有朝气的人形，人见人爱的气氛活跃好手。单纯面孔下藏着的是各种无害小心机，\n偶尔犯点小迷糊又如何？只要大眼一眨笑脸一露，所有人都会原谅比悠卡啦！但别以为她\n只是个可爱花瓶，战场上她可从不对敌人手软。即便足够优秀，比悠卡也从未放弃努力。\n向姐姐学习，成为精英人形，这样才能成为指挥官和姐姐身边最有用的人——\n比悠卡的心愿，只是想待在心爱的人身边而已。
+@WEAP-G28-NAME=G28精确射手步枪
+@WEAP-G28-DESC=HK241（德国联邦国防军编号G28）是由黑克勒&科赫公司设计的7.62x51mm口径半自动精确射手步枪。\nG28实际上是基于HK417的民用型MR308设计的，H&K虽然于2017年10月将其更名为HK241，但并未更改其国防军编号。\n\nG28与HK417有75%的零件可以互换使用。
+
+@DOLL-UMP45-NAME=莱娅
+@DOLL-UMP45-DESC=因一场阴谋而诞生的人形。前H.I.D.E. 404小队的队长，现供职于非军事力量管理局，\n协助格琳娜处理各类机密要务。脸上常挂着亲切微笑、待人温和有礼的莱娅，实际上是一只\n不折不扣的狐狸，用得体的笑容降低你的防备，以暗藏锋芒的言辞取得你的默许，在你没有\n反应过来的时候，她已经掀开了了你的底牌，笑得玩味狡黠。但熟悉她的人都知道，这抹狡黠的\n笑容背后，有着守护重要之人的决心，在危险到来之际，狡猾的狐狸会彻底变成凶猛的狮子，\n对敌人亮出尖锐的獠牙。
+@WEAP-UMP45-NAME=UMP45冲锋枪
+@WEAP-UMP45-DESC=UMP（Universale Maschinenpistole，"通用冲锋枪"）是由黑克勒&科赫公司设计的一系列采用不同口径的气吹式闭膛待击冲锋枪，莱娅使用的是填装.45ACP口径的UMP45。\n\nUMP枪族均配有可折叠的聚合物枪托、柄型弹匣解脱杆、可安装配件（如垂直握把）的护木和200毫米长的枪管。上机匣可安装导轨，以便安装瞄具。
+
+@firearm_caliber_45acp_name=.45 ACP
+
+@ammo_45acp_fmj_name=.45 ACP FMJ
+@ammo_45acp_fmj_desc=标准的亚音速全金属被甲弹，弹头重且停止作用好。
+@ammo_45acp_jhp_name=.45 ACP JHP
+@ammo_45acp_jhp_desc=追求弹头最大限度扩张的空尖弹，高杀伤但低穿深。
+
+@DOLL-UMP9-NAME=莱娜
+@DOLL-UMP9-DESC=跟随格琳娜进入非军事力量管理局的莱娜，“早就是独当一面的优秀人形啦♪”。\n然而三句话不离姐姐的习惯，还是暴露了她对家人的依赖。虽然目前与队友们处于\n分头行动的状态，但她从未忘怀那些并肩作战的日子。新的工作，新的素体，不变的\n只有莱娜的初心。她衷心期待着，在重逢的时刻，为她最为珍视的你献上最真诚的笑容和拥抱。
+@WEAP-UMP9-NAME=UMP9冲锋枪
+@WEAP-UMP9-DESC=正如其名所示，UMP9是UMP枪族中的9x19mm帕弹口径型；和枪族中的另外两位成员一样，UMP9也有着半自动、全自动和2发点射模式三种射击模式。\n\nUMP9标准配备有200毫米枪管和30发双排单进弹匣，循环射速可达600-650发/分钟，理论有效射程约为100米。
+
+@DOLL-VECTOR-NAME=维克托
+@DOLL-VECTOR-DESC=习惯性悲观的人形，但作为H.I.D.E.404第二分队的队长，\n无论演算出何等让人绝望的结果，维克托也绝对会坚守到最后一刻，\n与小队一起直面困境。
+@WEAP-VECTOR-NAME=KRISS Vector冲锋枪
+@WEAP-VECTOR-DESC=KRISS Vector是由KRISS USA公司研制的一系列冲锋枪的总称，该枪族的特色设计——独特的延迟开锁机构和低轴线设计显著降低了其后坐力和枪口上跳。
+
+@ammo_45acp_fmj_vector_desc=标配的全金属被甲弹，专为维克托而优化。
+@ammo_45acp_jhp_vector_desc=可在CQB情形下发挥最大威力的空尖弹。
+
+@GEAR-VECTOR-GRENADE-NAME=5x壮烈终章
+@GEAR-VECTOR-GRENADE-DESC=内含少量炸药的燃烧手榴弹，可以震撼引爆点附近的敌人，并用铝热剂点燃其他位于影响范围内的目标。\n\n潦草收尾之前，给对手刻骨铭心的重击。
+@GEAR-VECTOR-GRENADE-TTIP=投掷壮烈终章
+
+#
+# 404 - Doctrines
+#
 
 @doctrine_gfl_404_dreamwonderland_name=梦游仙境
 @doctrine_gfl_404_dreamwonderland_descr=米什缇在关卡开始时进入补丁模式，增强自身的伤害抗性；击杀目标后，米什缇直接嗯造一罐能量饮料，并进入持续7秒的激斗模式，用伤害抗性换取强大的进攻能力。
@@ -281,6 +233,57 @@
 @doctrine_gfl_404_cqcdominance_name=近战霸权
 @doctrine_gfl_404_cqcdominance_descr=H.I.D.E 404极具攻击性的战术和近距离作战的专长使她们在狭窄空间内作战时获得极高的移动速度、精准度和暴击率增益。
 
+#
+# Cafe - Units
+#
+
+@GFL-UNIT-CAFE-NAME=方糖咖啡馆
+@GFL-UNIT-CAFE-DESC=以平民区的咖啡馆为据点，利用服务员身份作为掩护，为雇主提供勤务帮助的支援人形小队。
+@#GFL-UNIT-CAFE-NAME-RND=方糖咖啡馆
+
+#
+# Cafe - Dolls
+#
+
+@DOLL-M1903-NAME=春田
+@DOLL-M1903-DESC=前综合勤务部管理人，现方糖咖啡馆的店长，地下情报网的组织者……\n多重身份汇聚成了眼前这个挂着完美微笑的人形——春田。温柔，坚强，善良，理智。\n春田总是在她珍视的朋友和重要之人面前展现出值得依赖的一面，用她的包容将性格各异\n的大家凝聚在身边。但在背后，春田也会为了自己的原则，偶尔突破常规……\n嘘，你什么都没有看到，对吗？
+@WEAP-M1903-NAME=M1903“春田”步枪
+@WEAP-M1903-DESC=M1903“春田”步枪是一款弹仓供弹的栓动式步枪，正式名称为“美制M1903式.30-06口径步枪”，士兵们经常称呼其为“03”或“春田”。在第一次世界大战期间，春田是美军士兵手中最常见的武器。\n\n即使到了今天，春田也依然享有极高的声誉，在民用市场、收藏拍卖、射击竞赛和军队庆典等场景中不断发挥余热。
+
+@firearm_caliber_3006_name=.30-06“春田”步枪弹
+@firearm_operation_boltaction_name=栓动式
+
+@ammo_3006_fmj_name=.30-06 M2 Ball
+@ammo_3006_fmj_desc=军标全金属被甲弹，射程远且穿透力高。
+@ammo_3006_match_name=.30-06 Match
+@ammo_3006_match_desc=为追求准确度和终端效能而精挑细选的比赛级弹药，严格控制了弹头的制造公差和装药量。
+
+@DOLL-WA2000-NAME=玛绮朵
+@DOLL-WA2000-DESC=冷静高傲、不善表达的别扭人形。喜欢毛绒绒的小动物，也喜欢糖分超标的玛奇朵。\n总是独来独往的她，目光却常常停留在某一处。到底什么时候，她才能获得想要的回应呢？
+@WEAP-WA2000-NAME=WA2000狙击步枪
+@WEAP-WA2000-DESC=WA2000是由卡尔·瓦尔特公司设计的无托式半自动狙击步枪，完全为军警单位而设计。\n该枪起源于1972年的慕尼黑惨案，设计于1970-1980年间，并于1982-1988年间投入生产。
+
+@firearm_caliber_300wm_name=.300 温彻斯特-马格南弹
+
+@ammo_300wm_fmj_name=.300 Win Mag FMJ
+@ammo_300wm_fmj_desc=为长距离精确射击而设计的超音速马格南弹，弹道性能优越、终端效能出色。
+@ammo_300wm_match_name=.300 Win Mag Match
+@ammo_300wm_match_desc=精挑细选的比赛级弹药，即使到了极限射程也能保证弹药的一致性和精准度。
+
+@DOLL-G36-NAME=桑朵莱希
+@DOLL-G36-DESC=恭谦却又坚守原则的人形。她会调制香气四溢的咖啡，\n也会坚定地守护咖啡馆—一这便是“方糖”无可取代的屏障。
+@WEAP-G36-NAME=G36突击步枪
+@WEAP-G36-DESC=G36是由黑克勒&科赫公司设计的5.56x45mm口径气吹式突击步枪，用于替代在西德国防军中久负盛名的G3战斗步枪。
+
+@DOLL-XCR-NAME=夏克里
+@DOLL-XCR-DESC=散发着“小恶魔”气息的人形，她的甜蜜微笑下隐藏着可爱心机。\n她要的不止是舞台，更是客人们永不枯竭的爱意哦~
+@WEAP-XCR-NAME=XCR-L标准型突击步枪
+@WEAP-XCR-DESC=XCR是由罗宾逊公司生产的一系列美制步枪的总称，该枪族是为竞标美军的“特种作战部队战斗突击步枪”项目（其缩写“SCAR”可能更广为人知一些）而设计的，却因种种原因与项目失之交臂；FN的竞品最终赢得了竞标。
+
+#
+# Cafe - Doctrines
+#
+
 @doctrine_gfl_cafe_pathofprotection_name=守护之道
 @doctrine_gfl_cafe_pathofprotection_descr=春田优雅的风范是其它人形信心的来源。春田在场时的守护光环使附近的盟友保持沉着冷静，降低压制影响并提高精准度。
 
@@ -310,6 +313,68 @@
 
 @doctrine_gfl_cafe_velvetlatte_name=丝绒拿铁
 @doctrine_gfl_cafe_velvetlatte_descr=仅需轻轻啜饮，便会感到如天鹅绒般的轻柔拂过舌尖。最专业的狙击手会在执行任务时完美运用她的技术，并会在毫不犹疑的情况下射出那发精确而又致命的子弹。
+
+#
+# Groza - Units
+#
+
+@GFL-UNIT-GROZA-NAME=闪电小队
+@GFL-UNIT-GROZA-DESC=指挥官在艾莫号上最重要的小队。成员们的背景虽然不同，但在闪电的领导下一直活跃于黄区之中。
+@#GFL-UNIT-GROZA-NAME-RND=闪电小队
+
+#
+# Groza - Dolls
+#
+
+@DOLL-OTS14-NAME=闪电
+@DOLL-OTS14-DESC=成熟稳重的精英人形，当之无愧的小队核心。就算小队成员性格迥异，\n她也能很好地统合起众人的力量。只要有她在，一切都不会成为问题。
+@WEAP-OTS14-NAME=OTs-14“闪电”突击步枪
+@WEAP-OTS14-DESC=OTs-14“闪电”是由图拉兵工厂下属的中央设计局运动和狩猎武器部于1992年设计的一种模块化无托突击步枪系统。和其“前辈”OTs-12“紫衫树”一样，OTs-14也是基于AKS-74U设计的，旨在于集俄军现役武器之所长，整合出一把专为近距离作战场景使用的武器。\n\n实际上，OTs-14就是AKS-74U的无托改型，两者之间因此有大量的零件可以互换使用。
+
+@DOLL-OM50-NAME=纳美西丝
+@DOLL-OM50-DESC=热衷神秘学与占卜，随身携带神奇的占卜道具“棱镜”。而占卜的结果，通常会被她用充满神秘色彩、\n令人费解的语言风格表达出来。但她仍是非常可靠的同伴一一除了难以沟通之外。
+@WEAP-OM50-NAME=OM 50“复仇女神”狙击步枪
+@WEAP-OM50-DESC=OM 50“复仇女神”（现用名SAN 511）是由瑞士西格绍尔生产的12.7x99mm口径栓动步枪。
+
+@firearm_caliber_50bmg_name=.50 BMG
+
+@ammo_50bmg_fmj_name=.50 BMG FMJ
+@ammo_50bmg_fmj_desc=“雄伟”的弹药带给您“雄伟”的反器材体验，即使到了极限射程，穿透力和停止力也依然不减。\n\n温馨提示：发射时注意保护耳膜。
+@ammo_50bmg_match_name=.50 BMG Match
+@ammo_50bmg_match_desc=比赛级.50 BMG弹药，即使敌人在千里之外也能给他做个“小小”的“外科手术”。
+
+@DOLL-HARE-NAME=克罗丽科
+@DOLL-HARE-DESC=性格稍显暴躁，对与自己无关的事务没什么兴趣，但拥有无可指摘的责任心。\n就算是类似“担任纳美西丝专属翻译官”这样完全不喜欢的任务，她也会尽心完成。
+@WEAP-HARE-NAME=野兔
+@WEAP-HARE-DESC=与克罗丽科契合度高的近战武器，针对克罗丽科的作战偏好进行了一定的改造，涂装上采用了与克罗丽科相配的颜色。
+@firearm_operation_melee=近战
+
+@armor_gfl_hare_name=战术盾牌
+@armor_gfl_hare_desc=装载强化护板的战术盾牌，虽然限制了克罗丽科的行动力，但在突入房间时这块盾牌就是她最好的防护。
+
+@armor_gfl_hare_heavy_name=重型防护套件
+@armor_gfl_hare_heavy_desc=带有额外侧/后护甲板的全向防护系统，虽然使用这套系统会让克罗丽科变成显眼的移动堡垒，但往好处想，移动堡垒可以扛下的子弹可比普通人形多太多了。
+
+@no_ammo_name=无
+@no_ammo_desc=
+@scope_no_sights_name=无
+@scope_no_sights_desc=
+
+@DOLL-CURVA-NAME=寇尔芙
+@DOLL-CURVA-DESC=虽然时常看起来热情洋溢，但偶尔也会露出完全不同的冷淡表情。\n她手中的针剂，究竟是用来救死扶伤，还是用来置人于死地？
+@WEAP-CURVA-NAME=Taurus Curve手枪
+@WEAP-CURVA-DESC=“曲线”手枪是由巴西陶鲁斯公司设计的.380ACP口径袖珍型手枪。
+
+@firearm_operation_doubleaction_name=双动式
+
+@DOLL-VEPR12-NAME=维普蕾
+@DOLL-VEPR12-DESC=活跃在“战场”这个特殊舞台上的偶像！每天都在为了下一场\n演出做着万全的准备一一这样，就不会再轻易摔倒或者撞到其他人了吧。
+@WEAP-VEPR12-NAME=Vepr-12霰弹枪
+@WEAP-VEPR12-DESC=Vepr-12是Molot工厂基于RPK设计的半自动霰弹枪。\n\n注意：此Vepr非彼Vepr，乌克兰的Vepr是无托的。
+
+#
+# Groza - Doctrines
+#
 
 @doctrine_gfl_groza_perfectcover_name=完美掩护
 @doctrine_gfl_groza_perfectcover_descr=一位出色的队长会为每一位队员的行动提供掩护。闪电的沉着气场使她的小队成员在掩体后战斗时获得压制抗性、压制恢复速度和精准度增益。
@@ -344,19 +409,25 @@
 @doctrine_gfl_groza_readtheroom_name=审时度势
 @doctrine_gfl_groza_readtheroom_descr=小队成员各异的出身提供了不同的思考角度，每个人都能注意到被他人忽略的地方：队形、弱点、机遇。在关卡开始时揭示敌方位置。
 
-@GEAR-MEDIC-GRENADE-NAME=2x医疗手榴弹
-@GEAR-MEDIC-GRENADE-DESC=实验性的医疗手榴弹，可以修复影响范围内所有单位受到的损伤。\n\n注意：在混战时请谨慎使用，因为这种投掷物的修复功能会不分敌我地造福双方单位。
-@GEAR-MEDIC-GRENADE-TTIP=投掷医疗手榴弹
+#
+# ElmoC - Units
+#
 
 @GFL-UNIT-ELMOCE-NAME=艾莫号-综合梯队
 @GFL-UNIT-ELMOCE-DESC=在非军事力量管理局解除了“梅菲斯特”协议的部分限制后，流浪的人形们登上了艾莫号，在车上承担着维持艾莫号运转的各类任务。
 @#GFL-UNIT-ELMOCE-NAME-RND=艾莫号-综合梯队
 
+#
+# ElmoC - Dolls
+#
+
 @DOLL-PKPSP-NAME=佩里缇亚
 @DOLL-PKPSP-DESC=战斗、生存，以及各种新奇的情绪，都是这广袤世界的一部分，在她看来，相较电子世界，\n这样广袤的世界充满了未知的趣味……嗯，那朵云终于遮住了太阳，躺下休息一会吧。
 @WEAP-PKPSP-NAME=PKP-SP通用机枪
 @WEAP-PKPSP-DESC=PKP“佩切涅格”通用机枪是PKM通用机枪的改进型号，换用了开有数条散热纵槽的重型强制气冷枪管；PKP-SP则是对PKP的更进一步改进，在受弹盖上增加了一段用于安装瞄具的皮卡汀尼导轨。
+
 @firearm_caliber_762x54_name=7.62×54mmR
+
 @ammo_762x54r_pkp_name=7.62×54mmR FMJ
 @ammo_762x54r_pkp_desc=俄制全金属被甲弹，有着不错的射程和穿透力。
 
@@ -384,7 +455,27 @@
 @DOLL-VSK94-DESC=坚持正义的治安人员、爱护孩子的温柔姐姐、花钱不眨眼的月光族—一谁说这些身份不能是同一个人？奋战于守护\n正义的一线，妮基塔冷静地践行着自己的原则，但在面对你时，她也会流露出特别的一面。“我的工作告诉我，不要\n完全相信任何人。不过，BOSS是例外了，我们可是一起追逐正义的伙伴呢。”
 @WEAP-VSK94-NAME=VSK-94狙击步枪
 @WEAP-VSK94-DESC=VSK-94是基于9A-91突击步枪发展而成的微声狙击步枪，两者使用同样的9x39mm亚音速步枪弹。\nVSK-94在出厂时配有消声器和PSO-1瞄准镜，以此在秘密行动中承担精确射手步枪的职责。
+
 @firearm_caliber_939_name=9×39mm
+
+@DOLL-DP12-NAME=海伦
+@DOLL-DP12-DESC=在格里芬解散后的动荡时期，具备强大情报梳理能力的人形，选择接受官方安排，\n并始终追寻着指挥官的下落。因其在官方严苛测试中展露出的杰出情报梳理能力，\n而被选为“冕洞计划”中的一环。蛰伏于暗黑之中的海伦，巧妙利用身边一切的资源、\n权限，接近情报系统的中枢，尝试推测出奥尔劳格财团在罗联内部所布下的庞大计划。
+@WEAP-DP12-NAME=DP-12霰弹枪
+@WEAP-DP12-DESC=DP-12是一款采用无托构型的泵动式双管散弹枪，使用两条管状弹仓供弹。\n\n当第一次扣动扳机时，DP-12会先从右侧的枪管开火，第二次扣动扳机时则从左侧枪管开火；两根枪管发射后，前护木解锁，射手可以推动前护木，重新向膛内填装弹药。
+
+@DOLL-LEWIS-NAME=刘易斯
+@DOLL-LEWIS-DESC=最早是由环球万事服务所制造的，致力于玩具收藏品设计与再开发的特制人形。后来被改造为\n战术人形，并被格里芬雇佣。在格里芬解散后，经由帕斯卡的推荐，她加入了AI与量子科技\n研究机构——42Lab。作为玩具设计师她天性厌恶战争，离开格里芬本应该是她远离战场最好的\n机会。但是为了守护孩童们纯真的笑容，也为了兑现和同伴们的约定，她依旧选择了战术人形\n的道路。她决心用自己的双手去开创并守护孩子们美好的未来。
+@WEAP-LEWIS-NAME=刘易斯轻机枪
+@WEAP-LEWIS-DESC=使用.303英式步枪弹的刘易斯机枪是一款极具特色的武器，以其标志性的顶置47发弹盘和水冷衬套闻名于世界。\n\n在战场上，刘易斯也频频亮相，同英军参与了从第一次世界大战起到冷战前期的多场战争。
+
+@ammo_303brit_lewis_name=.303 British FMJ
+@ammo_303brit_lewis_desc=供刘易斯机枪使用的标准全金属被甲弹，为火力压制而特化。
+@ammo_303brit_ap_lewis_name=.303 British AP
+@ammo_303brit_ap_lewis_desc=.303口径穿甲弹，以停止力为代价优化了穿透能力。
+
+#
+# ElmoC - Doctrines
+#
 
 @doctrine_gfl_elmoce_catandmouse_name=即兴猫鼠游戏
 @doctrine_gfl_elmoce_catandmouse_descr=佩里缇亚在战场上尽情释放着她的狩猎本能，如猫戏老鼠一般用机枪压制敌人，并在敌人惊慌失措时用致命的枪法射出精准一击。
@@ -419,22 +510,3 @@
 
 @doctrine_gfl_elmoce_veteranmarks_name=精湛枪法
 @doctrine_gfl_elmoce_veteranmarks_descr=人形们的枪法在常年的流浪与作战中不断精进，她们无论手持何种武器、无论面对多远的目标都有信心一击毙敌。
-
-@DOLL-DP12-NAME=海伦
-@DOLL-DP12-DESC=在格里芬解散后的动荡时期，具备强大情报梳理能力的人形，选择接受官方安排，\n并始终追寻着指挥官的下落。因其在官方严苛测试中展露出的杰出情报梳理能力，\n而被选为“冕洞计划”中的一环。蛰伏于暗黑之中的海伦，巧妙利用身边一切的资源、\n权限，接近情报系统的中枢，尝试推测出奥尔劳格财团在罗联内部所布下的庞大计划。
-@WEAP-DP12-NAME=DP-12霰弹枪
-@WEAP-DP12-DESC=DP-12是一款采用无托构型的泵动式双管散弹枪，使用两条管状弹仓供弹。\n\n当第一次扣动扳机时，DP-12会先从右侧的枪管开火，第二次扣动扳机时则从左侧枪管开火；两根枪管发射后，前护木解锁，射手可以推动前护木，重新向膛内填装弹药。
-
-@DOLL-LEWIS-NAME=刘易斯
-@DOLL-LEWIS-DESC=最早是由环球万事服务所制造的，致力于玩具收藏品设计与再开发的特制人形。后来被改造为\n战术人形，并被格里芬雇佣。在格里芬解散后，经由帕斯卡的推荐，她加入了AI与量子科技\n研究机构——42Lab。作为玩具设计师她天性厌恶战争，离开格里芬本应该是她远离战场最好的\n机会。但是为了守护孩童们纯真的笑容，也为了兑现和同伴们的约定，她依旧选择了战术人形\n的道路。她决心用自己的双手去开创并守护孩子们美好的未来。
-@WEAP-LEWIS-NAME=刘易斯轻机枪
-@WEAP-LEWIS-DESC=使用.303英式步枪弹的刘易斯机枪是一款极具特色的武器，以其标志性的顶置47发弹盘和水冷衬套闻名于世界。\n\n在战场上，刘易斯也频频亮相，同英军参与了从第一次世界大战起到冷战前期的多场战争。
-
-@ammo_303brit_lewis_name=.303 British FMJ
-@ammo_303brit_lewis_desc=供刘易斯机枪使用的标准全金属被甲弹，为火力压制而特化。
-@ammo_303brit_ap_lewis_name=.303 British AP
-@ammo_303brit_ap_lewis_desc=.303口径穿甲弹，以停止力为代价优化了穿透能力。
-
-@GEAR-VECTOR-GRENADE-NAME=5x壮烈终章
-@GEAR-VECTOR-GRENADE-DESC=内含少量炸药的燃烧手榴弹，可以震撼引爆点附近的敌人，并用铝热剂点燃其他位于影响范围内的目标。\n\n潦草收尾之前，给对手刻骨铭心的重击。
-@GEAR-VECTOR-GRENADE-TTIP=投掷壮烈终章
