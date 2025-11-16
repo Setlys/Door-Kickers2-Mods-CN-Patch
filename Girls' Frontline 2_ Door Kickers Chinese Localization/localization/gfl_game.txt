@@ -23,8 +23,10 @@
 @armor_gfl_hardened_desc=最高档的防护配置，通过强化的防御系统提供更强的抗弹能力。
 
 @GEAR-MEDIC-GRENADE-NAME=2x医疗手榴弹
-@GEAR-MEDIC-GRENADE-DESC=实验性的医疗手榴弹，可以修复影响范围内所有单位受到的损伤。\n\n注意：在混战时请谨慎使用，因为这种投掷物的修复功能会不分敌我地造福双方单位。
+@GEAR-MEDIC-GRENADE-DESC=实验性的医疗手榴弹，可以修复影响范围内所有单位受到的损伤。\n\n注意：在混战时请谨慎使用，因为这种投掷物的修复功能并不区分敌我。
 @GEAR-MEDIC-GRENADE-TTIP=投掷医疗手榴弹
+
+@menu_game_medic_grenade_none_ttip=医疗手榴弹用尽
 
 #
 # General - Doctrines
@@ -189,9 +191,11 @@
 @ammo_45acp_fmj_vector_desc=标配的全金属被甲弹，专为维克托而优化。
 @ammo_45acp_jhp_vector_desc=可在CQB情形下发挥最大威力的空尖弹。
 
-@GEAR-VECTOR-GRENADE-NAME=5x壮烈终章
-@GEAR-VECTOR-GRENADE-DESC=内含少量炸药的燃烧手榴弹，可以震撼引爆点附近的敌人，并用铝热剂点燃其他位于影响范围内的目标。\n\n潦草收尾之前，给对手刻骨铭心的重击。
-@GEAR-VECTOR-GRENADE-TTIP=投掷壮烈终章
+@GEAR-VECTOR-GRENADE-NAME=5x“壮烈终章” (燃烧手榴弹)
+@GEAR-VECTOR-GRENADE-DESC=内含少量炸药的燃烧手榴弹，可以眩晕引爆点附近的敌人，并点燃其他位于影响范围内的目标。\n\n潦草收尾之前，给对手刻骨铭心的重击。
+@GEAR-VECTOR-GRENADE-TTIP=投掷“壮烈终章”
+
+@menu_game_vector_grenade_none_ttip=导染指数用尽
 
 #
 # 404 - Doctrines
