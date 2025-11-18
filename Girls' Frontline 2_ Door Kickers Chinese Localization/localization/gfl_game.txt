@@ -520,7 +520,7 @@
 #
 
 @GFL-UNIT-FROST-NAME=霜降小队
-@GFL-UNIT-FROST-DESC=格里芬解体重组后，由部分留在格里芬的人形组成的小队。虽然格里芬的影响力早已大不如前，但成员们仍然在为公司的存续而行动着。
+@GFL-UNIT-FROST-DESC=格里芬解体重组后，部分留在格里芬的人形组成的小队。虽然格里芬的影响力早已大不如前，但成员们仍然在为公司的存续而行动着。
 @#GFL-UNIT-FROST-NAME-RND=霜降小队
 
 #
@@ -558,29 +558,29 @@
 #
 
 @doctrine_gfl_frost_commonrail_name=共轨
-@doctrine_gfl_frost_commonrail_descr=Always have faith in your allies, but also have a contingency plan in place. When Qiongjiu eliminates a target, nearby allies within 8 meters gain accuracy and suppression recovery for 5 seconds.
+@doctrine_gfl_frost_commonrail_descr=“相信同伴，与此同时，做好预案。”当琼玖击杀目标时，附近8米内的盟友获得5秒的精准度和压制恢复速度增益。
 @buff_gfl_frost_commonrail=就是现在！
 
 @doctrine_gfl_frost_auroracurtain_name=极光帷幕
-@doctrine_gfl_frost_auroracurtain_descr=Look; that radiance is the annihilation of a star. When Tololo eliminates a target, she gains drastically improved target acquisition and switching speed for 4 seconds.
-@buff_gfl_frost_auroracascade=Aurora Cascade
+@doctrine_gfl_frost_auroracurtain_descr=“看，那是星辰湮灭的辉光。”托洛洛击杀目标时，获得4秒的精准度和瞄准速度增益。
+@buff_gfl_frost_auroracascade=极光帷幕
 
 @doctrine_gfl_frost_sweetsstockpile_name=甜食储备
-@doctrine_gfl_frost_sweetsstockpile_descr=The soothing balm that eases anxiety is also a narcotic that snares the soul. Enemies near Lind suffer reduced suppression recovery and slower target acquisition.
-@buff_gfl_frost_honeytrap=Honeytrapped
+@doctrine_gfl_frost_sweetsstockpile_descr=“缓解不安的慰藉，也是依赖成瘾的毒剂。”位于琳德附近的敌人压制恢复速度和瞄准速度均会下降。
+@buff_gfl_frost_honeytrap=糖分超载
 
 @doctrine_gfl_frost_spicycandy_name=辣味糖果
-@doctrine_gfl_frost_spicycandy_descr=Want to feel your tongue catch fire? When Cheeta is wounded, her genius kicks into overdrive. Nearby allies benefit from her experimental inventions, gaining improved critical chance and movement speed.
-@buff_gfl_frost_spicycandy=试试本天才的发明！
+@doctrine_gfl_frost_spicycandy_descr=“想体验舌尖起火的感觉吗？”当奇塔受伤时，她的惊世智慧立刻完全放电，附近的盟友均会从她的试验性发明中获益，获得暴击率和移动速度增益。
+@buff_gfl_frost_spicycandy=试试本天才的新发明！
 
 @doctrine_gfl_frost_combatreadiness_name=战备状态
-@doctrine_gfl_frost_combatreadiness_descr=Frostfall maintains peak combat readiness through disciplined training. Improved suppression recovery and flinch resistance.
+@doctrine_gfl_frost_combatreadiness_descr=霜降小队的成员通过训练时刻保持战备状态。成员们获得压制恢复速度和伤害抗性增益。
 
 @doctrine_gfl_frost_griffinefficiency_name=格里芬效率
-@doctrine_gfl_frost_griffinefficiency_descr=Operating with limited resources has taught efficiency. Faster reloads and weapon transitions across all equipment.
+@doctrine_gfl_frost_griffinefficiency_descr=在如今的格里芬工作，不仅要省，省的时候还要省出效率。提高所有成员的换弹速度和武器切换速度。
 
 @doctrine_gfl_frost_advancedintelnetwork_name=进阶情报网络
-@doctrine_gfl_frost_advancedintelnetwork_descr=G&K's intelligence network provides pre-mission reconnaissance. Reveals objectives, hostages, or bombs at mission start.
+@doctrine_gfl_frost_advancedintelnetwork_descr=在行动前，成员们会使用格里芬的情报网络进行行动规划。在关卡开始时揭示目标、人质或炸弹位置。
 
 @doctrine_gfl_frost_tacticaladaptation_name=战术适应
-@doctrine_gfl_frost_tacticaladaptation_descr=Experience across varied combat scenarios enables tactical flexibility. Enhanced accuracy and target acquisition at all ranges.
+@doctrine_gfl_frost_tacticaladaptation_descr=霜降小队的成员们久经沙场，根据作战场景变换战术对她们来说是家常便饭。提高成员们对所有距离目标的射击精准度和索敌速度。
