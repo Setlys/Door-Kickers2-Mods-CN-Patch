@@ -36,24 +36,23 @@
 # Weapons - Shotguns
 #
 
-@firearm_slinged_hunting_shotgun_nwcy_desc=这把看着就像是为堑壕战而生的霰弹枪一直挂在枪架上，还贴了张“非急勿用”的标签在上面。
-Proudly slung like it’s ready for the trenches of 1914, but actually labeled as a “backup weapon.” Two shots, no rails, and the kind of reliability you'd expect from your grandfather's attic.\n\nPerfect for close encounters, assuming you don’t miss. After that? Just hope the suspect waits politely while you reload. It’s not so much a firearm as a loud suggestion — but hey, at least it looks intimidating when you show up to a riot with a duck gun.
+@firearm_slinged_hunting_shotgun_nwcy_desc=这把看着就像是为堑壕战而生的霰弹枪一直挂在警局的枪架上，还被贴了张“非紧急情况勿用”的标签在上面；其实也不无道理，这把枪的牢靠程度估摸着也就比老穆罕默德的腰好一点。\n\n两根枪管，两次机会，每次射击都要向真主祈祷子弹不会射偏。你问打歪了怎么办？先给嫌犯磕几个头，认个爹，趁他高兴的时候抓紧把子弹抠出来。说到底，这枪在警务实战的时候更像个扩音器，用处就是向嫌犯叫两声，劝他们别不识好歹抓紧投诚。警官们更倾向于带这把枪去镇暴，毕竟镇暴还真就需要声音大的家伙事。
 
 #
 # Weapons - Various Primary
 #
 
-@firearm_ak_underfolder_constable_nwcy_desc=
-Wobbly stock, scratched finish, and still the most reliable thing in the entire precinct — including the electricity. It rattles like a toolbox in a dryer, but it works every time.\n\nFolding stock means it’s “compact,” in the same way a crowbar is compact. For officers lucky enough to get one, it’s a step up from museum pieces and duck guns.
-@firearm_smlemk3_constable_nwcy_desc=Bolt-action policing at its finest. Originally designed to defend an empire, now repurposed to intimidate jaywalkers and accidentally pierce walls two blocks over.\n\nUsing it for police work is absurd — five rounds, bolt-action, and a bayonet lug just in case the paperwork gets really out of hand. Still, great for long-range intimidation, crowd control by sheer presence, or convincing suspects you time-traveled to the scene.
+@firearm_ak_underfolder_constable_nwcy_desc=枪托摇摇欲坠，成色久经沙场，但依然是整个警局里最可靠的东西——甚至比供电系统可靠。用这玩意就像是往坏掉的烘干机里直接扔一个工具箱进去：虽然过程很曲折，最后还是能把机器修好。\n\n一般人看到折叠托就会觉得这把枪很“紧凑”，按这种逻辑的话撬棍其实也挺“紧凑”的。拿到这把枪的警官通常会痛哭流涕，感谢局长终于让他们从文物收藏者一跃成为了真正的战士。
 
-@firearm_pm63_constable_nwcy_desc=A Cold War relic that somehow snuck into modern inventory like an intern nobody remembered hiring. It’s got a 25-round magazine, a tiny folding stock, and all the ergonomics of a stapler.\n\nIt fires fast, sprays wide, and rattles like loose change in a washing machine. Ideal for officers who want to feel tactical while accidentally mag-dumping into a trash can. Backup weapon? Maybe. Museum piece? Absolutely.
+@firearm_smlemk3_constable_nwcy_desc=“栓动警务”模式的最佳代表。李-恩菲尔德步枪为捍卫日不落帝国而生，现在却只能屈尊降贵，用于恐吓乱穿马路的行人，并在过程中射穿整整两个街区的墙。\n\n很多警员都觉得拿着栓动步枪去执法非常荒诞，因为整枪上下唯一有助于减少文书工作的只有枪口前面的刺刀箍。但这并不是说这把枪全无用武之地，在长距离射击和镇暴时，警员们仍然会选择带着这把枪出勤，一些巡警还借此发现了一个比较奇特的用途——在响应劫案时带上这把枪，比较蠢的劫匪就会觉得他们穿越回了上个世纪，进而放松警惕，警员们趁此机会得以偷袭他们。
 
-@firearm_m16a4_constable_nwcy_desc=Surplus from coalition allies, handed down with the weight of expectation. Reliable, accurate, and far too much rifle for a constable meant to walk markets, not clear alleyways.\n\nIts arrival quietly changed everything. No longer just peacekeepers, officers are now armed like soldiers — expected to hold lines, not just keep order. It’s not about community anymore. It’s about control. And everyone feels it.
+@firearm_pm63_constable_nwcy_desc=PM63之于警员就如同靠关系进公司的实习生之于正式工——没人知道这家伙怎么进来的，但反正就是在。PM63的设计非常符合实际表现：25发弹匣和高射速使得清空弹匣无比迅速；折叠托抵不住肩，十个警员里有九个在连射时上不了靶；人机工效堪比订书机，开火时整把枪和滚筒洗衣机一样吵闹。\n\n警官们同意这把枪能当副武器使吗？可能。警官们同意这把枪该进博物馆吗？毫无疑问。经过讨论后，警官们一致认为PM63只适合一种人使用：在出警时嘴里念念有词，不时高喊“遭遇”“弱侧有敌人”“卧倒”“出掩体”“enemy down”的战术奇人。
 
-@firearm_m500_constable_nwcy_desc=The M500 isn’t issued — it’s assigned like a warning. If it’s in your hands, you’re the first responder, and you know time is already running out.\n\nPump-action, no optics, and a handful of shells. It’s a weapon for kicking down doors before anyone else arrives, taking control when seconds matter. Simple, loud, and unforgiving — just like the job it’s meant for.
+@firearm_m16a4_constable_nwcy_desc=联军的军剩物资，上级将这些枪批给了警局，期盼着警员能用它们重振治安。虽然可靠又精准，但是指望巡逻都只喜欢去超市绕圈的巡警用这个还是太强人所难了。\n\n这批步枪发配给警员后，警局似乎无声无息地军事化了。警官们上街巡逻时不再是以维和者的形象出现，而是变成了和联军士兵一模一样的“丘八先生”，上级甚至期望他们能和联军一起抗线。到这种地步，已经不是维护社区这么简单了，警官们自己也能感受到，他们实际上是在干压制反对派的活。
 
-@firearm_m4_carbine_heavy_nwcy_desc=When the M4 Carbine shows up in a unit’s hands, it’s clear they’re not your average beat constables. Compact, accurate, and chambered in 5.56×45mm, it’s built for mobility and fast response,ideal for urban operations and high-risk targets.\n\nThis isn’t general-issue gear. If the unit’s carrying M4s, it means they’re expected to move quickly, hit hard, and operate with precision — the kind of tasks regular patrols aren’t meant to handle.
+@firearm_m500_constable_nwcy_desc=M500不是发给你的，而是硬塞给你的，因为你是第一响应者；如果事态已经严重到要把M500从后备箱里拿出来的话，那你作为第一响应者最需要的“时间”已经所剩无几了。\n\n只有准星的泵动霰弹枪和几盒霰弹的搭配最适合在分秒必争时破门而入，控制事态了。结构简单、声如洪钟、且过目难忘——M500正是为此而生的。
+
+@firearm_m4_carbine_heavy_nwcy_desc=能拿到M4的单位绝不会和街上那些“甜甜圈巡警”一样废柴。M4紧凑而又精准，所填装的5.56x45mm弹药极其适合在城镇环境中遂行快反行动。\n\nM4在局里可不是人人皆有的平民装备，拿到这把枪的单位一般都会承担快反任务，这种任务既要快，也要狠，更要准——一般的巡警应付不了这种要求。
 
 @firearm_m4_carbine_sup_heavy_nwcy_desc=Outfitting the M4 Carbine with a suppressor is less about silence and more about control. Reduced recoil, lower muzzle blast, and better handling in confined spaces make it a smart addition for police units operating in dense urban environments.\n\nIt’s still a 5.56×45mm workhorse — just refined. For special units, this isn’t about flash — it’s about staying effective, coordinated, and in control when it counts.
 
@@ -140,5 +139,6 @@ Wobbly stock, scratched finish, and still the most reliable thing in the entire 
 @doctrine_nwcy_strictrules="If you're not early, you're late. If you're not in cover, you're dead." Enforces faster reaction time and procedural discipline. Also adds more paperwork if the Constables break protocol. Yay.
 
 @doctrine_nwcy_straightarrows=As a result of all the rules and reforms, the precinct now runs like a tight, slightly paranoid ship. Units operate with improved consistency, accuracy, and professionalism, which is weirdly unsettling.
+
 
 
