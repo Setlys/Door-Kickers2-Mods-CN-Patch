@@ -520,7 +520,7 @@
 #
 
 @GFL-UNIT-FROST-NAME=霜降小队
-@GFL-UNIT-FROST-DESC=格里芬解体重组后，部分留在格里芬的人形组成的小队。尽管格里芬的影响力已大不如前，但小队成员们仍然在为公司存续而行动着。
+@GFL-UNIT-FROST-DESC=格里芬解体重组后，由部分留在格里芬的人形组成的小队。虽然格里芬的影响力早已大不如前，但成员们仍然在为公司的存续而行动着。
 @#GFL-UNIT-FROST-NAME-RND=霜降小队
 
 #
@@ -533,7 +533,7 @@
 @WEAP-QBZ191-DESC=QBZ-191是解放军的新一代模块化突击步枪。与同样使用5.8x42mm步枪弹的“前辈”QBZ-95相比，QBZ-191的人机工效更好，模块化程度更高，可靠性也更强。
 
 @ammo_58x42_dbp191_name=5.8×42mm DBP191普通弹
-@ammo_58x42_dbp191_desc=供QBZ-191枪族使用的标准弹药。
+@ammo_58x42_dbp191_desc=供191枪族使用的标准弹药。
 @ammo_58x42_dbp88_name=5.8×42mm DVP88重尖弹
 @ammo_58x42_dbp88_desc=钢芯铜被甲的重型弹药，优化弹道性能的同时增强了穿透能力。
 @firearm_caliber_58x42_name=5.8×42mm
@@ -541,7 +541,7 @@
 @DOLL-AKALFA-NAME=托洛洛
 @DOLL-AKALFA-DESC=与星空相伴的安静人形。沉默之下，是纤细而敏感的内心。\n万物沉睡时，她将自己寄托于浩瀚星河，夜空则为其变幻闪烁。
 @WEAP-AKALFA-NAME=AK-Alfa突击步枪
-@WEAP-AKALFA-DESC=AK-Alfa是AK平台的一种现代化方案，其在可靠性不输原品的同时提高了枪械的精准度和人机工效，同时也降低了开火时的后坐力。
+@WEAP-AKALFA-DESC=AK-Alfa是AK平台的一种现代化方案，可靠性不输原品的同时提高了枪械的精准度和人机工效，同时也降低了开火时的后坐力。
 
 @DOLL-AA12-NAME=琳德
 @DOLL-AA12-DESC=诞生于临床试验的受试人形，凭借出众的射击能力和强劲的火力\n脱颖而出，加入了原大型P.M.C.格里芬，后在格里芬经历解体重组\n时选择留下，目前在琼玖所带领的霜降小队中活动。随着深夜电台\n“倾诉办公室”的消失、甜食经费的削减、以及人际关系的改变——\n让患有重度依赖症的琳德曾一度加重了焦虑症状，但只要有愿意\n倾听心声的同伴在身边，琳德还是会向着理所当然的明天，迈出\n坚定前行的步伐。
@@ -552,3 +552,35 @@
 @DOLL-MP7-DESC=灵感源源不断的人形、格里芬的发明大王。多少次失败都无法\n停止她的脚步。层出不穷的鬼点子让人头痛，但她却又总能在\n关键时刻给出“天才”般的妙计。
 @WEAP-MP7-NAME=MP7冲锋枪
 @WEAP-MP7-DESC=MP7是一款黑克勒&科赫公司基于美军的“单兵自卫武器”理念设计出的紧凑型冲锋枪，发射同样是公司研制的4.6x30mm弹药。\n\n尽管身材短小，MP7仍然凭借着高射速设计和穿甲特化弹药，成为了二线作战人员打击着甲目标的利器。
+
+#
+# Frostfall - Doctrines
+#
+
+@doctrine_gfl_frost_commonrail_name=共轨
+@doctrine_gfl_frost_commonrail_descr=Always have faith in your allies, but also have a contingency plan in place. When Qiongjiu eliminates a target, nearby allies within 8 meters gain accuracy and suppression recovery for 5 seconds.
+@buff_gfl_frost_commonrail=就是现在！
+
+@doctrine_gfl_frost_auroracurtain_name=极光帷幕
+@doctrine_gfl_frost_auroracurtain_descr=Look; that radiance is the annihilation of a star. When Tololo eliminates a target, she gains drastically improved target acquisition and switching speed for 4 seconds.
+@buff_gfl_frost_auroracascade=Aurora Cascade
+
+@doctrine_gfl_frost_sweetsstockpile_name=甜食储备
+@doctrine_gfl_frost_sweetsstockpile_descr=The soothing balm that eases anxiety is also a narcotic that snares the soul. Enemies near Lind suffer reduced suppression recovery and slower target acquisition.
+@buff_gfl_frost_honeytrap=Honeytrapped
+
+@doctrine_gfl_frost_spicycandy_name=辣味糖果
+@doctrine_gfl_frost_spicycandy_descr=Want to feel your tongue catch fire? When Cheeta is wounded, her genius kicks into overdrive. Nearby allies benefit from her experimental inventions, gaining improved critical chance and movement speed.
+@buff_gfl_frost_spicycandy=试试本天才的发明！
+
+@doctrine_gfl_frost_combatreadiness_name=战备状态
+@doctrine_gfl_frost_combatreadiness_descr=Frostfall maintains peak combat readiness through disciplined training. Improved suppression recovery and flinch resistance.
+
+@doctrine_gfl_frost_griffinefficiency_name=格里芬效率
+@doctrine_gfl_frost_griffinefficiency_descr=Operating with limited resources has taught efficiency. Faster reloads and weapon transitions across all equipment.
+
+@doctrine_gfl_frost_advancedintelnetwork_name=进阶情报网络
+@doctrine_gfl_frost_advancedintelnetwork_descr=G&K's intelligence network provides pre-mission reconnaissance. Reveals objectives, hostages, or bombs at mission start.
+
+@doctrine_gfl_frost_tacticaladaptation_name=战术适应
+@doctrine_gfl_frost_tacticaladaptation_descr=Experience across varied combat scenarios enables tactical flexibility. Enhanced accuracy and target acquisition at all ranges.
