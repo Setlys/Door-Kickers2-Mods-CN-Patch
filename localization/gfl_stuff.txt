@@ -1,6 +1,8 @@
-@scope_GFL_ironsights_name=Iron sights
+@scope_GFL_ironsights_name=机械瞄具
+Iron sights
 
-@scope_GFL_ironsights_desc=Standard ironsights for basic aim guidance. Technically Dolls do not need any sight attachments at close to medium range as they use their built-in sensor package to acquire targets in that range bracket, but thanks to continuous drilling, the Dolls that were once under the Shikikan's command noticably have improved elimination rates when using dedicated sights. Do not be that guy who says "rifle is fine", give your Dolls the attachments they need. 
+@scope_GFL_ironsights_desc=最基础的机械瞄具。理论上，人形在攻击中近距离目标时并不需要任何瞄具辅助——她们可以直接使用内置的传感器索敌。
+Standard ironsights for basic aim guidance. Technically Dolls do not need any sight attachments at close to medium range as they use their built-in sensor package to acquire targets in that range bracket, but thanks to continuous drilling, the Dolls that were once under the Shikikan's command noticably have improved elimination rates when using dedicated sights. Do not be that guy who says "rifle is fine", give your Dolls the attachments they need. 
 
 @scope_GFL_pistolreddot_name=Micro Red Dot 1x
 @scope_GFL_pistolreddot_desc=A red dot sight so small it can fit to pistol slides. Improves your Doll's crit rate dramatically within 12m, but conversely makes it harder to aim for precise spots at long range due to the red dot obstructing the shooters view. 
@@ -34,3 +36,4 @@
 
 @scope_GFL_lropm5_25_name=LR Optic 5-25x
 @scope_GFL_lropm5_25_desc=A heavy and cumbersome optic that brings maximum precision from 25m out. Enhances the Doll's equipped weapon by intense degrees at long range, but suffers greatly at close range. It is a requirement to bring a reliable sidearm or have the Doll equipping this sit out any room-to-room fights.
+
