@@ -1,39 +1,41 @@
-@scope_GFL_ironsights_name=机械瞄具
-Iron sights
+#
+# GFL2
+#
 
-@scope_GFL_ironsights_desc=最基础的机械瞄具。理论上，人形在攻击中近距离目标时并不需要任何瞄具辅助——她们可以直接使用内置的传感器索敌。
-Standard ironsights for basic aim guidance. Technically Dolls do not need any sight attachments at close to medium range as they use their built-in sensor package to acquire targets in that range bracket, but thanks to continuous drilling, the Dolls that were once under the Shikikan's command noticably have improved elimination rates when using dedicated sights. Do not be that guy who says "rifle is fine", give your Dolls the attachments they need. 
 
-@scope_GFL_pistolreddot_name=Micro Red Dot 1x
-@scope_GFL_pistolreddot_desc=A red dot sight so small it can fit to pistol slides. Improves your Doll's crit rate dramatically within 12m, but conversely makes it harder to aim for precise spots at long range due to the red dot obstructing the shooters view. 
+@scope_GFL_ironsights_name=机瞄
+@scope_GFL_ironsights_desc=最基础的机械瞄具。理论上，人形在攻击中近距离的目标时并不需要瞄具——她们可以直接使用内置的传感器索敌。但在指挥官的不懈努力和勤奋训练下，人形在使用瞄具时的击杀率相比单纯使用传感器时得到了显著的提升。\n\n该用瞄具的时候就该用，不要再当对西方配件嗤之以鼻，抱着原厂步枪高呼“不，我的步枪很好”的燕尾槽爱好者了。
 
-@scope_GFL_riflereddot_name=M68 Red Dot 1x
-@scope_GFL_riflereddot_desc=Minimalistic sight that simply paints a red dot over the target. Most Dolls train with this attachment during shooting drills and thus are used to its heft. Improves your Doll's crit rate dramatically within 12m, but conversely makes it harder to aim for precise spots at long range due to the red dot obstructing the shooters view. 
+@scope_GFL_pistolreddot_name=微型红点镜1x
+@scope_GFL_pistolreddot_desc=一款小到可以安装在手枪上的红点瞄具，可以提升人形在12米距离内的射击命中率，但在长距离射击时瞄具的红点反而会阻挡视界，使人形难以命中敌人。 
 
-@scope_GFL_holosight_name=Holo-sight 1x
-@scope_GFL_holosight_desc=Magica- No... Magic is not real. Ahem, this sight projects a glowing sight over the target with drop marks, allowing it to be effective at medium range, but has no further magnification capabilities than that, making it suffer the same drawbacks as the Red Dot sight at longer ranges. The batteries makes it a bit heavier too as well.
+@scope_GFL_riflereddot_name=M68红点镜1x
+@scope_GFL_riflereddot_desc=使用最简单的红点分划进行瞄准的简约瞄具，人形们在训练时都习惯于使用此款瞄具，因此更习惯于枪上带个红点镜时操枪的手感。\n\n可以提升人形在12米距离内的射击命中率，但在长距离射击时瞄具的红点反而会阻挡视界，使人形难以命中敌人。 
 
-@scope_GFL_holomag3x_name=Holo / Magnifier 3x
-@scope_GFL_holomag3x_desc=Holo-sight with a 3x magnifier for those situations you need more magnification without losing too much on your close range benefits. It is a bit heavier though.
+@scope_GFL_holosight_name=全息衍射瞄准镜1x
+@scope_GFL_holosight_desc=它能神奇地...好吧其实并不神奇。额，简而言之，全息瞄具使用一种与反射式瞄具大相径庭的方法来投射分划：激光照射预录信息的全息玻璃片，以此显现带有距离标记的分划，实现与反射式瞄具相似的功能。\n\n人形在使用全息瞄具时，可以取得与反射式瞄具相近的中距离作战效能；但同样的，全息瞄具因为无倍率缩放功能而对远距离敌人无能为力。除此之外，全息瞄具使用的电池较同类产品更重，可能对人形操枪带来不便。
 
-@scope_GFL_4x_name=Combat Optic 4x
-@scope_GFL_4x_desc=Simple magnified optic for shooting at medium ranges, with little weight penalty, but makes close range shooting more difficult due to its static configuration.
+@scope_GFL_holomag3x_name=全息 / 增倍镜组合3x
+Holo / Magnifier 3x
+@scope_GFL_holomag3x_desc=带有三倍增倍镜的全息瞄具组合，适合那些想对近距作战和中距作战同时说“我全都要”的人。\n\n很重。
 
-@scope_GFL_SpecterDR_name=Dual Role Optic 1/4x
-@scope_GFL_SpecterDR_desc=Excellent optic suited for close-in AND medium range work, though a little heavy. A small price to pay for an optic perfect for generalized use.
+@scope_GFL_4x_name=战斗瞄准镜4x
+@scope_GFL_4x_desc=适用于中距离作战的增倍瞄具。瞄具本身并不算重，但是固定的四倍倍率设计使得人形难以在使用此款瞄具时进行近距离作战。
+
+@scope_GFL_SpecterDR_name=双重用途瞄准镜1/4x
+@scope_GFL_SpecterDR_desc=同时适用于中近距离作战场景的绝赞瞄具，为此而增加的重量只是通往泛用性路上的垫脚石罢了，对吧，指挥官？
 
 @scope_GFL_lpvo6x_name=LPVO 1-6x
-@scope_GFL_lpvo6x_desc=A Low Power Variable Optic that works great at ranges up to 25m and even more. Excellent attachment for sniper Dolls that you still wish to participate in close quarters combat while maintaining their capability to take out targets at long range.
+@scope_GFL_lpvo6x_desc=一款在25米距离后仍然表现出色的低倍率可变倍瞄具，非常适合配发给那些希望能同时驾驭近距离和远距离作战场景的步枪人形。
 
 @scope_GFL_lpvo8x_name=LPVO 1-8x
-@scope_GFL_lpvo8x_desc=A good all-around assaulter optic that truly shines at ranges farther than 25m. Another excellent attachment for sniper Dolls that you still wish to participate in close quarters combat while maintaining their capability to take out targets at long range, but a bit heavier than its 1-6x cousin.
+@scope_GFL_lpvo8x_desc=在25米距离后仍然表现出色的全能型突击瞄具，虽然其与1-6x倍率版本相比更重，但仍同样适合配发给那些希望能同时驾驭近距离和远距离作战场景的步枪人形。
 
-@scope_GFL_lromk4_name=LR Optic 3.5-10x
-@scope_GFL_lromk4_desc=Entry level optic for dedicated marksman duties. Provides powerful benefits at mid-to-long range, but is very heavy and very unwieldy at close range.
+@scope_GFL_lromk4_name=远程瞄准镜3.5-10x
+@scope_GFL_lromk4_desc=配发给遂行精确射手任务的人形的入门级瞄具，在中远距离作战时表现出色，但瞄具本身的重量和繁琐的使用方式会使其使用者难以应对近距离的战斗。
 
-@scope_GFL_lromk6_3_18_name=LR Optic 3-18x
-@scope_GFL_lromk6_3_18_desc=A marksman optic specialized in the 25 to 50m range zone, and adequate elsewhere. Provides powerful benefits at mid-to-long range, but is very heavy and very unwieldy at close range. It is recommended to bring a handgun to switch into if you decide to have your Doll's equipping this to have any chance dueling with any close targets.
+@scope_GFL_lromk6_3_18_name=远程瞄准镜3-18x
+@scope_GFL_lromk6_3_18_desc=在面对25米到50米距离的目标时表现出色的瞄具，在面对其他距离的目标时也有一定的适用性。\n\n在中远距离作战时表现出色，但瞄具本身的重量和繁琐的使用方式会使其使用者难以应对近距离的战斗。使用此款瞄具的人形应额外携带一把副武器，以搏得近距作战中的一丝生机。
 
-@scope_GFL_lropm5_25_name=LR Optic 5-25x
-@scope_GFL_lropm5_25_desc=A heavy and cumbersome optic that brings maximum precision from 25m out. Enhances the Doll's equipped weapon by intense degrees at long range, but suffers greatly at close range. It is a requirement to bring a reliable sidearm or have the Doll equipping this sit out any room-to-room fights.
-
+@scope_GFL_lropm5_25_name=远程瞄准镜5-25x
+@scope_GFL_lropm5_25_desc=虽然极其笨重，但在面对25米距离后的敌人时有着极高精准度的瞄具，可以提升人形在面对中远距离敌人时的作战效能，但同时降低人形在面对近距离敌人时的作战效能。\n\n使用此款瞄具的人形应额外携带一把副武器，以搏得近距作战中的一丝生机。
