@@ -390,7 +390,7 @@
 
 @buff_gfl_groza_faterevealed=被纳美西丝指引
 
-@doctrine_gfl_groza_tameyourrabbit_name=家兔驯养指南
+@doctrine_gfl_groza_tameyourrabbit_name=野兔驯化手册
 @doctrine_gfl_groza_tameyourrabbit_descr=虽然克罗丽科的性格稍显暴躁，但却拥有着无可指摘的责任心。克罗丽科在受伤时将会获得极大的进攻性增益：速度更快、攻势更猛烈、意志更坚定。她会使出全力去完成任务，即使她并不喜欢这么做。
 
 @doctrine_gfl_groza_cavityprotection_name=腔体防护
