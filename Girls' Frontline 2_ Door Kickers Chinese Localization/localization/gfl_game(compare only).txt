@@ -1,109 +1,180 @@
+注：记得重新检查所有弹药简介
+~第100行：瞄具简介需重新翻译
+~第180行：各种应该是护甲和弹药的东西
+~第700行：191弹药检查
+~第750行：季风小队
+
 @GFL-UNIT-GIRL-NAME=Girls' Frontline
 @GFL-UNIT-GIRL-DESC="We need to head to the frontline... the GIRLS' FRONTLINE 2: EXILIUM"\n                                ― Shikikan (probably)
 @#GFL-UNIT-GIRL-NAME-RND=Girls' Frontline
-
-
-
+@GFL-UNIT-GIRL-NAME=少女前线
+@GFL-UNIT-GIRL-DESC=我们奔赴至少女们的前线…奔赴至少女前线2：追放。”\n                                                      ― 指挥官（吗？）
+@#GFL-UNIT-GIRL-NAME-RND=少女前线
 
 
 @menu_doctrine_branch_calibration=CALIBRATION
 @menu_doctrine_branch_neuralhelix=NEURAL HELIX
 @menu_doctrine_branch_remolder=PATTERN REMOLDER
+@menu_doctrine_branch_calibration=模式校准
+@menu_doctrine_branch_neuralhelix=心智螺旋
+@menu_doctrine_branch_remolder=拟态图谱
+
 
 @doctrine_gfl_optimized_name=Optimized Performance Mode
 @doctrine_gfl_optimized_descr=Enhanced output and task efficiency algorithms. Increases movement and all field skill speeds. Reduces equipment swap time for technical tools.
+@doctrine_gfl_optimized_name=优化性能模式
+@doctrine_gfl_optimized_descr=增强人形的功率输出与行动算法，加快移动速度和战场技法并减少切换装备所需的时间。
 
 @doctrine_gfl_commprotocols_name=Communication Protocols
 @doctrine_gfl_commprotocols_descr=Language modules enable basic civilian interaction. Allows ordering civilians to safety.
+@doctrine_gfl_commprotocols_name=交流协议
+@doctrine_gfl_commprotocols_descr=新加装的语言模块使得人形可以与平民进行最基础的交流，主动引导他们离开战斗区域。
 
 @doctrine_gfl_advancedprotocols_name=Advanced Protocols
 @doctrine_gfl_advancedprotocols_descr=Full communication suite with command authority. Enables directing civilians to specific exits and clearing rooms of non-combatants.
+@doctrine_gfl_advancedprotocols_name=进阶协议
+@doctrine_gfl_advancedprotocols_descr=全套的交流套件使人形得以引导平民前往安全区域，或是劝离仍在屋内的非战斗人员。
 
 @doctrine_gfl_tacticalintel_name=Tactical Intelligence
 @doctrine_gfl_tacticalintel_descr=Pre-mission data analysis reveals critical objectives. Makes 2 objectives, hostages, or bombs visible for 10 seconds per node level at mission start.
+@doctrine_gfl_tacticalintel_name=战术情报
+@doctrine_gfl_tacticalintel_descr=在行动前对情报的分析至关重要。关卡开始时揭示2个目标点、人质或炸弹位置，显示10秒。
 
 @doctrine_gfl_infoextraction_name=Information Extraction
 @doctrine_gfl_infoextraction_descr=Advanced interrogation protocols for gathering tactical intelligence. Allows persuading civilians and surrendered enemies to reveal nearby threats.
+@doctrine_gfl_infoextraction_name=信息提取
+@doctrine_gfl_infoextraction_descr=高等级的审讯协议使人形得以自主收集战术情报。允许人形从平民和投降的嫌疑人处获取重要情报。
 
 @doctrine_gfl_cqc_name=CQB Protocols
 @doctrine_gfl_cqc_descr=Close quarters battle subroutines. Significantly improves melee stun duration, damage output, strike speed, and overall mobility.
+@doctrine_gfl_cqc_name=近距作战协议
+@doctrine_gfl_cqc_descr=人形安装近距作战子程序，显著提高其击晕敌人的效果、近战打击力度/速度和人形移动速度。
 
 @doctrine_gfl_overwhelming_name=Overwhelming Force
 @doctrine_gfl_overwhelming_descr=Maximum force authorization with precision targeting protocols. Drastically increases melee lethality and attack speed, improving point-blank engagement effectiveness.
+@doctrine_gfl_overwhelming_name=极端武力
+@doctrine_gfl_overwhelming_descr=授权人形使用极端武力和增强其精确索敌能力的协议，能大幅度提高人形击晕敌人的效果、近战打击力度和打击速度；从背后突袭敌人时将会造成更高的伤害。
 
 @doctrine_gfl_rapideploy_name=Rapid Deployment
 @doctrine_gfl_rapideploy_descr=Mobility optimization for rifle-equipped units. Increases movement speed while maintaining combat readiness. Reduces weapon ready and guard times significantly.
+@doctrine_gfl_rapideploy_name=快速部署
+@doctrine_gfl_rapideploy_descr=优化步枪人形的行动速度，使其在加快移动速度的同时仍能保持战斗态势，同时缩短人形恢复射击姿势和进入低姿持枪动作所需的时间。
 
 @doctrine_gfl_transition_name=Weapon Transition Drills
 @doctrine_gfl_transition_descr=Automated sidearm deployment protocols. Enables instant pistol transition when primary weapon empties. Drastically improves pistol swap speed and close-range effectiveness.
+@doctrine_gfl_transition_name=切换武器训练
+@doctrine_gfl_transition_descr=人形安装副手武器协议，极大增强其使用手枪时的作战效率，并允许人形在主武器射空后立刻切换至副武器。
 
 @doctrine_gfl_combateff_name=Combat Efficiency
 @doctrine_gfl_combateff_descr=Comprehensive rifle optimization protocols combining precision and speed. Improves accuracy, aim time, and follow-up shot placement across all engagement ranges.
+@doctrine_gfl_combateff_name=作战效能
+@doctrine_gfl_combateff_descr=安装对步枪的增强协议有助于提升精准度和速度，提升人形的精准度、瞄准时间，以及在所有射程下的连发精准度。
 
 @doctrine_gfl_suppression_name=Suppression Protocols
 @doctrine_gfl_suppression_descr=Coordinated suppressive fire patterns with target vulnerability analysis. Increases suppression output significantly and provides accuracy bonuses against suppressed targets. Reduces effectiveness of enemy cover when suppressed.
+@doctrine_gfl_suppression_name=压制协议
+@doctrine_gfl_suppression_descr=安装带有目标弱点分析功能的人形间协调压制火力协议，增强火力压制效果，被压制的目标将会更容易被击中，掩体的掩护效果也会被削弱。
 
 @doctrine_gfl_lethalprecision_name=Lethal Precision
 @doctrine_gfl_lethalprecision_descr=Optimized targeting algorithms prioritize vital areas. Significantly increases critical hit probability and reduces target acquisition time. Marksman rifles gain enhanced headshot capability.
-
-
-
-
+@doctrine_gfl_lethalprecision_name=致命打击
+@doctrine_gfl_lethalprecision_descr=优化过的索敌算法将会使人形更专注于要害部位，极大增加暴击几率，减少索敌时间；步枪人形将更倾向于瞄准敌人头部射击。
 
 
 @helmet_gfl_ocular_name=Night Eyes
 @helmet_gfl_ocular_desc=Enhanced optical systems for night vision integration. Allows direct NVG interface without physical mounting hardware.
+@helmet_gfl_ocular_name=夜视义眼
+@helmet_gfl_ocular_desc=集成夜视功能的光学增强系统，可在不外挂仪器的情况下直接实现夜视功能。
 
 @armor_gfl_reactive_name=Reactive Shielding
 @armor_gfl_reactive_desc=Integrated defensive matrix. Provides ballistic protection without external armor plating.
+@armor_gfl_reactive_name=反应式防护
+@armor_gfl_reactive_desc=集成防御矩阵，可在不额外穿挂防具的情况下提供防护。
 
 @armor_gfl_matrix_name=Combat Matrix
 @armor_gfl_matrix_desc=Enhanced defensive field generator. Improved protection with minimal system load.
+@armor_gfl_matrix_name=战斗用矩阵
+@armor_gfl_matrix_desc=防御用立场发生器，可在只增加少量系统负荷的情况下增强防护。
 
 @armor_gfl_hardened_name=Hardened Core
 @armor_gfl_hardened_desc=Maximum protection configuration. Reinforced defensive systems provide superior ballistic resistance.
+@armor_gfl_hardened_name=硬化核心
+@armor_gfl_hardened_desc=最高档的防护配置，通过强化的防御系统提供更强的抗弹能力。
+
+-----↓需要更改翻译/校对↓-----
 
 @scope_GFL_ironsights_name=Iron sights
-
 @scope_GFL_ironsights_desc=Standard ironsights for basic aim guidance. Provides the quickest aim time at the cost of precision. T-Dolls being sent with nothing but iron sights tend to rely on just their built-in sensor packages in close range fights, removing the need to "consult" the sights during target aquisition, allowing the doll to process shooting protocols faster.
+@scope_GFL_ironsights_name=机瞄
+@scope_GFL_ironsights_desc=最基础的机械瞄具。理论上，人形在攻击中近距离的目标时并不需要瞄具——她们可以直接使用内置的传感器索敌，但在指挥官的勤奋训练下，人形在使用瞄具时的击杀率相比单纯使用传感器时得到了显著的提升。\n\n瞄具该用就得用，不要再当对西方配件嗤之以鼻，抱着原厂步枪高呼“不，我的步枪很好”的老学校爱好者了。
 
 @scope_GFL_smallreddot_name=Micro Red Dot 1x
 @scope_GFL_smallreddot_desc=A red dot sight so small it can fit to pistol slides. Nearly weightless for a Doll, it provides the best aim time while allowing precise shots at close range, but the red dot sight eventually becomes a hindrance for scoring killshots at long range.
+@scope_GFL_pistolreddot_name=微型红点镜1x
+@scope_GFL_pistolreddot_desc=一款小到可以安装在手枪上的红点瞄具，可以提升人形在12米距离内的射击命中率，但在长距离射击时瞄具的红点反而会阻挡视界，使人形难以命中敌人。 
 
 @scope_GFL_holosight_name=Holo-sight 1x
 @scope_GFL_holosight_desc=The favored optical attachment of most T-Dolls engaging at close to medium range. Yhis sight magically projects a reticle over the target, with drop marks for medium-range shooting. Most Doll's under the Shikikan's command train with this sight in shooting drills that their protocols are optimized with its bulk and heft.
+@scope_GFL_holosight_name=全息衍射瞄准镜1x
+@scope_GFL_holosight_desc=它能神奇地...好吧其实并不神奇。额，简而言之，全息瞄具使用一种与反射式瞄具大相径庭的方法来投射分划：激光照射预录信息的全息玻璃片，以此显现带有距离标记的分划，实现与反射式瞄具相似的功能。\n\n人形在使用全息瞄具时，可以取得与反射式瞄具相近的中距离作战效能；但同样的，全息瞄具因为无倍率缩放功能而对远距离敌人无能为力。除此之外，全息瞄具使用的电池较同类产品更重，可能对人形操枪带来不便。
 
 @scope_GFL_largereddot_name=M68 Red Dot 1x
 @scope_GFL_largereddot_desc=Minimalistic sight that simply paints a red dot over the target. Zeroed farther than its smaller Red Dot cousin, it allows a faster response than the holosight while maintaining a steady precision advantage at all relevant ranges.
+@scope_GFL_riflereddot_name=M68红点镜1x
+@scope_GFL_riflereddot_desc=使用最简单的红点分划进行瞄准的简约瞄具，人形们在训练时都习惯于使用此款瞄具，因此更习惯于枪上带个红点镜时操枪的手感。\n\n可以提升人形在12米距离内的射击命中率，但在长距离射击时瞄具的红点反而会阻挡视界，使人形难以命中敌人。 
 
 @scope_GFL_holomag3x_name=Holo / Magnifier 3x
 @scope_GFL_holomag3x_desc=Holo-sight with a 3x magnifier for those situations you need more magnification without losing too much on your close range benefits. It is a bit heavier though.
+@scope_GFL_holomag3x_name=全息 / 增倍镜组合3x
+@scope_GFL_holomag3x_desc=带有三倍增倍镜的全息瞄具组合，适合那些想对近距作战和中距作战同时说“我全都要”的人。\n\n很重。
 
 @scope_GFL_4x_name=Combat Optic 4x
 @scope_GFL_4x_desc=Simple magnified optic for shooting at medium ranges, with little weight penalty, but makes close range shooting more difficult due to its static configuration.
+@scope_GFL_4x_name=战斗瞄准镜4x
+@scope_GFL_4x_desc=适用于中距离作战的增倍瞄具。瞄具本身并不算重，但是固定的四倍倍率设计使得人形难以在使用此款瞄具时进行近距离作战。
 
 @scope_GFL_SpecterDR_name=Dual Role Optic 1/4x
 @scope_GFL_SpecterDR_desc=Excellent optic suited for close-in AND medium range work, though a little heavy. A small price to pay for an optic perfect for generalized use.
+@scope_GFL_SpecterDR_name=双重用途瞄准镜1/4x
+@scope_GFL_SpecterDR_desc=同时适用于中近距离作战场景的绝赞瞄具，为此而增加的重量只是通往泛用性路上的垫脚石罢了，对吧，指挥官？
 
 @scope_GFL_lpvo6x_name=LPVO 1-6x
 @scope_GFL_lpvo6x_desc=A Low Power Variable Optic that works great at ranges up to 25m and even more. The entry point of the heavier scopes, this scope provides greater precision at the cost of hindered aim time at close range. Perfect for sniper Dolls who you still want to assist in close range fights while still specializing in long range.
+@scope_GFL_lpvo6x_name=LPVO 1-6x
+@scope_GFL_lpvo6x_desc=一款在25米距离后仍然表现出色的低倍率可变倍瞄具，非常适合配发给那些希望能同时驾驭近距离和远距离作战场景的步枪人形。
 
 @scope_GFL_lpvo8x_name=LPVO 1-8x
 @scope_GFL_lpvo8x_desc=A good all-around assaulter optic that truly shines at ranges farther than 25m. Another excellent attachment for sniper Dolls that you still wish to participate in close quarters combat while maintaining their capability to take out targets at long range, but a bit heavier than its 1-6x cousin.
+@scope_GFL_lpvo8x_name=LPVO 1-8x
+@scope_GFL_lpvo8x_desc=在25米距离后仍然表现出色的全能型突击瞄具，虽然其与1-6x倍率版本相比更重，但仍同样适合配发给那些希望能同时驾驭近距离和远距离作战场景的步枪人形。
 
 @scope_GFL_lromk4_name=LR Optic 3.5-10x
 @scope_GFL_lromk4_desc=Entry level optic for dedicated marksman duties. Provides powerful benefits at mid-to-long range, but is very heavy and very unwieldy at close range.
+@scope_GFL_lromk4_name=远程瞄准镜3.5-10x
+@scope_GFL_lromk4_desc=配发给遂行精确射手任务的人形的入门级瞄具，在中远距离作战时表现出色，但瞄具本身的重量和繁琐的使用方式会使其使用者难以应对近距离的战斗。
 
 @scope_GFL_lromk6_3_18_name=LR Optic 3-18x
 @scope_GFL_lromk6_3_18_desc=A marksman optic specialized in the 25 to 50m range zone, and adequate elsewhere. Provides powerful benefits at mid-to-long range, but is very heavy and very unwieldy at close range. It is recommended to bring a handgun to switch into if you decide to have your Doll's equipping this to have any chance dueling with any close targets.
+@scope_GFL_lromk6_3_18_name=远程瞄准镜3-18x
+@scope_GFL_lromk6_3_18_desc=在面对25米到50米距离的目标时表现出色的瞄具，在面对其他距离的目标时也有一定的适用性。\n\n在中远距离作战时表现出色，但瞄具本身的重量和繁琐的使用方式会使其使用者难以应对近距离的战斗。使用此款瞄具的人形应额外携带一把副武器，以搏得近距作战中的一丝生机。
 
 @scope_GFL_lropm5_25_name=LR Optic 5-25x
 @scope_GFL_lropm5_25_desc=A heavy and cumbersome optic that brings maximum precision from 25m out. Enhances the Doll's equipped weapon by intense degrees at long range, but suffers greatly at close range. It is a requirement to bring a reliable sidearm or have the Doll equipping this sit out any room-to-room fights.
+@scope_GFL_lropm5_25_name=远程瞄准镜5-25x
+@scope_GFL_lropm5_25_desc=虽然极其笨重，但在面对25米距离后的敌人时有着极高精准度的瞄具，可以提升人形在面对中远距离敌人时的作战效能，但同时降低人形在面对近距离敌人时的作战效能。\n\n使用此款瞄具的人形应额外携带一把副武器，以搏得近距作战中的一丝生机。
+
+-----↑需要更改翻译/校对↑-----
 
 @GEAR-MEDIC-GRENADE-NAME=2x Medic Grenade
 @GEAR-MEDIC-GRENADE-DESC=Experimental grenade that repairs damage to all units within the blast radius. Use with caution in mixed engagements to avoid healing enemy units.
 @GEAR-MEDIC-GRENADE-TTIP=Throw medic grenade
 @menu_game_medic_grenade_none_ttip=No more medic grenades
+@GEAR-MEDIC-GRENADE-NAME=2x医疗手榴弹
+@GEAR-MEDIC-GRENADE-DESC=实验性的医疗手榴弹，可以修复影响范围内所有单位受到的损伤。\n\n注意：在混战时请谨慎使用，因为这种投掷物的修复功能并不区分敌我。
+@GEAR-MEDIC-GRENADE-TTIP=投掷医疗手榴弹
+@menu_game_medic_grenade_none_ttip=医疗手榴弹用尽
+
+-----↓需要更改翻译/校对↓-----
 
 @armor_gfl_recframe_name=16Lab Recreation Frame
 @armor_recframe_desc=Doll body frame developed by Persica to give your Dolls a closer approximation of the human experience, enabling them to participate in activities outside their normal design parameters, such as tasting and savoring food.\n\nThis frame offers no real protection for the Doll’s Neural Core beyond its synthetic skin, in exchange this frame increases the Doll's motor function performance by 20%, which could be useful in specific combat scenarios.\n\nMayling strongly disapproves of deploying Dolls into combat with this frame, citing the extreme risk posed by its complete lack of protection qualities, which almost guarantees her pulling an all-nighter reuploading the Doll's Neural Cloud into a new frame.
@@ -140,12 +211,6 @@
 
 @helmet_gfl_nvg1_name=Night Eyes TIS
 @helmet_gfl_nvg1_desc=Thermal Imaging System designed by Mayling to integrate seamlessly to the optical components of any Doll Frame the Commander deploys in the field. Mayling claims it is based on the Wolf Eyes System of DEFY... but Groza claims no significant power drain is happening during its use, but nonetheless impressed that it is very effective.
-
-
-
-
-
-
 
 
 @ammo_556_fmj_epr_name=URNC 62gr EPR
@@ -220,19 +285,32 @@
 @ammo_50bmg_remover_name=ELMO Remover HEIAP
 @ammo_50bmg_remover_desc=Powerful round produced in-house in the ELMO foundries for support gunner drone use. It uses the highest yield explosive available at the cheapest cost so it can be produced under a tight budget, at the cost of some ballistic performance. The round was titled as the "Remover" by Mayling herself after a conversation with Nemesis about its effectiveness with her weapon.
 
+-----↑需要更改翻译/校对↑-----
+
 @GFL-UNIT-DEFY-NAME=Task Force DEFY
 @GFL-UNIT-DEFY-DESC=An elite team of newer model Tactical Dolls capable of great autonomy in the field, hence the name of the team. They form the most effective combat squad in the Neo-Soviet Union.
 @#GFL-UNIT-DEFY-NAME-RND=Task Force DEFY
+@GFL-UNIT-DEFY-NAME=忤逆小队
+@GFL-UNIT-DEFY-DESC=忤逆小队是由新型战术人形组成的精英小队。得名于其成员在战场上高度自主的行动方式，“忤逆”代表着新苏军所有作战班组中独一无二的最高战力。
+@#GFL-UNIT-DEFY-NAME-RND=忤逆小队
 
 @DOLL-AK15-NAME=VOYMASTINA
 @DOLL-AK15-DESC=A girl who looks quite vicious, she's taller than most other Dolls. She's serious and prioritizes efficiency in her words and deeds. She gives people the impression of lacking emotion, but her wrath is frightening.
 @WEAP-AK15-NAME=AK-15
 @WEAP-AK15-DESC=The AK-15 is a variant of the AK-12 chambered for the 7.62×39mm cartridge. Both the AK-12 and AK-15 were developed by the Kalashnikov Group as part of the "Ratnik" ("Warrior", Russian future infantry combat system) program, and have been accepted into Russian military service.
+@DOLL-AK15-NAME=威玛西娜
+@DOLL-AK15-DESC=外表看起来相当凶恶的少女，相比起其他人形而言拥有更加高大的身材。\n不苟言笑，说话做事都以效率为先，给人以一种缺乏感性的印象，\n却又在愤怒的时候显得十分吓人。
+@WEAP-AK15-NAME=AK-15突击步枪
+@WEAP-AK15-DESC=AK-15是AK-400枪族中的7.62×39mm口径型，该枪族包含一系列卡拉什尼科夫集团为“勇士”计划（别名“俄罗斯未来步兵系统”计划）研发的新型步枪，俄军于2018年正式采用了其中的AK-12和AK-15两型突击步枪。
 
 @DOLL-AN94-NAME=ALVA
 @DOLL-AN94-DESC=A Doll from the Neo-Soviet Union’s Bureau of State Security and the prototype for the Wolf Pack Project, now leader of Task Force DEFY. After becoming the leader of DEFY, she’s taken over her former partner as the new alpha wolf, earned the respect of her squad members and became better at socializing. What she wants is for Task Force DEFY to endure, and to unravel Paradeus’ new plot. She really loves cats.
 @WEAP-AN94-NAME=AN-94
 @WEAP-AN94-DESC=The AN-94, or Avtomat Nikonova 1994, is a 5.45x39mm caliber gas-operated Russian firearm made by PO Izhmash made during Project Abakan. Project Abakan was a Russian assault rifle program that took place from 1980 to 1994. Being the only outcome from the project, AN-94 was awarded with the name Abakan. The GRAU designation for the AN-94 is '6P33'.
+@DOLL-AN94-NAME=埃芙
+@DOLL-AN94-DESC=十年前由新苏联安全局主导的人形研发项目“狼群计划”的原型机，现任忤逆小队队长。\n作为忤逆小队的领袖，曾经的人偶已然蜕变为了狼群的新王，深受队员信赖，在多方势力中\n周旋，确保忤逆小队自身的生存的同时，也不断打击着帕拉蒂斯的阴谋。\n顺带一提，她其实很喜欢撸猫。
+@WEAP-AN94-NAME=AN-94突击步枪
+@WEAP-AN94-DESC=AN-94，即“1994型尼科诺夫突击步枪”，是伊孜玛什厂为开展于1980-1994年间的“阿巴甘”突击步枪选型计划研制的5.45x39mm口径导气式突击步枪，GRAU编号6P33。\n\n作为“阿巴甘”计划的唯一成果，AN-94获得了与计划同名的外号。
 
 @doctrine_gfl_defy_femalegorilla_name=The Female Gorilla
 @doctrine_gfl_defy_femalegorilla_descr=Voymastina intimidates anyone in her presense. Enemies within her radius gain reduced accuracy, supression recovery, and aim time.
@@ -619,10 +697,16 @@
 @WEAP-QBZ191-NAME=QBZ-191
 @WEAP-QBZ191-DESC=The QBZ-191 is a modular assault rifle developed as China's next-generation standard infantry weapon. Chambered in 5.8×42mm, it features improved ergonomics, modularity, and reliability compared to its predecessors.
 
+-----↓需要更改翻译/校对↓-----
+
 @ammo_58x42_dbp191_name=5.8×42mm DBP191
 @ammo_58x42_dbp191_desc=Current standard 5.8×42mm ammunition for the QBZ-191.
 @ammo_58x42_dbp88_name=5.8×42mm DBP88 Heavy
 @ammo_58x42_dbp88_desc=Heavy variant with longer streamlined bullet and steel core. Enhanced performance at close range with superior penetration.
+@ammo_58x42_dbp88_name=5.8×42mm DVP88重尖弹
+@ammo_58x42_dbp88_desc=钢芯铜被甲的重型弹药，优化弹道性能的同时增强了穿透能力。
+
+-----↑需要更改翻译/校对↑-----
 
 @DOLL-AKALFA-NAME=TOLOLO
 @DOLL-AKALFA-DESC=A serene Doll who finds solace under the starry sky. Hidden beneath her reticence is a delicate and sensitive soul. When the world slumbers, she confides in the vast cosmos and delights in the stars that seem to shine just for her.
@@ -669,10 +753,7 @@
 @doctrine_gfl_frost_tacticaladaptation_name=Tactical Adaptation
 @doctrine_gfl_frost_tacticaladaptation_descr=Experience across varied combat scenarios enables tactical flexibility. Enhanced accuracy and target acquisition at all ranges.
 
-
-
-
-
+-----↓需要更改翻译/校对↓-----
 
 @GFL-UNIT-MONSOON-NAME=Monsoon Squad
 @GFL-UNIT-MONSOON-DESC=A group of wandering musicians made up of T-Dolls formerly from G&K. Both their music and fighting abilities strike deep into their target's hearts.
