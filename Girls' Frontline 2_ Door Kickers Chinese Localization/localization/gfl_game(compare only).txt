@@ -758,12 +758,19 @@
 @GFL-UNIT-MONSOON-NAME=Monsoon Squad
 @GFL-UNIT-MONSOON-DESC=A group of wandering musicians made up of T-Dolls formerly from G&K. Both their music and fighting abilities strike deep into their target's hearts.
 @#GFL-UNIT-MONSOON-NAME-RND=Monsoon Squad
+@GFL-UNIT-MONSOON-NAME=季风小队
+@GFL-UNIT-MONSOON-DESC=由前格里芬人形组成的漂泊音乐人乐队，有着善于让敌人“敞开心扉”的演奏能力和战斗能力。
+@#GFL-UNIT-MONSOON-NAME-RND=季风小队
 
 @DOLL-CSLS06-NAME=ZHAOHUI
 @DOLL-CSLS06-DESC=A stoic Doll with rich combat experience, she is unpretentious and decisive in action. As the leader of Monsoon Squad, she excels in combat and handling team affairs but is still a novice at lightening the mood. Don't hesitate to welcome herーa hero pursuing justice is always worthy of trust.
+@DOLL-CSLS06-NAME=朝晖
+@DOLL-CSLS06-DESC=战斗经验丰富的冷面人形，不拘小节，行事果断。\n身为季风小队的队长，她擅长作战和处理小队事务，\n但在缓和气氛方面还是个初学者。放心接纳她吧，\n追寻正义的侠客总是值得信任。
 
 @WEAP-CSLS06-NAME=CS/LS06
 @WEAP-CSLS06-DESC=The CS/LS06 is a submachinegun with a top-loaded helical magazine. Its it is designed to be as most compact as possible while being able to equip a sizable magazine.
+@WEAP-CSLS06-NAME=CS/LS06冲锋枪
+@WEAP-CSLS06-DESC=CS/LS06是一款使用顶置螺旋弹筒供弹的冲锋枪，设计时遵从了“在使用大容量供弹具的同时尽量保持紧凑”的要求。
 
 @DOLL-CZ75-NAME=FAYE
 @DOLL-CZ75-DESC=A grim, nimble doll with the air of a delinquent. She has actual experience with hand-to-hand fighting techniques, and is easily annoyed by slow-paced people. However, what makes her distinct is that she's extraordinarily broad-minded, and can be generously forgiving regarding the daily issues brought about by any dolls with a problem.
@@ -771,8 +778,12 @@
 @WEAP-CZ75-NAME=CZ 75
 @WEAP-CZ75-DESC=A semi-automatic handgun chambered in 9x19 Parabellum. Introduced in Czechoslovakia as early as 1975, it is one of the first semi-automatic pistols that can be fired by simply pulling the trigger and supported by a staggered column magazine. This allowed unparalleled firepower in such a compact package during the times it was introduced.
 
-@DOLL-CZ75-NAME=FAYE
-@DOLL-CZ75-DESC=A grim, nimble doll with the air of a delinquent. She has actual experience with hand-to-hand fighting techniques, and is easily annoyed by slow-paced people. However, what makes her distinct is that she's extraordinarily broad-minded, and can be generously forgiving regarding the daily issues brought about by any dolls with a problem.
+@DOLL-CZ75-NAME=绯
+@DOLL-CZ75-DESC=外表与性格反差很大的人形。体型小但气势足，一边举枪，一边扛斧头的架势让人退避三舍。但如果你愿意深入了解她，就会发现，在绯不耐烦的表情和暴躁的言语背后，隐藏着一颗纤细敏感的心。她也期待着，回应你的温柔。
+娇小纤细、但看表情就不好惹的人形。性格暴躁，时常口出暴言，但其实这并非出自她本心——情绪模块功能的削弱让她的沟通能力直线下降，在交谈中往往只能给出最直接、粗暴的回应。
+然而，曾经在救援队工作的经历，让绯对‘生命’有着更加深刻的理解，也比任何人都要更想好好珍惜身边的人。这导致她在暴躁之后，会因为愧疚而感到消沉。
+请多给绯一些时间和理解吧，你最终能感受到那埋藏在心智深处的、不易被察觉的柔软与包容。
+@WEAP-CZ75-NAME=CZ-75手枪
+@WEAP-CZ75-DESC=CZ-75是一把捷克斯洛伐克于1975年列装的，使用填装9x19毫米帕弹的双排单进弹匣的，单/双动式半自动手枪。\n双动设计和大容量弹匣的搭配使得CZ-75相较于同时代的其它手枪更具火力投射优势。
 
-@WEAP-CZ75-NAME=CZ 75
-@WEAP-CZ75-DESC=A semi-automatic handgun chambered in 9x19 Parabellum. Introduced in Czechoslovakia as early as 1975, it is one of the first semi-automatic pistols that can be fired by simply pulling the trigger and supported by a staggered column magazine. This allowed unparalleled firepower in such a compact package during the times it was introduced.
+@DOLL-AA12-DESC=诞生于临床试验的受试人形，凭借出众的射击能力和强劲的火力\n
