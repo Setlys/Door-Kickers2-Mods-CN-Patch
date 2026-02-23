@@ -1,5 +1,5 @@
 注：记得重新检查所有弹药简介
-~第100行：瞄具简介需重新翻译
+~第100行：瞄具简介需重新翻译√
 ~第180行：各种应该是护甲和弹药的东西
 ~第700行：191弹药检查
 ~第750行：季风小队
@@ -121,7 +121,7 @@
 @scope_GFL_largereddot_name=M68 Red Dot 1x
 @scope_GFL_largereddot_desc=Minimalistic sight that simply paints a red dot over the target. Zeroed farther than its smaller Red Dot cousin, it allows a faster response than the holosight while maintaining a steady precision advantage at all relevant ranges.
 @scope_GFL_riflereddot_name=M68红点镜1x
-@scope_GFL_riflereddot_desc=使用最简单的红点分划进行瞄准的简约瞄具，归零点相较其它红点瞄具更远，因此可在多种距离交战时保持精准度，并提供比全息瞄具更快的瞄准速度。
+@scope_GFL_riflereddot_desc=使用最简单的红点分划进行瞄准的简约瞄具，归零点相较其它红点瞄具更远，因此可在多种距离交战时保持精准度的同时仍然提供比全息瞄具更快的瞄准速度。
 ↓√
 @scope_GFL_holomag3x_name=Holo / Magnifier 3x
 @scope_GFL_holomag3x_desc=Holo-sight with a 3x magnifier for those situations you need more magnification without losing too much on your close range benefits. It is a bit heavier though.
@@ -189,56 +189,78 @@
 @armor_gfl_combatframe_name=B.R.I.E.F. Combat Frame
 @armor_gfl_Combatframe_desc=Doll body frame developed and approved by B.R.I.E.F. for extensive combat use in Yellow Zones.\n\nIts heterogeneous anti-ballistic gel–carbide weave matrix shrugs off the shoddy intermediate rounds favored by the Varjagers, while maintaining enough thermal transfer efficiency to enable efficient heat dissipation in scorching wasteland climates.\n\nIncidentally, it’s perfect for the Commander’s deployment in Nowheraki.
 @armor_gfl_combatframe_name=B.R.I.E.F.作战用素体
-@armor_gfl_Combatframe_desc=赏金猎人协会为应对黄区的各类战斗而研制的人形素体，其内置的凝胶-硬质合金防弹层不仅能有效地抵御瓦良格帮使用的劣质中间口径弹，也能保证人形在废土的灼热气候中拥有高效的散热能力。\n\n非常凑巧的是，上述能力使得这款素体极其适合部署在诺维哈基的人形使用。
+@armor_gfl_Combatframe_desc=赏金猎人协会为应对黄区的各类战斗而研制的人形素体，其内置的凝胶-硬质合金防弹层不仅能有效地抵御瓦良格帮使用的劣质中间口径弹，也能保证人形在废土的灼热气候中拥有高效的散热能力。\n\n凑巧的是，上述的能力使得这款素体极其适合部署在诺维哈基的人形使用。
 
 @armor_gfl_eliteframe_name=I.O.P. Elite Frame
 @armor_gfl_eliteframe_desc=Doll body frame developed by I.O.P. for Elite Dolls such as the famous AR Team, Task Force DEFY and Klukai, formerly Gr 416.\n\nIt features higher quality artificial musculature that enhances the motor function performance of a doll even when at combat load, allowing the installation of subdermal matrices that can resist strong intermediate rounds.\n\nDue to the improved musculature generating more heat when in action, the subdermal matrices are installed in a way that covers only specific angles of the frame to retain the required heat dissipation index for optimal operation. This is no problem ofcourse for Elite Dolls that operate in a squad that cover each other's tangos.
 @armor_gfl_eliteframe_name=I.O.P.精锐型素体
-@armor_gfl_eliteframe_desc=
+@armor_gfl_eliteframe_desc=I.O.P.研制的精锐型素体，被众多精英人形（例如AR小队、忤逆小队和404小队的部分人形）所使用。\n\n该素体使用的的高密度人造肌肉组织可在高负重的情况下继续输出能量，因此可以额外安装抗中间口径弹等级的皮下防弹层，而不会影响人形的机动能力——然而，此款人造肌肉组织在使用时更容易过热，皮下防弹层因此只覆盖了素体的关键部位，以保证素体在高强度运作时正常散热。\n这样的防护缺陷在精英人形的面前当然不值一提：在她背后的，是一支懂得互相照应的精英小队。
 
 @armor_gfl_grafframe_name=High-Endurance Frame "Deichgraf"
 @armor_gfl_grafframe_desc=Doll body frame developed by the collaborative efforts of Mayling, Springfield and Bathilde to produce a frame that can be made with Elmo's in-house facilities with defensive capabilities that would equal the default frames of Elite Dolls.\n\nUsing an inexpensive method of applying matriced armored synthskin over a reinforced subdermal layer that protects the vital parts of the frame, the result is a well armored frame with notoriously poor heat dissipation capability, causing mobility issues.\n\nIts name is inspired from the secretive, seemingly unkillable weapons platform "Deichgraf" the Commander has fought countless times.
 @armor_gfl_grafframe_name=高耐久性素体“要塞伯爵”
-@armor_gfl_grafframe_desc=
+@armor_gfl_grafframe_desc=美玲、春田和巴希达共同研制的人形素体，防护指标匹敌精锐型素体的同时仅用艾莫号的生产设施便可制造。\n该素体使用一种低成本的方式提升了防护水平：在素体关键部位的皮下防弹层上再叠加一层矩阵结构的人造防弹皮肤。如此俺寻思的防护方式导致素体的散热能力变得低下无比，甚至会影响人形的机动能力。\n\n素体的名字源于与指挥官对战过无数次的既神秘，也难以被击败的同名作战平台“要塞伯爵”。
 
 @armor_gfl_rhinoframe_name=Nosorog Reactive Endoskeleton
 @armor_gfl_rhinoframe_desc=An experimental Doll body frame provided by the Commander's specific female contact in NOMFA to support his endeavors in Nowheraki.\n\nDesigned by the NSU to enable Machine Gun T-Dolls to provide heavy frontline machinegun fire undaunted, this frame is equipped with an extremely powerful energy-based hardkill active protection system that can eliminate most firearms projectiles heading towards the Doll with an 80% success rate.\n\nThis APS covers 70 degree arc in front of the Doll.\n\nAs a consequence, the frame itself is extremely heavy from the APS components and generates an insane amount of heat that it directly interferes with a Neural Core's processing rate, causing it to prioritize mobility commands the least.
 @armor_gfl_rhinoframe_name=反应式内骨骼“犀牛”
-@armor_gfl_rhinoframe_desc=
+@armor_gfl_rhinoframe_desc=由指挥官在非军事力量管理局的某位女性内线提供的实验性人性素体，用于支援指挥官在诺维哈基的行动。\n这款由新苏联设计的，旨在让机枪人形持续不断地输出火力的素体安装有强大的硬杀伤主动防御系统，可以高达80%的拦截率摧毁射向人形的各类投射物。防御系统本身极其笨重，保证系统的运作也会消耗大量的能量，为此而产生的热量甚至会影响到火控核心的运算能力，导致其将移动指令的优先级降至最低。\n\n注意：防御系统仅覆盖人形正前方弧度为70度的弧形区域。
 
 @helmet_gfl_basic_name=Basic Core
 @helmet_gfl_basic_desc=Standard Neural Core housing that provides standard Doll survivability protocols against critical hits to essential Doll Frame components.
+@helmet_gfl_basic_name=基础核心
+@helmet_gfl_basic_desc=标准的心智核心套件，写入的标准人形生存协议可以防止素体在关键元件被破坏的情况下立刻停止运作。
 
 @helmet_gfl_vanguard_name=Vanguard Core
 @helmet_gfl_vanguard_desc=Remolding Core designed for Vanguard Dolls. Enhances the Doll's movement speed by an incredible degree at the cost of room clearing capability and a reduction to the Doll's survivability against critical hits to essential Doll Frame components.
+@helmet_gfl_vanguard_name=尖兵人形核心
+@helmet_gfl_vanguard_desc=供尖兵人形使用的改造核心，虽然大幅提升了人形的移动速度，但却降低了人形的室内作战效率和素体在关键元件被破坏情况下的生存性。
 
 @helmet_gfl_sentinel_name=Sentinel Core
 @helmet_gfl_sentinel_desc=Remolding Core designed for Sentinel Dolls. Enhances the Doll's room clearing capability by an incredible degree at the cost of a reduction to the Doll's survivability against critical hits to essential Doll Frame components.
+@helmet_gfl_sentinel_name=火力人形核心
+@helmet_gfl_sentinel_desc=供火力人形使用的改造核心，虽然大幅提升了人形的室内作战效率，但却降低了素体在关键元件被破坏情况下的生存性。
 
 @helmet_gfl_bulwark_name=Bulwark Core
 @helmet_gfl_bulwark_desc=Remolding Core designed for Bulwark Dolls. Enhances the Doll's survivability against critical hits to essential Doll Frame components at the cost of reduced overall mobility.
+@helmet_gfl_bulwark_name=防卫人形核心
+@helmet_gfl_bulwark_desc=供防卫人形使用的改造核心，虽然大幅提升了素体在关键元件被破坏情况下的生存性，但却降低了人形的整体机动力。
 
 @helmet_gfl_support_name=Support Core
 @helmet_gfl_support_desc=Remolding Core designed for Support Dolls. Enhances the Doll's general mobility and room clearing capability at the cost of a steep reduction to the Doll's survivability against critical hits to essential Doll Frame components.
+@helmet_gfl_support_name=支援人形核心
+@helmet_gfl_support_desc=供支援人形使用的改造核心，虽然大幅提升了人形的整体机动力和室内作战效率，但却极大降低了素体在关键元件被破坏情况下的生存性。
 
 @helmet_gfl_nvg1_name=Night Eyes TIS
 @helmet_gfl_nvg1_desc=Thermal Imaging System designed by Mayling to integrate seamlessly to the optical components of any Doll Frame the Commander deploys in the field. Mayling claims it is based on the Wolf Eyes System of DEFY... but Groza claims no significant power drain is happening during its use, but nonetheless impressed that it is very effective.
-
+@helmet_gfl_nvg1_name=夜视/热成像义眼
+@helmet_gfl_nvg1_desc=美玲设计的热成像系统，可以集成到任意一位指挥官所属人形的光学部件之中。\n\n按照美玲的说法，这套热成像系统是基于忤逆小队的“狼眼”系统设计的。尽管如此，闪电在使用之后表示这套系统并不像忤逆的“狼眼”那般耗电，但却同样有效。
 
 @ammo_556_fmj_epr_name=URNC 62gr EPR
 @ammo_556_fmj_epr_desc=Standard performance FMJ rounds sourced from common channels such as the Underground Brokers and NOMFA. Fires and burns cleanly even in the harshest conditions, ensuring retention of its damage and penetration at range.
+@ammo_556_fmj_epr_name=罗联标配-62gr EPR
+@ammo_556_fmj_epr_desc=从暗商和非军事力量管理局等常规渠道获取的标配全金属被甲弹，即便是在最恶劣的环境也能烧尽所有发射药，以此保证弹药在特定射程仍具杀伤力和穿透力。
 
 @ammo_556_apf_sf_name=SF Armor Piercing Frangible
 @ammo_556_apf_sf_desc=Powerful intermediate rounds designed to penetrate body armor and cause severe damage upon penetration, at the cost of rapid loss of penetration power beyond 10 meters. Rumored to be designed by the Sangvis Ferri Ringleader Beluga for use against the Commander's Dolls who are known to be armored against most intermediate rounds.
+@ammo_556_apf_sf_name=铁血工造易碎穿甲弹
+@ammo_556_apf_sf_desc=设计用于
+白桦戈
 
 @ammo_919_jhp_over_name=NOMFA 124gr JHP +P
 @ammo_919_jhp_over_desc=Overpressure, low-caliber JHP rounds designed to penetrate low-level armor while causing as much damage as possible on a tiny payload. While repeated use of this ammo type Regularly purchased by PMCs and civilians in the Yellow Zones looking to maximize the power of their handguns, SMGs and PDWs.\n\nRumor has it that +P rounds increase the cyclic rate of some guns.
+@ammo_919_jhp_over_name=非军管局-124gr JHP +P
+@ammo_919_jhp_over_desc=
 
 @ammo_919_squeak_flash_name=ELMO Squeak Flash
 @ammo_919_squeak_flash_desc =Custom chemical rounds that produces a distinct high-pitched squeak and disorienting wisps of light upon impact. Materialized from one of Cheeta's shooting range pranks to the Commander, it is now refined for suppression against both humans and ELIDs. Mayling describes the effect of having one explode close as like hearing nails sharply grind a chalkboard through your tinnitus while being flashed by a strobe light.\n\nWhile not designed to penetrate armor, the damage this ammunition can cause on exposed flesh should not be underestimated.
+@ammo_919_squeak_flash_name=
+@ammo_919_squeak_flash_desc=
 
 @ammo_556x39_fmj_nsu_name=NSU 57gr FMJ
 @ammo_556x39_fmj_nsu_name=Neo Soviet Union's standard service intermediate round that has aims to replace the ubiquitous 7.62x39mm service round. It performs roughly the same as its predecessor with a slight reduction on overall damage.
+@ammo_556x39_fmj_nsu_name=
+@ammo_556x39_fmj_nsu_name=
 
 @ammo_556x39_supercavitator_defy_name=DEFY Supercav Soft
 @ammo_556x39_supercavitator_defy_desc=Custom rounds designed for underwater combat against soft targets. When fired underwater, it generates cavitation bubble thanks to its flat, disc shaped nose, allowing the bullet to drag against air instead of water. While all of these qualities seem useless in the environment of Nowheraki, the bullet itself still acts as a overengineered JHP round on land with improved ballistics at range.
@@ -297,6 +319,7 @@
 @ammo_50bmg_remover_name=ELMO Remover HEIAP
 @ammo_50bmg_remover_desc=Powerful round produced in-house in the ELMO foundries for support gunner drone use. It uses the highest yield explosive available at the cheapest cost so it can be produced under a tight budget, at the cost of some ballistic performance. The round was titled as the "Remover" by Mayling herself after a conversation with Nemesis about its effectiveness with her weapon.
 
+...24种弹药好恐怖XP
 -----↑需要更改翻译/校对↑-----
 
 @GFL-UNIT-DEFY-NAME=Task Force DEFY
