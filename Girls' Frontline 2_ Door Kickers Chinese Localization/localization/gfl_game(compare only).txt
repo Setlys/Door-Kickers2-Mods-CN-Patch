@@ -161,7 +161,7 @@
 @scope_GFL_lropm5_25_name=LR Optic 5-25x
 @scope_GFL_lropm5_25_desc=A heavy and cumbersome optic that brings maximum precision from 25m out. Enhances the Doll's equipped weapon by intense degrees at long range, but suffers greatly at close range. It is a requirement to bring a reliable sidearm or have the Doll equipping this sit out any room-to-room fights.
 @scope_GFL_lropm5_25_name=远程瞄准镜5-25x
-@scope_GFL_lropm5_25_desc=虽然极其笨重，但在面对25米距离后的目标时有着极高精准度的瞄具，在提升人形在对中远距离敌人作战效能的同时降低人形应对近距离目标的能力。\n\n使用此款瞄具的人形*必须*携带一把副武器，否则人形在近距作战的时候只能骑墙看戏了。
+@scope_GFL_lropm5_25_desc=虽然极其笨重，但在面对25米距离后的目标时有着极高精准度的瞄具，在提升人形在对中远距离敌人作战效能的同时降低人形应对近距离目标的能力。\n\n使用此款瞄具的人形*必须*携带一把副武器，否则人形在近距作战的场合只能骑墙看戏了。
 
 -----↑需要更改翻译/校对↑-----
 
@@ -234,72 +234,97 @@
 @helmet_gfl_nvg1_name=Night Eyes TIS
 @helmet_gfl_nvg1_desc=Thermal Imaging System designed by Mayling to integrate seamlessly to the optical components of any Doll Frame the Commander deploys in the field. Mayling claims it is based on the Wolf Eyes System of DEFY... but Groza claims no significant power drain is happening during its use, but nonetheless impressed that it is very effective.
 @helmet_gfl_nvg1_name=夜视/热成像义眼
-@helmet_gfl_nvg1_desc=美玲设计的热成像系统，可以集成到任意一位指挥官所属人形的光学部件之中。\n\n按照美玲的说法，这套热成像系统是基于忤逆小队的“狼眼”系统设计的。尽管如此，闪电在使用之后表示这套系统并不像忤逆的“狼眼”那般耗电，但却同样有效。
+@helmet_gfl_nvg1_desc=美玲设计的热成像系统，可以集成到任意一位指挥官所属人形的光学部件之中。\n\n虽然按照美玲的说法，这套热成像系统是基于忤逆小队的“狼眼”系统设计的，但闪电在使用之后认为这套系统并不像忤逆的“狼眼”那般耗电，成像却也同样高效。
 
 @ammo_556_fmj_epr_name=URNC 62gr EPR
 @ammo_556_fmj_epr_desc=Standard performance FMJ rounds sourced from common channels such as the Underground Brokers and NOMFA. Fires and burns cleanly even in the harshest conditions, ensuring retention of its damage and penetration at range.
-@ammo_556_fmj_epr_name=罗联标配-62gr EPR
-@ammo_556_fmj_epr_desc=从暗商和非军事力量管理局等常规渠道获取的标配全金属被甲弹，即便是在最恶劣的环境也能烧尽所有发射药，以此保证弹药在特定射程仍具杀伤力和穿透力。
+@ammo_556_fmj_epr_name=URNC 62gr EPR
+@ammo_556_fmj_epr_desc=从暗商和非军事力量管理局等常见渠道获取的罗联标准全金属被甲弹，即便是在最恶劣的环境也能烧尽所有发射药，以此保证弹药在面对远距离目标时仍具杀伤力和穿透力。
 
 @ammo_556_apf_sf_name=SF Armor Piercing Frangible
 @ammo_556_apf_sf_desc=Powerful intermediate rounds designed to penetrate body armor and cause severe damage upon penetration, at the cost of rapid loss of penetration power beyond 10 meters. Rumored to be designed by the Sangvis Ferri Ringleader Beluga for use against the Commander's Dolls who are known to be armored against most intermediate rounds.
 @ammo_556_apf_sf_name=铁血工造易碎穿甲弹
-@ammo_556_apf_sf_desc=设计用于
-白桦戈
+@ammo_556_apf_sf_desc=虽然会在射出10米后迅速丧失穿透力，但在击穿护甲后仍能造成严重伤害的劲爆中间口径弹。\n\n这种弹药据传是由铁血的其中一位首领“白桦戈”设计的，用于针对指挥官麾下普遍使用抗中间口径弹护甲的人形。
 
 @ammo_919_jhp_over_name=NOMFA 124gr JHP +P
 @ammo_919_jhp_over_desc=Overpressure, low-caliber JHP rounds designed to penetrate low-level armor while causing as much damage as possible on a tiny payload. While repeated use of this ammo type Regularly purchased by PMCs and civilians in the Yellow Zones looking to maximize the power of their handguns, SMGs and PDWs.\n\nRumor has it that +P rounds increase the cyclic rate of some guns.
-@ammo_919_jhp_over_name=非军管局-124gr JHP +P
-@ammo_919_jhp_over_desc=
+@ammo_919_jhp_over_name=NOMFA 124gr JHP +P
+@ammo_919_jhp_over_desc=旨在尽量减少装药量的同时保持足够杀伤力和穿透力的小口径超压空尖弹。黄区的PMC和平民经常购买这种弹药，以最大限度地提高他们手枪、冲锋枪和PDW的威力。\n\n民间传闻认为这款超压弹会加快部分枪械自动机的循环速度。
 
 @ammo_919_squeak_flash_name=ELMO Squeak Flash
 @ammo_919_squeak_flash_desc =Custom chemical rounds that produces a distinct high-pitched squeak and disorienting wisps of light upon impact. Materialized from one of Cheeta's shooting range pranks to the Commander, it is now refined for suppression against both humans and ELIDs. Mayling describes the effect of having one explode close as like hearing nails sharply grind a chalkboard through your tinnitus while being flashed by a strobe light.\n\nWhile not designed to penetrate armor, the damage this ammunition can cause on exposed flesh should not be underestimated.
-@ammo_919_squeak_flash_name=
-@ammo_919_squeak_flash_desc=
+@ammo_919_squeak_flash_name=艾莫特供“吱吱爆闪”
+@ammo_919_squeak_flash_desc=奇塔在靶场整蛊指挥官用的恶作剧弹药，现已被实用化用于压制人类和ELID。其不仅会在发射时会爆出尖锐而又刺耳的吱声，还会在在命中时发出明亮而又晃眼的亮光——按美玲的说法就是“在被远光灯晃瞎眼睛的同时被指甲抓黑板的声音折磨”。\n\n虽然这款弹药的穿甲能力很弱，但对无甲目标的杀伤能力却不容小觑。
 
 @ammo_556x39_fmj_nsu_name=NSU 57gr FMJ
 @ammo_556x39_fmj_nsu_name=Neo Soviet Union's standard service intermediate round that has aims to replace the ubiquitous 7.62x39mm service round. It performs roughly the same as its predecessor with a slight reduction on overall damage.
-@ammo_556x39_fmj_nsu_name=
-@ammo_556x39_fmj_nsu_name=
+@ammo_556x39_fmj_nsu_name=NSU 57gr FMJ
+@ammo_556x39_fmj_nsu_name=新苏联军方标配的新型中间口径弹，用于替换连生骸都认识的7.62x39mm弹。\n\n弹药总体指标与7.62x39mm弹大致相同，但杀伤力有所降低。
 
 @ammo_556x39_supercavitator_defy_name=DEFY Supercav Soft
 @ammo_556x39_supercavitator_defy_desc=Custom rounds designed for underwater combat against soft targets. When fired underwater, it generates cavitation bubble thanks to its flat, disc shaped nose, allowing the bullet to drag against air instead of water. While all of these qualities seem useless in the environment of Nowheraki, the bullet itself still acts as a overengineered JHP round on land with improved ballistics at range.
+@ammo_556x39_supercavitator_defy_name=忤逆超空泡软目标弹
+@ammo_556x39_supercavitator_defy_desc=用于在水下作战时打击软目标的定制弹药，其扁平的碟形弹尖会在发射时产生空泡，使得弹头在水中的飞行阻力大大减小。\n\n虽然这款弹药的这些特化设计在诺维哈基毫无用处，但还是能当作一种设计浮夸，性能尚可的空尖弹使用的。
 
 @ammo_762x39_fmj_nsu_name=NSU 123gr FMJ
 @ammo_762x39_fmj_nsu_desc=Standard performance FMJ rounds made en masse for the old AK rifles of the KCCO. Large and intimidating among its intermediate peers, it boasts higher damage and penetration at close range.
+@ammo_762x39_fmj_nsu_name=NSU 123gr FMJ
+@ammo_762x39_fmj_nsu_desc=新苏联特战司令部为老款AK步枪设计的标准全金属被甲弹，虽然与其它中间口径弹的同类相比大得令人望而生畏，但也因此在近距离作战时有着更高的杀伤力和穿透力。
 
 @ammo_762x39_jhe_elid_name=NSU Anti-ELID JHE
 @ammo_762x39_jhe_elid_desc=Custom intermediate rounds designed to destroy ELIDs via micro explosive that trigger upon skin penetration. While the effectiveness of this ammunition is extremely dubious due to the microexplosive system adding too much weight onto the bullet, causing significant performance problems, it is still quite horrifying when given to the hands of someone who can wield it.
+@ammo_762x39_jhe_elid_name=新苏联对ELID特效高爆弹
+@ammo_762x39_jhe_elid_desc=被设计用于有效打击ELID的定制中间口径弹，会在击穿ELID的皮肤后爆炸。\n\n虽然杀伤力非常可观，但这款弹药内置的爆破部件为弹头增重不少，导致实际使用时的弹道性能非常存疑；尽管如此，熟练掌握这款弹药用法的人形在战场上仍然会是ELID的绝佳克星。
 
 @ammo_473_fmj_404_name=404 51gr CL FMJ
 @ammo_473_fmj_404_desc=Caseless rounds developed during the first Cold War which are now being made in house by H.I.D.E. 404 for Mechty's use. Thanks to its design, a lot of rounds can be packed in a small space while maintaining the standard performance of a 5.56mm round, at the cost of potential heat issues. Logisically heavy to produce given the resources of a small organization as H.I.D.E. 404, a sly Mechty can sometimes be heard making excuses of saving ammunition costs by letting her sit out on some missions. Klukai ofcourse, is never pleased to hear this.
+@ammo_473_fmj_404_name=404 51gr CL FMJ
+@ammo_473_fmj_404_desc=第一次冷战的一款无壳弹，现在由H.I.D.E.404匠心手作，以供米什提使用。\n弹药本身的设计使它可以在占用极少储存空间的情况下仍有着与5.56mm弹持平的弹道性能，代价是容易自燃。\n\nH.I.D.E.404的资源有限，自产无壳弹对她们可谓是一大后勤难题。米什提偶尔会以此为借口突然要“勤俭节约”，通过不派她出勤的方式节省弹药成本——可露凯每次听见这话都会超级无敌生气暴怒，直接对米什提进行一个驯服检定。
 
 @ammo_473_frang_404_name=16Lab ISS Frangible
 @ammo_473_frang_404_desc=Caseless rounds for theoretical use in space stations. It is designed to be frangible as to prevent overpenetration and any damage to space station hulls on a miss. In Nowheraki, it just gives Mechty the option for high-damage rounds at the cost of penetration power. Interestingly, it is quite easier to manufacture than the FMJ counterpart.
+@ammo_473_frang_404_name=16Lab真空易碎弹
+@ammo_473_frang_404_desc=理论上可以用于太空环境作战的无壳弹，其易碎设计是为了防止未命中目标的子弹对空间站造成任何过穿之类的损伤。但在诺维哈基，这种子弹只是让米什提多了一种可供选择的弹药：和标准弹药相比穿透力更低，但杀伤力更高。\n\n米什提省钱小妙招：其实这款弹药比标配的全金属被甲弹版本更方便手搓。
 
 @ammo_762_fmj_epr_name=URNC 130gr EPR
 @ammo_762_fmj_epr_desc=Standard performance FMJ rounds sourced from common channels such as the Underground Brokers and NOMFA. Fires and burns cleanly even in the harshest conditions, ensuring retention of its damage and penetration at range.
+@ammo_762_fmj_epr_name=URNC 130gr EPR
+@ammo_762_fmj_epr_desc=从暗商和非军事力量管理局等常见渠道获取的罗联标准全金属被甲弹，即便是在最恶劣的环境也能烧尽所有发射药，以此保证弹药在面对远距离目标时仍具杀伤力和穿透力。
 
 @ammo_45_jhp_over_name=NOMFA 185gr JHP +P
 @ammo_45_jhp_over_desc=Overpressure, low-caliber JHP rounds designed to penetrate low-level armor while causing as much damage as possible on a tiny payload. While repeated use of this ammo type Regularly purchased by PMCs and civilians in the Yellow Zones looking to maximize the power of their handguns, SMGs and PDWs.\n\nRumor has it that +P rounds increase the cyclic rate of some guns.
+@ammo_45_jhp_over_name=NOMFA 185gr JHP +P
+@ammo_45_jhp_over_desc=旨在尽量减少装药量的同时保持足够杀伤力和穿透力的小口径超压空尖弹。黄区的PMC和平民经常购买这种弹药，以最大限度地提高他们手枪、冲锋枪和PDW的威力。\n\n民间传闻认为这款超压弹会加快部分枪械自动机的循环速度。
 
 @ammo_45_ew_spec_name=404 .45 EW Spec
 @ammo_45_ew_spec_desc=Specialized rounds for electronic warfare and human-type suppression. Upon impact, the rounds detonate into tiny high-pitched EMP fields that can bring targets to their knees. This comes at a cost of a low-energy projectile that has extremely reduced stopping power.
+@ammo_45_ew_spec_name=404 .45 电子战型
+@ammo_45_ew_spec_desc=用于电子战情景的特化弹药，会在命中目标时产生高频电磁脉冲力场，迫使目标瘫痪——如此高端功能的代价是弹药的初速极低，导致其停止力不足。
 
 @ammo_919_ew_spec_name=404 9x19mm EW Spec
 @ammo_919_ew_spec_desc=Specialized rounds for electronic warfare and human-type suppression. Upon impact, the rounds detonate into tiny high-pitched EMP fields that can bring targets to their knees. This comes at a cost of a low-energy projectile that has extremely reduced stopping power.
+@ammo_919_ew_spec_name=404 9x19mm 电子战型
+@ammo_919_ew_spec_desc=用于电子战情景的特化弹药，会在命中目标时产生高频电磁脉冲力场，迫使目标瘫痪——如此高端功能的代价是弹药的初速极低，导致其停止力不足。
 
 @ammo_45_fmj_urnc_name=URNC 230gr FMJ
 @ammo_45_fmj_urnc_desc=Standard performance FMJ rounds sourced from common channels such as the Underground Brokers and NOMFA. This one is particularly designed for PDWs with an extremely very high cyclic rate.
+@ammo_45_fmj_urnc_name=URNC 230gr FMJ
+@ammo_45_fmj_urnc_desc=从暗商和非军事力量管理局等常见渠道获取的罗联标准全金属被甲弹，这款特别为PDW设计，会使枪械的自动机以极高的速度循环运行。
 
 @ammo_45_jhp_inc_name=404 JHP Incendiary
 @ammo_45_jhp_inc_desc=JHP rounds with incendiary payloads inserted in the hollowed area. Due to the size of the payload, the additional effect it causes is negligible, but Vector insists that these rounds provide her a way to express her "art" in the battlefield.
+@ammo_45_jhp_inc_name=404 JHP 燃烧弹型
+@ammo_45_jhp_inc_desc=弹头内嵌易燃物质的空尖弹。虽然这些易燃物质的装药量和实际使用效果都一样微乎其微，但维克托坚持认为使用这些弹药是一种在战场上描绘独属于她的独特“画作”的方法。
 
 @ammo_3006_fmj_name=URNC 130gr FMJ
 @ammo_3006_fmj_desc=Standard full-power cartridge ammunition excellent for engaging targets at long ranges. While the design itself is antiquated, it is still widely used in the Yellow Zones today.
+@ammo_3006_fmj_name=URNC 130gr FMJ
+@ammo_3006_fmj_desc=适用于远距离交战的标准全威力弹，虽然设计早已过时，但在黄区仍被广泛使用。
 
 @ammo_3006_lait_name=ZCH SEPR "Cafe au Lait"
 @ammo_3006_lait_desc=Specialized enhanced performance rounds crafted by Springfield herself to catch up with the performance of her assault rifle wielding peers. Its able to retain its power after penetrating a target, increasing Springfield's crowd control capability at the cost of some lethality.
+@ammo_3006_lait_name=ZCH SEPR "Cafe au Lait"
+@ammo_3006_lait_desc=
 
 @ammo_300wm_fmj_name=NOMFA 180gr FMJ
 @ammo_300wm_fmj_desc=Standard high-power cartridge ammunition excellent for engaging targets at long ranges. Preferred sniping round by big game hunters, law enforcement and mercenaries.
