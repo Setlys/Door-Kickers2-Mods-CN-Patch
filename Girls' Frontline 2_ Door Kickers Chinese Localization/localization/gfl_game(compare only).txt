@@ -323,26 +323,38 @@
 
 @ammo_3006_lait_name=ZCH SEPR "Cafe au Lait"
 @ammo_3006_lait_desc=Specialized enhanced performance rounds crafted by Springfield herself to catch up with the performance of her assault rifle wielding peers. Its able to retain its power after penetrating a target, increasing Springfield's crowd control capability at the cost of some lethality.
-@ammo_3006_lait_name=ZCH SEPR "Cafe au Lait"
-@ammo_3006_lait_desc=
+@ammo_3006_lait_name=方糖特供特种弹"欧蕾咖啡"
+@ammo_3006_lait_desc=春田自制的特种弹药，弹道性能与其他突击步枪人形使用的弹药相近。\n\n这款弹药在对付成群目标时非常有用，在击穿目标后仍能保有一定能量，并穿透第一目标身后的其他单位——当然，是以杀伤力减弱为代价实现的。
 
 @ammo_300wm_fmj_name=NOMFA 180gr FMJ
 @ammo_300wm_fmj_desc=Standard high-power cartridge ammunition excellent for engaging targets at long ranges. Preferred sniping round by big game hunters, law enforcement and mercenaries.
+@ammo_300wm_fmj_name=NOMFA 180gr FMJ
+@ammo_300wm_fmj_desc=适用于远距离交战的标准全威力弹，猎人、执法部门和雇佣兵尤其喜爱这款弹药。
 
 @ammo_300wm_macchiato_name=ZCH Endothermic "Macchiato"
 @ammo_300wm_macchiato_desc=Specialized rounds designed for Makiatto's specifications for suppressing HVT's for capture. When fired, it leaves a strong trail of endothermic energy that can heavily disorient both senses and sensors. However the altered composition of the bullet prevents it from effective at overpenetrating bodies.
+@ammo_300wm_macchiato_name=方糖特供扰动弹"玛绮朵"
+@ammo_300wm_macchiato_desc=
 
 @ammo_556_tiramisu_name=ZCH Frangible "Tiramisu"
 @ammo_556_tiramisu_desc=Specialized rounds designed for Centaureissi's specifications for quickly taking out soft targets and minimizing environmental destruction to keep things clean after combat. The rounds are designed to break apart upon impact which is very effective against flesh, but nearly negligible against any forms of hard armor.
+@ammo_556_tiramisu_name=方糖特供易碎弹"提拉米苏"
+@ammo_556_tiramisu_desc=
 
 @ammo_762x39_fmj_duplex_name=ELMO Duplex FMJ
 @ammo_762x39_fmj_duplex_desc=Experimental round developed by Mayling as a gift for Groza. It utilizes two bullets stacked on each other inside a standard cartridge. The result is each bullet fires two projectiles in hopes of increasing hit probability at the cost of some accuracy. While the concept is weird, Groza appreciates the extra firepower she can pack in her trusty OTs-14.
+@ammo_762x39_fmj_duplex_name=艾莫特供“齐射”弹
+@ammo_762x39_fmj_duplex_desc=
 
 @ammo_50bmg_fmj_name=URNC 750gr FMJ
 @ammo_50bmg_fmj_desc=Standard full-power cartridge whose design stands the test of time. Commonly used by vehicle mounted machineguns and anti-materiel rifles. Exceptionally devastating against almost everything in the battlefield save for dedicated armor that is designed to resist tank rounds.
+@ammo_50bmg_fmj_name=URNC 750gr FMJ
+@ammo_50bmg_fmj_desc=
 
 @ammo_50bmg_remover_name=ELMO Remover HEIAP
 @ammo_50bmg_remover_desc=Powerful round produced in-house in the ELMO foundries for support gunner drone use. It uses the highest yield explosive available at the cheapest cost so it can be produced under a tight budget, at the cost of some ballistic performance. The round was titled as the "Remover" by Mayling herself after a conversation with Nemesis about its effectiveness with her weapon.
+@ammo_50bmg_remover_name=艾莫特供高爆燃烧穿甲弹“一键删除”
+@ammo_50bmg_remover_desc=
 
 ...24种弹药好恐怖XP
 -----↑需要更改翻译/校对↑-----
