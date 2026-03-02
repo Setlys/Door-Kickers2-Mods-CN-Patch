@@ -334,27 +334,27 @@
 @ammo_300wm_macchiato_name=ZCH Endothermic "Macchiato"
 @ammo_300wm_macchiato_desc=Specialized rounds designed for Makiatto's specifications for suppressing HVT's for capture. When fired, it leaves a strong trail of endothermic energy that can heavily disorient both senses and sensors. However the altered composition of the bullet prevents it from effective at overpenetrating bodies.
 @ammo_300wm_macchiato_name=方糖特供扰动弹"玛绮朵"
-@ammo_300wm_macchiato_desc=
+@ammo_300wm_macchiato_desc=依照玛绮朵的要求定制的特种弹，用于无伤抓获高价值目标：在命中目标时，弹头会产生一束可以吸收热能的能量，通过吸热干扰目标的感知能力。\n\n改造后弹头的穿透力有所减弱，难以击穿并打击目标身后的其他单位。
 
 @ammo_556_tiramisu_name=ZCH Frangible "Tiramisu"
 @ammo_556_tiramisu_desc=Specialized rounds designed for Centaureissi's specifications for quickly taking out soft targets and minimizing environmental destruction to keep things clean after combat. The rounds are designed to break apart upon impact which is very effective against flesh, but nearly negligible against any forms of hard armor.
 @ammo_556_tiramisu_name=方糖特供易碎弹"提拉米苏"
-@ammo_556_tiramisu_desc=
+@ammo_556_tiramisu_desc=依照桑朵莱希的要求定制的特种弹，用于在快速击倒软目标的同时减弱对环境的破坏。弹头在命中目标后会立刻碎裂的特性使其对无甲目标的杀伤能力非常强大，但却难以打击着甲目标。
 
 @ammo_762x39_fmj_duplex_name=ELMO Duplex FMJ
 @ammo_762x39_fmj_duplex_desc=Experimental round developed by Mayling as a gift for Groza. It utilizes two bullets stacked on each other inside a standard cartridge. The result is each bullet fires two projectiles in hopes of increasing hit probability at the cost of some accuracy. While the concept is weird, Groza appreciates the extra firepower she can pack in her trusty OTs-14.
 @ammo_762x39_fmj_duplex_name=艾莫特供“齐射”弹
-@ammo_762x39_fmj_duplex_desc=
+@ammo_762x39_fmj_duplex_desc=一种美玲设计的实验性弹药，作为送给闪电的礼物而被设计出来。此种弹药在弹壳内装入两颗上下互叠的弹头，使得射手在瞄准点接近目标，但依然可能射偏时仍有可能命中目标。\n\n虽然理论的可行性令人存疑，但闪电仍然很欣赏这种可以使她的步枪发挥出额外火力的弹药。
 
 @ammo_50bmg_fmj_name=URNC 750gr FMJ
 @ammo_50bmg_fmj_desc=Standard full-power cartridge whose design stands the test of time. Commonly used by vehicle mounted machineguns and anti-materiel rifles. Exceptionally devastating against almost everything in the battlefield save for dedicated armor that is designed to resist tank rounds.
 @ammo_50bmg_fmj_name=URNC 750gr FMJ
-@ammo_50bmg_fmj_desc=
+@ammo_50bmg_fmj_desc=一般用于车载机枪或反器材步枪的标准全威力弹，在战场上已久经考验。\n\n除了打不穿厚度足以抵挡坦克炮弹的装甲以外，此款弹药对战场上的其他东西都极具毁灭性。
 
 @ammo_50bmg_remover_name=ELMO Remover HEIAP
 @ammo_50bmg_remover_desc=Powerful round produced in-house in the ELMO foundries for support gunner drone use. It uses the highest yield explosive available at the cheapest cost so it can be produced under a tight budget, at the cost of some ballistic performance. The round was titled as the "Remover" by Mayling herself after a conversation with Nemesis about its effectiveness with her weapon.
-@ammo_50bmg_remover_name=艾莫特供高爆燃烧穿甲弹“一键删除”
-@ammo_50bmg_remover_desc=
+@ammo_50bmg_remover_name=艾莫特供高爆燃烧穿甲弹“一键删除器”
+@ammo_50bmg_remover_desc=艾莫号自制的，用于支援无人机的高爆弹药。因为经费很紧，所以这款弹药使用的是一种便宜而又有效的高爆炸药，弹药本身的弹道性能因此有些许衰减。\n\n“一键删除器”这个名字来源于美玲和纳美西丝的一次闲聊，两人对纳美西丝步枪的作战效能进行了一番奇特的交流。
 
 ...24种弹药好恐怖XP
 -----↑需要更改翻译/校对↑-----
@@ -776,7 +776,7 @@
 @ammo_58x42_dbp88_name=5.8×42mm DBP88 Heavy
 @ammo_58x42_dbp88_desc=Heavy variant with longer streamlined bullet and steel core. Enhanced performance at close range with superior penetration.
 @ammo_58x42_dbp88_name=5.8×42mm DVP88重尖弹
-@ammo_58x42_dbp88_desc=钢芯铜被甲的重型弹药，优化弹道性能的同时增强了穿透能力。
+@ammo_58x42_dbp88_desc=钢芯铜被甲的重型弹药，优化近距离弹道性能的同时增强了穿透能力。
 
 -----↑需要更改翻译/校对↑-----
 
@@ -856,6 +856,6 @@
 然而，曾经在救援队工作的经历，让绯对‘生命’有着更加深刻的理解，也比任何人都要更想好好珍惜身边的人。这导致她在暴躁之后，会因为愧疚而感到消沉。
 请多给绯一些时间和理解吧，你最终能感受到那埋藏在心智深处的、不易被察觉的柔软与包容。
 @WEAP-CZ75-NAME=CZ-75手枪
-@WEAP-CZ75-DESC=CZ-75是一把捷克斯洛伐克于1975年列装的，使用填装9x19毫米帕弹的双排单进弹匣的，单/双动式半自动手枪。\n双动设计和大容量弹匣的搭配使得CZ-75相较于同时代的其它手枪更具火力投射优势。
+@WEAP-CZ75-DESC=CZ-75是一把捷克斯洛伐克于1975年列装的，使用填装9x19毫米帕弹的双排单进弹匣的单/双动式半自动手枪。\n双动设计和大容量弹匣的搭配使得CZ-75相较于同时代的其它手枪更具火力投射优势。
 
 @DOLL-AA12-DESC=诞生于临床试验的受试人形，凭借出众的射击能力和强劲的火力\n
