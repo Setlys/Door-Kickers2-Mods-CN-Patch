@@ -353,8 +353,11 @@
 
 @ammo_50bmg_remover_name=ELMO Remover HEIAP
 @ammo_50bmg_remover_desc=Powerful round produced in-house in the ELMO foundries for support gunner drone use. It uses the highest yield explosive available at the cheapest cost so it can be produced under a tight budget, at the cost of some ballistic performance. The round was titled as the "Remover" by Mayling herself after a conversation with Nemesis about its effectiveness with her weapon.
-@ammo_50bmg_remover_name=艾莫特供高爆燃烧穿甲弹“一键删除器”
+@ammo_50bmg_remover_name=艾莫特供高爆燃烧穿甲弹“一键删除弹”
 @ammo_50bmg_remover_desc=艾莫号自制的，用于支援无人机的高爆弹药。因为经费很紧，所以这款弹药使用的是一种便宜而又有效的高爆炸药，弹药本身的弹道性能因此有些许衰减。\n\n“一键删除器”这个名字来源于美玲和纳美西丝的一次闲聊，两人对纳美西丝步枪的作战效能进行了一番奇特的交流。
+
+@ammo_50bmg_match_name=NOMFA Match Grade
+@ammo_50bmg_match_desc=Premium match-grade .50 BMG ammunition with precision-loaded components for maximum accuracy and consistency at extreme ranges. The tighter tolerances and superior ballistics make it ideal for precise long-range engagements.
 
 ...24种弹药好恐怖XP
 -----↑需要更改翻译/校对↑-----
@@ -833,6 +836,18 @@
 @GFL-UNIT-MONSOON-NAME=季风小队
 @GFL-UNIT-MONSOON-DESC=由前格里芬人形组成的漂泊音乐人乐队，有着善于让敌人“敞开心扉”的演奏能力和战斗能力。
 @#GFL-UNIT-MONSOON-NAME-RND=季风小队
+
+@DOLL-QBZ95-NAME=DAIYAN
+@DOLL-QBZ95-DESC=A gentle and reserved Doll who roams the lands with her guzheng and her bandmates from "Monsoon". When she plucks the strings, she evokes the deepest desires buried in the hearts of her listenersーlistening to all, and embracing all. After G&K was restructured, Daiyan left and picked up the guzheng again as a wandering musician.
+
+@WEAP-QBZ95-NAME=QBZ-95
+@WEAP-QBZ95-DESC=The QBZ-95 is a bullpup configured, selective fire rifle manufactured by Arsenal 266 (part of Norinco) and Arsenal 296 (under Jianshe Corp). The rifle's designation "QBZ" stands for "light weapon (Qīng Wŭqì) - rifle (Bùqiāng) - automatic (Zìdòng)", in keeping with the coding standards of the Chinese defense industry.
+
+@DOLL-QBZ97-NAME=JIANGYU
+@DOLL-QBZ97-DESC=A lively and enthusiastic Doll who follows in her older sister's footsteps with a carefree spirit. She roams the lands with her bandmates, bringing fresh and fiery notes to "Monsoon". Jiangyu is not only a reliable T-Doll in combat, but a true crowd-pleaser on stage. Using her agility and vivacity, she goes above and beyond to put on exciting performances. She may stumble occasionally, but her enthusiasm will cut through any difficulty.
+
+@WEAP-QBZ97-NAME=QBZ-97
+@WEAP-QBZ97-DESC=The QBZ-97 is essentially a QBZ-95 chambered for the 5.56x45mm NATO cartridge, and was a model developed primarily for international export. The two rifles are commonly referred to as the 'Type 95' and 'Type 97' to indicate the year they completed development and entered service.
 
 @DOLL-CSLS06-NAME=ZHAOHUI
 @DOLL-CSLS06-DESC=A stoic Doll with rich combat experience, she is unpretentious and decisive in action. As the leader of Monsoon Squad, she excels in combat and handling team affairs but is still a novice at lightening the mood. Don't hesitate to welcome herーa hero pursuing justice is always worthy of trust.
