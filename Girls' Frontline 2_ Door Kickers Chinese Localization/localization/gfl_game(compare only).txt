@@ -315,7 +315,7 @@
 
 @ammo_45_jhp_inc_name=404 JHP Incendiary
 @ammo_45_jhp_inc_desc=JHP rounds with incendiary payloads inserted in the hollowed area. Due to the size of the payload, the additional effect it causes is negligible, but Vector insists that these rounds provide her a way to express her "art" in the battlefield.
-@ammo_45_jhp_inc_name=404 JHP 燃烧弹型
+@ammo_45_jhp_inc_name=404 JHP 燃烧弹
 @ammo_45_jhp_inc_desc=弹头内嵌易燃物质的空尖弹。虽然这些易燃物质的装药量和实际使用效果都一样微乎其微，但维克托坚持认为使用这些弹药是一种在战场上描绘独属于她的独特“画作”的方法。
 
 @ammo_3006_fmj_name=URNC 130gr FMJ
@@ -360,19 +360,60 @@
 
 @ammo_50bmg_match_name=NOMFA Match Grade
 @ammo_50bmg_match_desc=Premium match-grade .50 BMG ammunition with precision-loaded components for maximum accuracy and consistency at extreme ranges. The tighter tolerances and superior ballistics make it ideal for precise long-range engagements.
-@ammo_50bmg_match_name=NOMFA 竞赛级弹药
+@ammo_50bmg_match_name=NOMFA Match
 @ammo_50bmg_match_desc=竞赛级.50BMG弹药，装载了特别的精密部件，即使到了极限射程也能保证弹药的一致性和精准度。严格的公差要求和极致的弹道性能使这款弹药极其适合对远距离目标的精确狙击。
 
 @ammo_380acp_fmj_name=URNC 95gr FMJ
 @ammo_380acp_fmj_desc=Standard .380 ACP full metal jacket rounds. A lightweight cartridge with modest stopping power, favoured for its low recoil and concealability. What it lacks in punch it makes up for in shot placement.
 @ammo_380acp_fmj_name=URNC 95gr FMJ
-@ammo_380acp_fmj_desc=Standard .380 ACP full metal jacket rounds. A lightweight cartridge with modest stopping power, favoured for its low recoil and concealability. What it lacks in punch it makes up for in shot placement.
-@ammo_380acp_squeak_flash_name=ELMO Squeak Flash
-@ammo_380acp_squeak_flash_desc=Experimental .380 ACP chemical rounds adapted from Cheeta's 9mm Squeak Flash design. Produces a high-pitched squeak and disorienting flash on impact. Highly effective at suppressing targets despite the small calibre, though armour penetration is poor.
-@ammo_380acp_squeak_flash_name=ELMO Squeak Flash
-@ammo_380acp_squeak_flash_desc=Experimental .380 ACP chemical rounds adapted from Cheeta's 9mm Squeak Flash design. Produces a high-pitched squeak and disorienting flash on impact. Highly effective at suppressing targets despite the small calibre, though armour penetration is poor.
+@ammo_380acp_fmj_desc=标准的.380ACP全金属被甲弹，是一种兼具停止力，低后坐力和隐蔽性的轻型弹药。\n\n威力的不足就用精准度弥补。
 
-...27种弹药好恐怖XP
+@ammo_380acp_squeak_flash_name=ELMO Squeak Flash
+@ammo_380acp_squeak_flash_desc=Experimental .380 ACP chemical rounds adapted from Cheeta's 9mm Squeak Flash design. Produces a high-pitched squeak and disorienting flash on impact. Highly effective at suppressing targets despite the small calibre, though armour penetration is poor.
+@ammo_380acp_squeak_flash_name=艾莫特供“吱吱爆闪”
+@ammo_380acp_squeak_flash_desc=实验性.380ACP化学弹，和奇塔在9mm帕拉贝姆弹上的设计如出一辙。其会在发射时会爆出尖锐而又刺耳的吱声，并在命中时发出明亮而又晃眼的亮光。\n\n虽然这款弹药的穿甲能力很弱，但对目标的压制能力却不容小觑。
+
+@ammo_762x54r_fmj_nsu_name=NSU 150gr FMJ
+@ammo_762x54r_fmj_nsu_desc=Standard full-power machine gun ammunition manufactured by the Neo Soviet Union for belt-fed weapons. The heavy bullet delivers punishing damage and consistent penetration at all ranges, designed to keep firing until there is nothing left standing.
+@ammo_762x54r_fmj_nsu_name=NSU 150gr FMJ
+@ammo_762x54r_fmj_nsu_desc=新苏联为弹链式供弹武器设计的标准全威力机枪弹药，用于让机枪手如兰博一般持续压制，直至射界内没有任何一个能动弹的东西。\n\n对全距离目标都有着可观的杀伤力和穿透力。
+
+@ammo_12g00buck_name=URNC 00 Buckshot
+@ammo_12g00buck_desc=Standard 12 gauge 00 buckshot loaded with nine pellets. A proven close-quarters load that delivers devastating spread damage against soft targets, though its effectiveness drops sharply at range.
+@ammo_12g00buck_name=URNC 00鹿弹
+@ammo_12g00buck_desc=装有9颗00号弹丸的标准12号口径霰弹，在面对近距离的软目标时足以造成毁灭性的打击。\n\n虽然作战效能随射击距离快速衰减，但仍是近距离作战的不二之选。
+
+@ammo_12gcalciumbirdshot_name=ELMO Calcium Birdshot
+@ammo_12gcalciumbirdshot_desc=Experimental 12 gauge shells loaded with thirty-two lightweight calcium composite pellets. The extreme pellet count creates a wide spread pattern ideal for hitting fast-moving targets, but each pellet carries minimal energy and is nearly useless against armour.
+@ammo_12gcalciumbirdshot_name=艾莫特供钙制鸟弹
+@ammo_12gcalciumbirdshot_desc=装有32发钙制轻量弹丸的实验性12号口径霰弹，其打出的弹幕可以轻而易举地击中快速移动的目标，但弹丸本身的动能非常之低，甚至难以击穿最轻薄的护甲。
+
+@ammo_12grfslug_name=NOMFA RF Slug
+@ammo_12grfslug_desc=A single high-mass rifled slug designed for maximum accuracy and stopping power in a shotgun platform. Excellent penetration and damage against single targets, trading the spread of buckshot for precision.
+@ammo_12grfslug_name=NOMFA RF独头弹
+@ammo_12grfslug_desc=一款重型的带膛线独头弹，可以让射手在使用霰弹枪时也能打出既精准，停止力又强的致命一击。\n\n虽然无法像填装多弹丸的常规霰弹一样覆盖多个目标，但拥有着对单目标的极致穿透力和杀伤力。
+
+@ammo_12gsuperheavyslugs_name=ELMO Super Heavy Slugs
+@ammo_12gsuperheavyslugs_desc=Oversized slugs loaded four to a shell using a stacked configuration. Each slug carries significant mass and penetration power, combining the spread advantage of buckshot with the armour-defeating properties of a slug.
+@ammo_12gsuperheavyslugs_name=艾莫特供超重独头弹
+@ammo_12gsuperheavyslugs_desc=采用层叠方式将四发独头弹装入同一弹壳内的超大霰弹，拥有对目标的极致穿透力和杀伤力的同时还能像鹿弹一样打出覆盖多个目标的扩散弹幕。\n\n！？强强？！
+
+@ammo_9x39subsonic_fmj_name=NSU 16gr Subsonic FMJ
+@ammo_9x39subsonic_fmj_desc=Specialised subsonic ammunition designed for suppressed weapons. The heavy bullet travels below the speed of sound, eliminating the sonic crack and allowing the VSK-94's integral suppressor to be fully effective. Penetration is respectable thanks to the bullet's mass and hardened core.
+@ammo_9x39subsonic_fmj_name=NSU 16gr FMJ亚音速
+@ammo_9x39subsonic_fmj_desc=为消音武器特化的亚音速弹药，通过降低弹头飞行速度的方式避免了弹头跨音速时产生的音爆，和VSK-94的消音器结合使用可以达成最大化的消音效果。\n\n因为弹头很重，使用的又是钢芯，因此穿透力还算可观。
+
+@ammo_46x30_ap_name=HK 31gr AP
+@ammo_46x30_ap_desc=Purpose-built armour-piercing ammunition for the MP7 platform. The small, high-velocity projectile with a hardened steel penetrator defeats body armour that stops conventional pistol rounds, though the tiny calibre limits raw stopping power.
+@ammo_46x30_ap_name=HK 31gr穿甲弹
+@ammo_46x30_ap_desc=用于MP7的特化穿甲弹，实心钢钢芯+高出膛速度的组合拳足以击穿可以抵挡常规手枪弹药的护甲，代价是穿甲后的停止力稍显羸弱。
+
+@ammo_58x42_fmj_name=NSU 77gr FMJ
+@ammo_58x42_fmj_desc=Standard service ammunition for the Chinese 5.8×42mm cartridge. A modern intermediate round with flat trajectory and consistent penetration, designed for the PLA's latest generation of small arms.
+@ammo_58x42_fmj_name=NSU 77gr FMJ
+@ammo_58x42_fmj_desc=标准的国产5.8x42mm弹药，为解放军的新一代枪族而设计，弹道平直且穿深稳定。
+
+...我已经不知道有多少种弹药了，反正好恐怖
 -----↑需要更改翻译/校对↑-----
 
 @GFL-UNIT-DEFY-NAME=Task Force DEFY
@@ -847,20 +888,29 @@
 @GFL-UNIT-MONSOON-DESC=A group of wandering musicians made up of T-Dolls formerly from G&K. Both their music and fighting abilities strike deep into their target's hearts.
 @#GFL-UNIT-MONSOON-NAME-RND=Monsoon Squad
 @GFL-UNIT-MONSOON-NAME=季风小队
-@GFL-UNIT-MONSOON-DESC=由前格里芬人形组成的漂泊音乐人乐队，有着善于让敌人“敞开心扉”的演奏能力和战斗能力。
+@GFL-UNIT-MONSOON-DESC=由前格里芬人形组成的漂泊音乐人乐队，同时有着善于让敌人“敞开心扉”的演奏能力和战斗能力。
 @#GFL-UNIT-MONSOON-NAME-RND=季风小队
 
 @DOLL-QBZ95-NAME=DAIYAN
 @DOLL-QBZ95-DESC=A gentle and reserved Doll who roams the lands with her guzheng and her bandmates from "Monsoon". When she plucks the strings, she evokes the deepest desires buried in the hearts of her listenersーlistening to all, and embracing all. After G&K was restructured, Daiyan left and picked up the guzheng again as a wandering musician.
+@DOLL-QBZ95-NAME=黛烟
+@DOLL-QBZ95-DESC=温柔内敛的人形，背着古筝与“季风”乐队的同伴们四处漂泊。\n拨弄琴弦，唤起的是听者心中埋藏最深的愿望一一她聆听着一切，\n也包容着一切。告别了格里芬、重新拿起古筝的黛烟，如同“季风”\n一般，黛烟与乐队的伙伴们一起，追随旋律四处漂泊。
+
 
 @WEAP-QBZ95-NAME=QBZ-95
 @WEAP-QBZ95-DESC=The QBZ-95 is a bullpup configured, selective fire rifle manufactured by Arsenal 266 (part of Norinco) and Arsenal 296 (under Jianshe Corp). The rifle's designation "QBZ" stands for "light weapon (Qīng Wŭqì) - rifle (Bùqiāng) - automatic (Zìdòng)", in keeping with the coding standards of the Chinese defense industry.
+@WEAP-QBZ95-NAME=QBZ-95突击步枪
+@WEAP-QBZ95-DESC=QBZ-95是一款由208所研制，296厂生产的无托构型选射步枪，其名字中的“QBZ”按《全军武器装备命名规定》代指“轻武器-步枪-自动”。
 
 @DOLL-QBZ97-NAME=JIANGYU
 @DOLL-QBZ97-DESC=A lively and enthusiastic Doll who follows in her older sister's footsteps with a carefree spirit. She roams the lands with her bandmates, bringing fresh and fiery notes to "Monsoon". Jiangyu is not only a reliable T-Doll in combat, but a true crowd-pleaser on stage. Using her agility and vivacity, she goes above and beyond to put on exciting performances. She may stumble occasionally, but her enthusiasm will cut through any difficulty.
+@DOLL-QBZ97-NAME=绛雨
+@DOLL-QBZ97-DESC=如鼓点般活泼而热烈的人形，大大咧咧地追随着老姐的脚步。\n她与乐队的同伴们四处行走，为“季风”带来新奇而燥热的音符。\n作战中，绛雨是可靠的战术人形；舞台上，她也是炒热气氛的一把好手。\n行动力超强的她总能用出乎意料的举动给演出增添乐趣，\n虽然偶尔会惹出小乱子，但在她高涨的热情面前，所有困难都会迎刃而解。
 
 @WEAP-QBZ97-NAME=QBZ-97
 @WEAP-QBZ97-DESC=The QBZ-97 is essentially a QBZ-95 chambered for the 5.56x45mm NATO cartridge, and was a model developed primarily for international export. The two rifles are commonly referred to as the 'Type 95' and 'Type 97' to indicate the year they completed development and entered service.
+@WEAP-QBZ97-NAME=QBZ-97突击步枪
+@WEAP-QBZ97-DESC=QBZ-97是QBZ-95的外贸型号，使用北约的5.56x45mm NATO弹药。QBZ-97是QBZ-95通常被简称为“97式”和“95式”，以指代两者服役的年份。
 
 @DOLL-CSLS06-NAME=ZHAOHUI
 @DOLL-CSLS06-DESC=A stoic Doll with rich combat experience, she is unpretentious and decisive in action. As the leader of Monsoon Squad, she excels in combat and handling team affairs but is still a novice at lightening the mood. Don't hesitate to welcome herーa hero pursuing justice is always worthy of trust.
@@ -870,20 +920,17 @@
 @WEAP-CSLS06-NAME=CS/LS06
 @WEAP-CSLS06-DESC=The CS/LS06 is a submachinegun with a top-loaded helical magazine. Its it is designed to be as most compact as possible while being able to equip a sizable magazine.
 @WEAP-CSLS06-NAME=CS/LS06冲锋枪
-@WEAP-CSLS06-DESC=CS/LS06是一款使用顶置螺旋弹筒供弹的冲锋枪，设计时遵从了“在使用大容量供弹具的同时尽量保持紧凑”的要求。
+@WEAP-CSLS06-DESC=CS/LS06是一款使用顶置螺旋弹筒供弹的冲锋枪，遵循了“在使用大容量供弹具的同时尽量保持紧凑”的思路而设计。
 
 @DOLL-CZ75-NAME=FAYE
 @DOLL-CZ75-DESC=A grim, nimble doll with the air of a delinquent. She has actual experience with hand-to-hand fighting techniques, and is easily annoyed by slow-paced people. However, what makes her distinct is that she's extraordinarily broad-minded, and can be generously forgiving regarding the daily issues brought about by any dolls with a problem.
+@DOLL-CZ75-NAME=绯
+@DOLL-CZ75-DESC=娇小纤细、但看表情就不好惹的人形。性格暴躁，时常口出暴言，\n一边举枪，一边扛斧头的架势让人退避三舍。但如果你愿意深入\n了解她，就会发现，在绯不耐烦的表情和暴躁的言语背后，隐藏着\n一颗纤细敏感的心。
 
 @WEAP-CZ75-NAME=CZ 75
 @WEAP-CZ75-DESC=A semi-automatic handgun chambered in 9x19 Parabellum. Introduced in Czechoslovakia as early as 1975, it is one of the first semi-automatic pistols that can be fired by simply pulling the trigger and supported by a staggered column magazine. This allowed unparalleled firepower in such a compact package during the times it was introduced.
-
-@DOLL-CZ75-NAME=绯
-@DOLL-CZ75-DESC=外表与性格反差很大的人形。体型小但气势足，一边举枪，一边扛斧头的架势让人退避三舍。但如果你愿意深入了解她，就会发现，在绯不耐烦的表情和暴躁的言语背后，隐藏着一颗纤细敏感的心。她也期待着，回应你的温柔。
-娇小纤细、但看表情就不好惹的人形。性格暴躁，时常口出暴言，但其实这并非出自她本心——情绪模块功能的削弱让她的沟通能力直线下降，在交谈中往往只能给出最直接、粗暴的回应。
-然而，曾经在救援队工作的经历，让绯对‘生命’有着更加深刻的理解，也比任何人都要更想好好珍惜身边的人。这导致她在暴躁之后，会因为愧疚而感到消沉。
-请多给绯一些时间和理解吧，你最终能感受到那埋藏在心智深处的、不易被察觉的柔软与包容。
 @WEAP-CZ75-NAME=CZ-75手枪
-@WEAP-CZ75-DESC=CZ-75是一把捷克斯洛伐克于1975年列装的，使用填装9x19毫米帕弹的双排单进弹匣的单/双动式半自动手枪。\n双动设计和大容量弹匣的搭配使得CZ-75相较于同时代的其它手枪更具火力投射优势。
+@WEAP-CZ75-DESC=CZ-75是一把捷克斯洛伐克军方于1975年列装的，填装9x19毫米帕弹的，使用双排单进弹匣的单/双动式半自动手枪。\n双动设计和大容量弹匣的搭配使得CZ-75相较于同时代的其它手枪更具火力投射优势。
 
-@DOLL-AA12-DESC=诞生于临床试验的受试人形，凭借出众的射击能力和强劲的火力\n
+@DOLL-AA12-DESC=
+诞生于临床试验的受试人形，凭借出众的射击能力和强劲的火力\n
