@@ -12,9 +12,9 @@
 
 @GEAR-GIRLKICK-GUNMETAL-TTIP=破门而入!
 
-@GEAR-GIRLKICK-TITANIUM-TTIP=Strongest Kick of the NSU!
+@GEAR-GIRLKICK-TITANIUM-TTIP=新苏联第一大飞脚!
 
-@GEAR-GFL-LOCKPICK-TTIP=Unlock lock!
+@GEAR-GFL-LOCKPICK-TTIP=开锁!
 
 @support_gear_lockpick_name=开锁
 
@@ -85,8 +85,7 @@
 #
 
 @armor_gfl_recframe_name=16Lab服务型人形用素体
-@armor_recframe_desc=帕斯卡研发的人形素体，人形们在使用时可以获得更类人的活动能力，例如进食或其它类似的超出设计范畴的行为。\n这款素体并不提供任何额外防护，能保护火控核心的只有那层薄薄的人造皮肤——它提供的是比常规骨架高出20%的运动机能，这部分提升在特定的作战情景下非常有用。\n虽然如此，美玲十分不建议派遣使用此种素体的人形进入战场，因为缺少防护带来的风险几乎保证了人形回到艾莫号的唯一方式是让美玲通宵把人形的心智云图重新上传到一具新的素体里。\n\n
-Note: While the stats appear absurdly high, the extremely low coverage (10%) means hits will almost never be stopped in practice. Other frames offer far more reliable protection, trust me :)
+@armor_recframe_desc=帕斯卡研发的人形素体，人形们在使用时可以获得更类人的活动能力，例如进食或其它类似的超出设计范畴的行为。\n这款素体并不提供任何额外防护，能保护火控核心的只有那层薄薄的人造皮肤——它提供的是比常规骨架高出20%的运动机能，这部分提升在特定的作战情景下非常有用。\n虽然如此，美玲十分不建议派遣使用此种素体的人形进入战场，因为缺少防护带来的风险几乎保证了人形回到艾莫号的唯一方式是让美玲通宵把人形的心智云图重新上传到一具新的素体里。\n\n注意：虽然防护数值看着很可观，但防护面积实际上只有10%，导致这具素体防住子弹的概率基本上和第一个十连出不歪精英人形的概率一样大；非常建议使用其它更能防住子弹的素体，除非你喜欢玩一击必杀的硬核模式:)
 
 @armor_gfl_lawframe_name=警用人形素体Mk.II
 @armor_gfl_lawframe_desc=绿区和白区的安保/警用人形使用的素体，装有可提升12%运动机能的自润滑关节和藏于人造皮肤之下的防弹凝胶层，因此可在提升徒步追逐嫌犯能力的同时抵御小口径武器攻击。
@@ -296,15 +295,15 @@ Note: While the stats appear absurdly high, the extremely low coverage (10%) mea
 # Defy - Skins
 #
 
-@skin_ak15_default_name=White Mastiff's Fang
-@skin_ak15_default_desc=Voymastina's usual outfit. Its simple desgin has nothing in the way of personalization or decoration. It shows its true worth in battle, where it is like a sharp fang.
-@skin_ak15_skin1_name=Erwin
-@skin_ak15_skin1_desc="I'm sorry I can't blend in like a normal agent... But I can ensure your safety."\nShe Stands by your side, her keen gaze sweeping over everyone who could possibly be suspicious.
+@skin_ak15_default_name=白獒的利齿
+@skin_ak15_default_desc=威玛西娜的常见着装。\n简洁的设计没有任何多余装饰，犹如利齿在战斗时可发挥最优效能。
+@skin_ak15_skin1_name=艾尔文
+@skin_ak15_skin1_desc=“很抱歉，我无法作为一般职员融入但我绝对会保证您的安全。\n”她站在你的身边，锐利的眼神扫视着所有可疑的人员。
 
-@skin_an94_default_name=Hyper Trigger
-@skin_an94_default_desc=Alva's usual outfit. It's a highly professional special forces battle dress uniform that has next to no ornamentation or personalization, affording mobility and the ability to execute highly-demanding maneuvers in just about any environment.
-@skin_an94_skin1_name=Antje
-@skin_an94_skin1_desc="Commander, I'm not picking up any abnormailities in our surroundings. Currently, I am your assistant Antje... That's a name I didn't expect to be using again."\nDue to the demands of providing undercover close protection, she follows you closely, sticking much closer to you than usual.
+@skin_an94_default_name=人偶扳机
+@skin_an94_default_desc=埃芙的常见着装。\n几乎全无装饰性意义的专业特种作战制服，便于行动的同时具备在任何环境下高强度作战的功能。
+@skin_an94_skin1_name=安提娅
+@skin_an94_skin1_desc=“指挥官，周边无异常。我现在是您的助理，安提娅…真没想到我会再次用到这个名字。”\n出于乔装护卫的需要，她紧紧跟在你身边，贴得比平时更近。
 
 #
 # Defy - Doctrines
@@ -401,22 +400,22 @@ Note: While the stats appear absurdly high, the extremely low coverage (10%) mea
 # 404 - Skins
 #
 
-@skin_hk416_default_name=Blazing Star
-@skin_hk416_default_desc=Klukai's usual outfit. Her ultramarine jacket is the most eye-catching sight on the battlefield, but Klukai has never been afraid of being the center of her enemies' attention -- or rather, that was the aim of choosing her outfit in the first place.
-@skin_hk416_skin1_name=Speed Star
-@skin_hk416_skin1_desc=This is Klukai's riding outfit. Her pure white bodysuit hugs her lovely curves. Like a zephyr or a tempest, this shining knight extends and invitation to you. Mount up, ride out!
-@skin_hk416_skin2_name=Astral Luminous
-@skin_hk416_skin2_desc=Klukai's tactical rider outfit. It combines protective features with combat assisting capabilities, allowing Klukai to weave through the frontlines like a blue streak of lightning.
+@skin_hk416_default_name=灼目之星
+@skin_hk416_default_desc=可露凯的常见着装。\n群青色的外套是战场上最醒目的存在，可露凯从不惧怕成为敌人的焦点一一不如说，这才是她选择这件衣服的目的。
+@skin_hk416_skin1_name=速度之星
+@skin_hk416_skin1_desc=可露凯的骑手服。\n银白紧身衣勾勒出优美的轮廓。像是疾风或是雷霆，银芒四射的骑士向您发出邀约。上车，兜个风！
+@skin_hk416_skin2_name=星迹掠芒
+@skin_hk416_skin2_desc=可露凯的战术骑手服，兼具防护与作战功能，让可露凯犹如一道蓝色闪光在前线穿梭。
 
-@skin_ump45_default_name=Reasoned Gaze
-@skin_ump45_default_desc=Leva's typical outfit. Infusing her unique personaility into this outfit design which symbolizes rationality reflects how she walks a lonely path but never compromises her principles. This unique contradiction is where Leva's charm lies.
-@skin_ump45_skin1_name=Diamond Flower
-@skin_ump45_skin1_desc="I've taken part in many more parties than in the past. However, there's one that I've been looking forward to; I've never gotten an invite for it... So what are you waiting for, Commander~?"\nShe fixes you with her mirthful eyes, waiting for your answer.
+@skin_ump45_default_name=理性凝望
+@skin_ump45_default_desc=莱娅的常见着装。\n将独特的个性融入象征理性的制服设计之中，独行却不逾矩，这种矛盾对立的特质，正是莱娅独有的魅力。
+@skin_ump45_skin1_name=钻石之花
+@skin_ump45_skin1_desc=“和过去相比，我参加宴会的次数是越来越多了。不过，我最期待的那一场……至今都没有对我发起邀请啊，指挥官~”她带有笑意的眼眸紧盯着你，似乎在期待你的回答。
 
-@skin_vector_default_name=Concealment Gear
-@skin_vector_default_desc=Vector's usual outfit. The discreet color scheme allows her to easily hide traces of her activity, allowing Vector to perpetually gain an advantage by always staying ahead in combat.
-@skin_vector_skin1_name=Vivi Sometimes Hides Her Molotovs
-@skin_vector_skin1_desc="I know I still have much room for improvement, Commander. If you have any suggestions, please feel free to tell me."\nHer eyes are sincere as she meets your gaze, yet there's a hint of worry in them.
+@skin_vector_default_name=隐匿武装
+@skin_vector_default_desc=维克托的常见着装。\n低调的配色便于隐藏踪迹，让维克托总能在作战中掌握先机。
+@skin_vector_skin1_name=学府风尚
+@skin_vector_skin1_desc=“我仍然有许多需要提升的地方。指挥官，任何建议你都可以和我直说。”她看向你的眼神中满是诚恳，却还是隐约有些担忧。
 
 #
 # 404 - Doctrines
@@ -505,17 +504,17 @@ Note: While the stats appear absurdly high, the extremely low coverage (10%) mea
 # Cafe - Skins
 #
 
-@skin_m1903_default_name=Clean Military Uniform
-@skin_m1903_default_desc=Springfield's usual outfit. The elegant colors bring out the regal qualities of the outfit, subconsciously inducing those around Springfield to treat her with respect. Her warm smile however, dissipates any sense of awkwardness or need for formaility.
-@skin_m1903_skin1_name=Queen in Radiance
-@skin_m1903_skin1_desc=She is more dazzling and eye-catching than any jewel under the lamplight. A single gentle smile from her is neough to capture the gazes of everyone in front of her.
-@skin_m1903_skin2_name=Enjoy the Fragrance
-@skin_m1903_skin2_desc="It's been a tiring day, Commander. Would you like some coffee? The sweetness and the temperature are just the way you like them."\nShe's perfectly concocted the flavor you like, just like all the coffees from days gone by.
+@skin_m1903_default_name=耀洁戎装
+@skin_m1903_default_desc=春田的常见着装。\n典雅的配色尽显高贵，让周围人不禁对春田心生敬意，但她温暖的微笑，总能化解一切拘谨。
+@skin_m1903_skin1_name=灯火下的女王
+@skin_m1903_skin1_desc=灯火下的她，比任何宝石都要更加璀璨夺目，即便只是温柔的笑意，也足以占据眼前人的所有视线。
+@skin_m1903_skin2_name=静享芳醇
+@skin_m1903_skin2_desc=“辛苦了，指挥官，要来杯咖啡吗？无论是糖度还是温度…都是您最喜欢的那种哦。”\n如同过去时光里品尝过的每杯咖啡一样，她已经为你悉心调制好了最合适的口味。
 
-@skin_wa2000_default_name=Caramel Melody
-@skin_wa2000_default_desc=Makiatto's usual outfit. She rarely opens her violin case; it holds her most cherished weapon.
-@skin_wa2000_skin1_name=Ballroom Interlude
-@skin_wa2000_skin1_desc=This is the dress that Makiatto wears to the ball. Its simple style, adorned with a familiar ribbon, carries a secret hope--that her dance partner will finally take notice of her.
+@skin_wa2000_default_name=焦糖音律
+@skin_wa2000_default_desc=玛绮朵的常见着装。\n玛绮朵一般不打开她的琴盒一一毕竟放在盒子里的，是她最为珍惜的武器。
+@skin_wa2000_skin1_name=舞会休止符
+@skin_wa2000_skin1_desc=玛绮朵在舞会上穿着的礼服。\n素雅的款式配上了那条熟悉的缎带，想必玛绮朵一定是在暗自期待那位舞伴能够尽快发现自己吧。
 
 #
 # Cafe - Doctrines
@@ -608,10 +607,10 @@ Note: While the stats appear absurdly high, the extremely low coverage (10%) mea
 # Groza - Skins
 #
 
-@skin_ots14_default_name=Blade's Aegis
-@skin_ots14_default_desc=Groza typically wears a white trench coat that carries the flames of battle, serving as the beacon for the team's advance.
-@skin_ots14_skin1_name=Dawn of Battle
-@skin_ots14_skin1_desc=The outfit Groza likes to wear when participating in important battles is adorned with falling stars along the hem. When the stars face and daybreak arrives, it marks the moment of victory.
+@skin_ots14_default_name=白夜凛锋
+@skin_ots14_default_desc=闪电的常见着装。\n白色的风衣裹挟战火，成为小队前进的道标。
+@skin_ots14_skin1_name=黎明战役
+@skin_ots14_skin1_desc=闪电参与重要的作战时喜欢穿的服装，下摆上点缀着坠落的星。\n当星星消隐，黎明来临，便是宣告胜利的时刻。
 
 #
 # Groza - Doctrines
@@ -715,10 +714,10 @@ Note: While the stats appear absurdly high, the extremely low coverage (10%) mea
 # ElmoC - Skins
 #
 
-@skin_pkpsp_default_name=Dual Hunter
-@skin_pkpsp_default_desc=Peritya's typical outfit. The distinct footwear design enhances her agility.
-@skin_pkpsp_skin1_name=Born Huntress
-@skin_pkpsp_skin1_desc=Peritya's sportswear. Light, slim-fitting and doused in bright, showy colors, it adds a touch of liveliness and energy to the otherwise languid Peritya.
+@skin_pkpsp_default_name=二重猎手
+@skin_pkpsp_default_desc=佩里缇亚的常见着装。特殊的足部设计让她更加灵巧。
+@skin_pkpsp_skin1_name=天生猎手
+@skin_pkpsp_skin1_desc=佩里缇亚的运动服，轻便、修身，色彩鲜艳张扬，为慵懒的佩里缇亚增添了一丝轻快与活力。
 
 #
 # ElmoC - Doctrines
@@ -798,10 +797,11 @@ Note: While the stats appear absurdly high, the extremely low coverage (10%) mea
 # Frostfall - Skins
 #
 
-@skin_akalfa_default_name=Grey Meteor
-@skin_akalfa_default_desc=Tololo usually wears a distincitve outfit, always carrying guns and cameras.
-@skin_akalfa_skin1_name=Horizon Cruise
-@skin_akalfa_skin1_desc="The course to the heavens is fixed, but as long as you look up, you'll always be able to find a new direction... Commander, will you search for the way with me?"\nThere's no need for words; her crystal-clear gaze is an offer you can't refuse.
+@skin_akalfa_default_name=灰域流星
+@skin_akalfa_default_desc=托洛洛的常见着装。\n枪与相机，是无论何时都会携带的物品。
+@skin_akalfa_skin1_name=晴空巡航
+@skin_akalfa_skin1_desc=“通往晴空的航线是固定的，但只要抬头仰
+望，就总能找到新的方向……指挥官，你愿意陪我一同去寻找吗？”\n无需多余的言语，她澄澈的目光就是你无法拒绝的理由。
 
 #
 # Frostfall - Doctrines
@@ -868,41 +868,55 @@ Note: While the stats appear absurdly high, the extremely low coverage (10%) mea
 @WEAP-CZ75-DESC=CZ-75是一款捷克斯洛伐克军方于1975年列装的，填装9x19毫米帕弹的，使用双排单进弹匣的单/双动式半自动手枪。\n\n双动设计和大容量弹匣的搭配使得CZ-75相较于同时代的其它手枪更具火力投射优势。
 
 #
+# POL03 - Units
+#
+
+@GFL-UNIT-POL03-NAME=POL-03治安管理部门
+@GFL-UNIT-POL03-DESC=绿区卫星城POL-03的治安力量，警队内有着很多先前在格里芬工作的人形。
+@#GFL-UNIT-POL03-NAME-RND=POL-03治安管理部门
+
+#
 # POL03 - Dolls
 #
 
-@GFL-UNIT-POL03-NAME=POL-03 Security Divisions
-@GFL-UNIT-POL03-DESC=The police forces of the POL-03 Green Zone, who employed many of several former Griffin Dolls.
-@#GFL-UNIT-POL03-NAME-RND=POL-03 Security Divisions
+@DOLL-STECHKIN-NAME=科谢尼娅
+@DOLL-STECHKIN-DESC=对赚钱有着异常执念的人形。努力赚钱再通通花掉，这种行为就是\n她安全感的来源。但与可靠的伙伴们一起工作的时光，同样是她的珍宝。
+@WEAP-STECHKIN-NAME=斯捷奇金冲锋手枪
+@WEAP-STECHKIN-DESC=
+A select-fire machine pistol from the Soviet era, the Stechkin was issued to officers and vehicle crews who needed something hotter than the standard Makarov.\n\n20 rounds of 9x18mm and the option to go full auto makes this a surprisingly mean sidearm, but keep the bursts short or the muzzle climbs fast.
 
-@DOLL-STECHKIN-NAME=KSENIA
-@DOLL-STECHKIN-DESC=A Doll with an unusual obsession with making money, she finds a sense of security by working hard to earn it and then spending it all. However, the time she spends working with her reliable companions is equally her treasure.
+@DOLL-NAGANT-NAME=纳甘
+@DOLL-NAGANT-DESC=喜欢故作成熟的人形。仰慕英雄、想要成为英雄。即使离开战场，她也要作为治安人形继续发光发热。被她守护的居民们，享受着每一个宁静的夜晚。
+@WEAP-NAGANT-NAME=纳甘M1895左轮手枪
+@WEAP-NAGANT-DESC=
+Old as dirt and twice as reliable. The Nagant's gas-seal cylinder pushes forward on firing, closing the barrel gap — making it one of the only revolvers that actually works suppressed.\n\nSeven rounds, slow to reload through the loading gate. Pick your shots.
 
-@DOLL-NAGANT-NAME=NAGANT
-@DOLL-NAGANT-DESC=A Doll who likes to play the mature grown-up, but looks up to heroes and also aspires to be one. Even after leaving the battlefield, she continues to shine as a security Doll, ensuring peaceful nights.
+@DOLL-MOSINNAGANT-NAME=莫辛纳甘
+@DOLL-MOSINNAGANT-DESC=
+A Doll who loves to help others and strives to improve her negative mindset. Her motto is to never avoid challenges; once motivated, she gives her all. While negative thoughts may linger in her neural cloud, her radiant smile and enthusiastic actions surely inspire many of her companions.
+@WEAP-MOSINNAGANT-NAME=莫辛-纳甘步枪
+@WEAP-MOSINNAGANT-DESC=
+The Russian Empire's bolt-action workhorse, still dropping Tangos after 130 years of service. Chambers the full-power 7.62x54mmR round.\n\nSlow to cycle, but one good hit from this thing and the conversation is over. Set up in a cover position and work the bolt.
 
-@DOLL-MOSINNAGANT-NAME=MOSIN-NAGANT
-@DOLL-MOSINNAGANT-DESC=A Doll who loves to help others and strives to improve her negative mindset. Her motto is to never avoid challenges; once motivated, she gives her all. While negative thoughts may linger in her neural cloud, her radiant smile and enthusiastic actions surely inspire many of her companions.
+@DOLL-PPSH41-NAME=波波沙
+@DOLL-PPSH41-DESC=
+A warm-hearted Doll who doesn't know how to say "no", she has become a versatile helper through self-study in order to better handle any request. She is willing to give everything to protect everyone. When you encounter difficulties, feel free to rely on herーno matter what it is, Papasha will make it happen!
+@WEAP-PPSH41-NAME=PPSh-41冲锋枪
+@WEAP-PPSH41-DESC=
+Wartime Soviet SMG built from stamped steel and bad intentions. The 71-round drum and ~900 RPM cyclic rate make it a room-clearing monster.\n\n7.62x25mm Tokarev has some punch to it, but practical accuracy drops off fast. Get close, hold the trigger, and let the drum do the talking.
+
+#
+# POL03 - Skins
+#
 
 @skin_mosinnagant_default_name=Frost Field Snow Owl
 @skin_mosinnagant_default_desc=Mosin-Nagant's outfit features a fur-lined coat and warm gloves, paired with a Northern Mule in the bitter winter--it's the perfect combo.
 @skin_mosinnagant_skin1_name=Siberian Slide
 @skin_mosinnagant_skin1_desc="The challenges I've faced are like flakes of falling snow... I crunch them underfoot and move on."\nIn her eyes which are fixed on you, there has never been a pall of despair; only a quiet zest for life.
 
-@DOLL-PPSH41-NAME=PAPASHA
-@DOLL-PPSH41-DESC=A warm-hearted Doll who doesn't know how to say "no", she has become a versatile helper through self-study in order to better handle any request. She is willing to give everything to protect everyone. When you encounter difficulties, feel free to rely on herーno matter what it is, Papasha will make it happen!
-
-@WEAP-STECHKIN-NAME=Stechkin APS
-@WEAP-STECHKIN-DESC=A select-fire machine pistol from the Soviet era, the Stechkin was issued to officers and vehicle crews who needed something hotter than the standard Makarov.\n\n20 rounds of 9x18mm and the option to go full auto makes this a surprisingly mean sidearm, but keep the bursts short or the muzzle climbs fast.
-
-@WEAP-NAGANT-NAME=Nagant M1895
-@WEAP-NAGANT-DESC=Old as dirt and twice as reliable. The Nagant's gas-seal cylinder pushes forward on firing, closing the barrel gap — making it one of the only revolvers that actually works suppressed.\n\nSeven rounds, slow to reload through the loading gate. Pick your shots.
-
-@WEAP-MOSINNAGANT-NAME=Mosin-Nagant
-@WEAP-MOSINNAGANT-DESC=The Russian Empire's bolt-action workhorse, still dropping Tangos after 130 years of service. Chambers the full-power 7.62x54mmR round.\n\nSlow to cycle, but one good hit from this thing and the conversation is over. Set up in a cover position and work the bolt.
-
-@WEAP-PPSH41-NAME=PPSh-41
-@WEAP-PPSH41-DESC=Wartime Soviet SMG built from stamped steel and bad intentions. The 71-round drum and ~900 RPM cyclic rate make it a room-clearing monster.\n\n7.62x25mm Tokarev has some punch to it, but practical accuracy drops off fast. Get close, hold the trigger, and let the drum do the talking.
+#
+# POL03 - Ammo
+#
 
 @firearm_caliber_762x38_name=7.62×38mmR
 @ammo_762x38_fmj_nagant_name=7.62x38mmR FMJ
