@@ -882,37 +882,31 @@
 @DOLL-STECHKIN-NAME=科谢尼娅
 @DOLL-STECHKIN-DESC=对赚钱有着异常执念的人形。努力赚钱再通通花掉，这种行为就是\n她安全感的来源。但与可靠的伙伴们一起工作的时光，同样是她的珍宝。
 @WEAP-STECHKIN-NAME=斯捷奇金冲锋手枪
-@WEAP-STECHKIN-DESC=
-A select-fire machine pistol from the Soviet era, the Stechkin was issued to officers and vehicle crews who needed something hotter than the standard Makarov.\n\n20 rounds of 9x18mm and the option to go full auto makes this a surprisingly mean sidearm, but keep the bursts short or the muzzle climbs fast.
+@WEAP-STECHKIN-DESC=斯捷奇金是一款苏联时代的全自动冲锋手枪，主要配发给需要强大火力的军官和车组乘员。\n\n20发弹匣和全自动开火的功能使得这把手枪有着不错的压制力，但使用者要是一直扣住扳机的话，后坐力很快就会让瞄准点上升到防空高度了。
 
 @DOLL-NAGANT-NAME=纳甘
-@DOLL-NAGANT-DESC=喜欢故作成熟的人形。仰慕英雄、想要成为英雄。即使离开战场，她也要作为治安人形继续发光发热。被她守护的居民们，享受着每一个宁静的夜晚。
-@WEAP-NAGANT-NAME=纳甘M1895左轮手枪
-@WEAP-NAGANT-DESC=
-Old as dirt and twice as reliable. The Nagant's gas-seal cylinder pushes forward on firing, closing the barrel gap — making it one of the only revolvers that actually works suppressed.\n\nSeven rounds, slow to reload through the loading gate. Pick your shots.
+@DOLL-NAGANT-DESC=喜欢故作成熟的人形。仰慕英雄、想要成为英雄。即使离开战场，\n她也要作为治安人形继续发光发热。被她守护的居民们，享受着\n每一个宁静的夜晚。
+@WEAP-NAGANT-NAME=纳甘M1895转轮手枪
+@WEAP-NAGANT-DESC=虽旧如文物，但无比可靠。纳甘独特的闭气式弹巢会在发射时前移靠近枪管，使该枪成为了唯一一种可以消音发射的转轮手枪。\n\n使用闭气式弹巢的代价就是该枪的装弹过程极其漫长，使用者必须确保弹巢中的七发子弹都能精准命中目标。
 
 @DOLL-MOSINNAGANT-NAME=莫辛纳甘
-@DOLL-MOSINNAGANT-DESC=
-A Doll who loves to help others and strives to improve her negative mindset. Her motto is to never avoid challenges; once motivated, she gives her all. While negative thoughts may linger in her neural cloud, her radiant smile and enthusiastic actions surely inspire many of her companions.
+@DOLL-MOSINNAGANT-DESC=乐于助人、努力改善着消极心态的人形。绝不逃避是她的准则，\n打起精神就会全力以赴。心智里或许还藏着消极的念头，但她\n开朗的笑容与热心的行动，一定也鼓舞了不少同伴吧。
 @WEAP-MOSINNAGANT-NAME=莫辛-纳甘步枪
-@WEAP-MOSINNAGANT-DESC=
-The Russian Empire's bolt-action workhorse, still dropping Tangos after 130 years of service. Chambers the full-power 7.62x54mmR round.\n\nSlow to cycle, but one good hit from this thing and the conversation is over. Set up in a cover position and work the bolt.
+@WEAP-MOSINNAGANT-DESC=俄罗斯帝国军队的主力步枪，填装着大威力的7.62x54mm口径凸缘弹，其在一个世纪之后的今天仍在世界各地发光发热。\n\n虽然实际射速很慢，但一发精准的射击可以解决大部分问题，因此莫辛-纳甘步枪最好的使用方法就是找个不错的掩体，然后开始拉大栓。
 
 @DOLL-PPSH41-NAME=波波沙
-@DOLL-PPSH41-DESC=
-A warm-hearted Doll who doesn't know how to say "no", she has become a versatile helper through self-study in order to better handle any request. She is willing to give everything to protect everyone. When you encounter difficulties, feel free to rely on herーno matter what it is, Papasha will make it happen!
+@DOLL-PPSH41-DESC=不懂得拒绝的热心人形，自学成了万能帮手，以更好对待每个请求。\n为了守护好大家，她愿意奉献一切。遇到困难就尽情依靠她吧，\n无论是什么，波波沙都一定会做到的！
 @WEAP-PPSH41-NAME=PPSh-41冲锋枪
-@WEAP-PPSH41-DESC=
-Wartime Soviet SMG built from stamped steel and bad intentions. The 71-round drum and ~900 RPM cyclic rate make it a room-clearing monster.\n\n7.62x25mm Tokarev has some punch to it, but practical accuracy drops off fast. Get close, hold the trigger, and let the drum do the talking.
+@WEAP-PPSH41-DESC=苏联为战时状态设计的一款冲锋枪，即便在生产状况恶劣、材料质量低下的情况下也能顺利制造。\n\n71发弹鼓、每分钟900发射速和7.62x25mm托弹的三重组合使这把枪极其适合清房行动，但持续的泼水会让精度快速下降——说是这么说，直接把枪管塞到敌人的嘴里，闭眼扣住扳机就没有精度问题了。
 
 #
 # POL03 - Skins
 #
 
-@skin_mosinnagant_default_name=Frost Field Snow Owl
-@skin_mosinnagant_default_desc=Mosin-Nagant's outfit features a fur-lined coat and warm gloves, paired with a Northern Mule in the bitter winter--it's the perfect combo.
-@skin_mosinnagant_skin1_name=Siberian Slide
-@skin_mosinnagant_skin1_desc="The challenges I've faced are like flakes of falling snow... I crunch them underfoot and move on."\nIn her eyes which are fixed on you, there has never been a pall of despair; only a quiet zest for life.
+@skin_mosinnagant_default_name=凌原雪鸮
+@skin_mosinnagant_default_desc=莫辛纳甘的常见着装。\n加绒大衣和保暖手套，再加上凛冽寒冬里的一杯北地骡子，堪称绝配。
+@skin_mosinnagant_skin1_name=御雪凌霜
+@skin_mosinnagant_skin1_desc=“我所经历过的困难，如落雪寒霜…不过尔尔。”她看向你的眼神中，从未有过阴霾，唯有对生活的淡然。
 
 #
 # POL03 - Ammo
@@ -920,18 +914,18 @@ Wartime Soviet SMG built from stamped steel and bad intentions. The 71-round dru
 
 @firearm_caliber_762x38_name=7.62×38mmR
 @ammo_762x38_fmj_nagant_name=7.62x38mmR FMJ
-@ammo_762x38_fmj_nagant_desc=Standard 7.62x38mmR ammunition for the Nagant M1895's gas-seal cylinder. The recessed bullet allows the cylinder to seal against the barrel, making suppressed fire viable.
+@ammo_762x38_fmj_nagant_desc=标配的7.62×38mmR弹药，适配纳甘的闭气式弹巢。\n\n弹药的埋头设计使弹巢在发射时得以靠近枪管，让消音射击成为了一种可能。
 
 @firearm_caliber_9x18_name=9×18mm
 @ammo_9x18_jhp_stechkin_name=9x18mm JHP +P
-@ammo_9x18_jhp_stechkin_desc=Overpressure hollow-point 9x18mm rounds. The +P loading compensates for the cartridge's lower energy compared to 9x19mm, expanding on impact for increased damage against soft targets at close range.
+@ammo_9x18_jhp_stechkin_desc=9x18mm口径超压空尖弹，其高压装药弥补了弹头原本初速不足的问题，使其在面对近距离的软目标时能有更高的杀伤力。
 
-@firearm_caliber_762x25_name=7.62×25mm Tokarev
+@firearm_caliber_762x25_name=7.62×25mm托卡列夫弹
 @ammo_762x25_fmj_ppsh41_name=7.62x25mm FMJ
-@ammo_762x25_fmj_ppsh41_desc=High-velocity bottleneck pistol cartridge for submachine guns. The small, fast bullet has surprising penetration for its size but bleeds energy quickly at range.
+@ammo_762x25_fmj_ppsh41_desc=适用于冲锋枪的高初速小口径弹药，装药量虽少，但其弹头的高初速特征使其穿透力颇高，但其存能在飞行十数米后便消失殆尽。
 
 @ammo_762x54r_fmj_mosinnagant_name=7.62x54mmR FMJ
-@ammo_762x54r_fmj_mosinnagant_desc=Full-power 7.62x54mmR rifle cartridge for bolt-action precision work. Devastating at range with excellent penetration against all but the heaviest armour.
+@ammo_762x54r_fmj_mosinnagant_desc=用于精确射击的7.62x54mmR全威力步枪弹，可以轻易击穿大部分防弹衣——除开无畏战士同款的护甲。
 
 
 
